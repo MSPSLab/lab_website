@@ -1,0 +1,44 @@
+---
+layout: default
+title: Marine Self-Powered System Lab / papers
+categories:
+- papers
+---
+
+<div class="row">
+	<div class="col-md-12 title-box">
+		<h1 class="page-title">Publications</h1>
+	</div>
+</div>
+<!-- <div class="row">
+	<div class="col-md-12">
+		<div class="smallhead">
+			<p>Our publications are also archived <a href="https://github.com//papers">here</a> and <a
+					href="https://scholar.google.com/citations?hl=en&user=">Google Scholar</a>.</p>
+		</div>
+	</div>
+</div> -->
+{% assign counter = site.categories.papers.size | plus:1 %}
+{% for paper in site.categories.papers %}
+{% cycle 'add rows': '<div class="row">', '', '' %}
+<div class="col-md-4 col-xs-12 paperbox">
+	<div class="media equalCard">
+		<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 hidden-sm hidden-xs">
+			<a class="pull-right" href="{{ paper.url }}">
+				<img width=100 class="media-object" src="{{ paper.image }}">
+			</a>
+			</div>
+	
+			<div class="media-body">
+				{% assign counter = counter | minus:1 %}
+				<h2 class="media-heading"><a href="{{ paper.url }}"> {{ counter }}. {{ paper.title }}</a></h2>
+				<span class="smallnote">{{ paper.ref }}</span>
+			</div>
+
+	</div>
+</div>
+
+
+{% cycle 'close rows': '', '', '</div>' %}
+{% endfor %}
+{% cycle 'close rows': '', '</div>', '</div>' %}

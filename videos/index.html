@@ -1,0 +1,35 @@
+---
+layout: default
+title: Marine Self-Powered System Lab / Media
+categories:
+- videos
+---
+
+<!-- masonry plugin -->
+<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+<script>
+	$(function () {
+		$('.masonry').masonry({
+			itemSelector: '.item'
+		});
+	});
+</script>
+<!-- solve picture overlap, add imagesLoaded -->
+<script src="http://desandro.github.io/imagesloaded/imagesloaded.pkgd.min.js"></script>
+<script>
+	$(function () {
+		var $container = $('.masonry');
+		$container.imagesLoaded(function () {
+			$container.masonry({
+				itemSelector: '.item'
+			});
+		});
+	});
+</script>
+<div class="row masonry">
+	<div class="col-lg-4 col-sm-6 item">
+		<img src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/others/王中林报告合影.jpg">
+	</div>
+
+</div>
+<div class="bigspacer"></div>

@@ -1,0 +1,30 @@
+---
+layout: default
+title: Marine Self-Powered System Lab / videos / archive
+categories:
+- videos
+---
+
+{% include videos-header.html archive="active" %}
+
+
+{% for video in site.categories.videos %}
+
+{% cycle 'add rows': '<div class="row">', '', '' %}
+
+<div class="col-md-4 col-xs-12 paperbox">
+	<div class="media equalCard">
+		<a class="pull-right" href="{{ video.url }}">
+				<img class="media-object" src="http://img.youtube.com/vi/{{video.youtubeId}}/1.jpg">
+		</a>
+	<a class="pull-right" href="{{ video.url }}">
+	
+	<div class="media-body">
+		<h4 class="media-heading"><a href="{{ video.url }}">{{ video.conference }}: {{ video.title }}</a></h4>
+	</div>
+	</div>
+</div>
+
+{% cycle 'close rows': '', '', '</div>' %}
+{% endfor %}
+{% cycle 'close rows': '', '</div>', '</div>' %}
