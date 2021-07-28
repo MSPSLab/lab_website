@@ -1,1 +1,1 @@
-🌊此为实验室网站上的代码仓库，使用netlify进行deploy
+🌊此为实验室网站的代码仓库，使用netlify进行deploy
