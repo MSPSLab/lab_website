@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Haichao Yuan
-position: Associate Professor
+position: Lecturer 
 handle: Haichao Yuan
 email: 
 twitter: 
