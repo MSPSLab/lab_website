@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Large eddy simulations of a circular orifice jet with and without a cross-sectional exit plate
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Large-eddy-simulations-of.png.png"
+image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Large-eddy-simulations-of.png"
 authors: Zhang Jianpeng; Xu Minyi; Mi Jianchun*
 year: 2014
 ref: Zhang Jianpeng. et al. 2014. Chinese Phys. B.
