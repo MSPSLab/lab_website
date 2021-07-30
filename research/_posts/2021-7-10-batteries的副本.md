@@ -1,8 +1,8 @@
 ---
-layout: post
-title: Multivalent Batteries (Sample content)
+layout: research
+title: Multivalent Batteries (演示内容)
 author: MSPS Lab
-image: /images/research/2019-10-26_Multivalent_batteries.png
+image: https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Effects-of-external-intermittency.png
 ---
 
 Energy storage technologies are key for a clean energy economy but currently are in need of considerable advancements in energy density beyond the metrics of commercial Li-ion batteries.
@@ -11,7 +11,7 @@ The rapidly expanding field of nonaqueous multivalent intercalation batteries of
 <br>
 
 <p style="text-align:center;">
-<img class="center-block" style="margin:auto;" src="/images/research/Mgbatteries.jpeg" alt="Publications on Multivalent Batteries"/>
+<img class="center-block" style="margin:auto;" src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Digital-filter-for.png" alt="Publications on Multivalent Batteries"/>
 <b>Figure 1</b> - Number of publications from 1985 until 2015 featuring multivalent electrochemistry.<sup><a href="https://doi.org/10.1021/acs.chemrev.6b00614">[1]</a></sup>
 </p>
 

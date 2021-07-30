@@ -73,19 +73,19 @@
 							{% endif %}
 							<a href="/team/">Team</a>
 						</li>
-						{% if page.categories.first == 'blog' %}
-						<li class="active">
-							{% else %}
-						<li>
-							{% endif %}
-							<a href="/blog/">Blogs</a>
-						</li>
 						{% if page.categories.first == 'papers' %}
 						<li class="active">
 							{% else %}
 						<li>
 							{% endif %}
 							<a href="/papers/">Publications</a>
+						</li>
+						{% if page.categories.first == 'blog' %}
+						<li class="active">
+							{% else %}
+						<li>
+							{% endif %}
+							<a href="/blog/">Blogs</a>
 						</li>
 						{% if page.categories.first == 'videos' %}
 						<li class="active">
