@@ -45,6 +45,7 @@ exclude:
   - "*.tiff"
   - "Gemfile"
   - "Gemfile.lock"
+  - "vendor"
 
 plugins:
   - jekyll-sitemap
