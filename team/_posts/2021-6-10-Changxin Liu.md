@@ -8,7 +8,7 @@ twitter:
 github: 
 scholar:
 orcid: 
-image: /images/team/
+image: /images/team/liuchangxin.png
 cv: 
 ---
 

@@ -3,7 +3,7 @@ layout: member
 title: Xinyu Wang
 position: ME student
 handle: Xinyu Wang
-email: 1
+email: 
 twitter: 
 github: 
 scholar:
