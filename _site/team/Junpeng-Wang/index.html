@@ -63,6 +63,7 @@
 	body {
 		top: 0 !important;
 	}
+
 	.goog-te-banner-frame {
 		display: none
 	}
@@ -244,6 +245,14 @@
 
 				<div class="colophon">
 
+					<!--动态打字，未启用
+						 <div class="footer-banner-left">
+						<div id="footer-banner-tips">用行动去思考，去改变、去创造。</div><span class="typed-cursor typed-cursor--blink"
+							aria-hidden="true">|</span>
+					</div>
+					<script src="https://cdn.jsdelivr.net/npm/typed.js/lib/typed.min.js"></script>
+					<script>var typed=new Typed("#footer-banner-tips",{strings:["用行动去思考，去改变、去创造。","Take action to think, to change, to create."],startDelay:200,backDelay:2e3,typeSpeed:100,loop:!0,backSpeed:20})</script>
+					 -->
 					<p>
 						Powered By:    
 					</p>
@@ -294,12 +303,13 @@
 				</div>
 
 				<p class="colophon_trans footerstatus hidden-sm hidden-xs" style="margin-bottom: -30px;">
-					<a id="qrcode" tyle="max-width:100%; float: none;" height="50px" width="50px"></a>
-				</p>
+					</p>
+<div id="qrcode" tyle="max-width:100%; float: none;" height="50px" width="50px"></div>
+				
 
 			</div>
 		</footer>
-
+		
 		<script>
 			var resourcesUrl = '';
 			// var allLanguage = 'en,zh-CN,zh-TW,fr,de,it,ja,ko,ru'.split(',');
@@ -326,7 +336,7 @@
 				);
 			}
 		</script>
-		<script src="js/element.js?cb=googleTranslateElementInit"></script>
+		<script src="/js/element.js?cb=googleTranslateElementInit"></script>
 
 		<!--https://practical-euclid-f7ff6c.netlify.app/-->
 
