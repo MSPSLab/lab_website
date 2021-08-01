@@ -8,6 +8,7 @@ ref: Jinhong Feng. et al. 2020. J Supercomput.
 journal: "The Journal of Supercomputing volume 76, pages876–896"
 pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/10.1007@s11227-019-03044-9.pdf"
 doi: 10.1007/s11227-019-03044-9
+type: journal
 ---
 
 # Abstract

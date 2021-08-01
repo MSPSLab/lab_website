@@ -8,6 +8,7 @@ ref: F. Wang. et al. 2015. Int. J. Hydrog. Energy.
 journal: "International Journal of Hydrogen Energy, Volume 40, Issue 46, Pages 16634-16648, ISSN 0360-3199"
 pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/wang2015.pdf"
 doi: 10.1016/j.ijhydene.2015.09.047
+type: journal
 ---
 
 # Abstract

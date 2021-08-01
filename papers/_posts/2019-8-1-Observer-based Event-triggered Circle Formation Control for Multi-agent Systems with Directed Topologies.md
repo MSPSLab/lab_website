@@ -8,6 +8,7 @@ ref: Peng Xu. et al. 2019. ICICIP.
 journal: "2019 Tenth International Conference on Intelligent Control and Information Processing (ICICIP), pp. 239-245"
 pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/Observer-based_Event-triggered_Circle_Formation_Control_for_Multi-agent_Systems_with_Directed_Topologies.pdf"
 doi: 10.1109/ICICIP47338.2019.9012168
+type: conference
 ---
 
 # Abstract

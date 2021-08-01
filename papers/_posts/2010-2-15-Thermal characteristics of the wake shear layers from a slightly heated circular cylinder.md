@@ -8,6 +8,7 @@ ref: J. Mi. et al. 2011. Exp Fluids.
 journal: "Experiments in Fluids, volume 50, pages429–441"
 pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/mi2010.pdf"
 doi: 10.1007/s00348-010-0944-7
+type: journal
 ---
 
 # Abstract

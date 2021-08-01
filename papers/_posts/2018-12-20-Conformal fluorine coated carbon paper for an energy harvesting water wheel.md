@@ -8,6 +8,7 @@ ref: Dongyue Jiang. et al. 2019. Nano Energy.
 journal: "Nano Energy, Volume 58, Pages 842-851, ISSN 2211-2855"
 pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/jiang2019.pdf"
 doi: 10.1016/j.nanoen.2019.01.083
+type: journal
 ---
 
 # Abstract

@@ -8,6 +8,7 @@ ref: Chuan Wang. et al. 2019. Expert Syst. Appl.
 journal: "Expert Systems with Applications, Volume 123, Pages 54-69, ISSN 0957-4174 "
 pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/wang2019.pdf"
 doi: 10.1016/j.eswa.2019.01.035
+type: journal
 ---
 
 # Abstract

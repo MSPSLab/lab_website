@@ -8,6 +8,7 @@ ref: Xu Minyi. et al. 2014. Chinese Phys. B.
 journal: "Chinese Physics B, 23 124703"
 pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/xu2014.pdf"
 doi: 10.1088/1674-1056/23/12/124703
+type: journal
 ---
 
 # Abstract

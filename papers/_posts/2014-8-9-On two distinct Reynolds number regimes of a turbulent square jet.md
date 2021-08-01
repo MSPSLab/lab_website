@@ -8,6 +8,7 @@ ref: Minyi Xu. et al. 2015. Theor. App. Mech. Lett.
 journal: "Theoretical and Applied Mechanics Letters, Volume 5, Issue 3, Pages 117-120, ISSN 2095-0349"
 pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/xu2015.pdf"
 doi: 10.1016/j.taml.2015.04.001
+type: journal
 ---
 
 # Abstract

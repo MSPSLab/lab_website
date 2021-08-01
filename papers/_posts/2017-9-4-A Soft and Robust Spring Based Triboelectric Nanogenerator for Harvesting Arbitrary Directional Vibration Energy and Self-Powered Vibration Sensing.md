@@ -8,6 +8,7 @@ ref: Minyi Xu. et al. 2018. Adv. Energy Mater.
 journal: "Advanced Energy Materials, 8(9), 1702432."
 pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/xu2017.pdf"
 doi: 10.1002/aenm.201702432
+type: journal
 ---
 
 # Abstract

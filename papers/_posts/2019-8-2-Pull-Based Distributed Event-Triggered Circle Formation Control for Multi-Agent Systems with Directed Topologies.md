@@ -8,6 +8,7 @@ ref: Peng Xu. et al. 2019. Appl. Sci.
 journal: "Applied Sciences 9, no. 23: 4995"
 pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/applsci-09-04995-v3.pdf"
 doi: 10.3390/app9234995
+type: journal
 ---
 
 # Abstract

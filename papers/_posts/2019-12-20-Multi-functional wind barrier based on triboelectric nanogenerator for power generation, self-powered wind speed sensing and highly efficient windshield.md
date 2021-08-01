@@ -8,6 +8,7 @@ ref: Yan Wang. et al. 2020. Nano Energy.
 journal: "Nano Energy, Volume 73, 104736, ISSN 2211-2855"
 pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/wang2020_2.pdf"
 doi: 10.1016/j.nanoen.2020.104736
+type: journal
 ---
 
 # Abstract

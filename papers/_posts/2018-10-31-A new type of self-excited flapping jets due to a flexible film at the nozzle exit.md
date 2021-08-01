@@ -8,6 +8,7 @@ ref: M. Xu. et al. 2019. Exp. Therm. Fluid Sci.
 journal: "Experimental Thermal and Fluid Science, Volume 106, Pages 226-233, ISSN 0894-1777"
 pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/xu2019_2.pdf"
 doi: 10.1016/j.expthermflusci.2019.04.031
+type: journal
 ---
 
 # Abstract

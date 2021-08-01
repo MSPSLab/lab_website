@@ -8,6 +8,7 @@ ref: Xu He. et al. 2018. Adv. Funct. Mater.
 journal: "Advanced Functional Materials, 28, 1805540"
 pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/he2018.pdf"
 doi: 10.1002/adfm.201805540
+type: journal
 ---
 
 # Abstract

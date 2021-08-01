@@ -8,6 +8,7 @@ ref: Zhang Jianpeng. et al. 2014. Chinese Phys. B.
 journal: "Chinese Physics B, 23 044704"
 pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/zhang2014.pdf"
 doi: 10.1088/1674-1056/23/4/044704
+type: journal
 ---
 
 # Abstract

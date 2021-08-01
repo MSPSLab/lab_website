@@ -8,6 +8,7 @@ ref: Jie An. et al. 2020. Materials Today.
 journal: "Materials Today, Volume 41, Pages 10-20, ISSN 1369-7021"
 pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/an2020.pdf"
 doi: j.mattod.2020.06.003
+type: journal
 ---
 
 # Abstract

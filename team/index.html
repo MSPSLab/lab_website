@@ -5,21 +5,14 @@ categories:
 - team
 ---
 
-<div class="row">
-	<div class="col-md-12">
-		<h1 class="page-title">Team members</h1>
-		<h5>
-			Sort by A - Z of surname initial letter in each position group.
-		</h5>
-	</div>
-</div>
-<!-- <div class="row">
-	<div class="col-md-12">
-		<h1 class="page-title">
-		Alumni	
-		</h1>
-	</div>
-</div> -->
+
+
+
+{% include team-header.html all="active" %}
+<!-- <h5>
+	Sort by A - Z of surname initial letter in each position group.
+</h5> -->
+
 {% for member in site.categories.team reversed %}
 {% if member.position == "Professor" %}
 <div class="col-md-4 memberbox">

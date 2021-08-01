@@ -8,6 +8,7 @@ ref: Du, Taili. et al. 2021. Micromachines.
 journal: "Micromachines, 12, 218"
 pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/micromachines-12-00218-v2.pdf"
 doi: 10.3390/mi12020218
+type: journal
 ---
 
 # Abstract

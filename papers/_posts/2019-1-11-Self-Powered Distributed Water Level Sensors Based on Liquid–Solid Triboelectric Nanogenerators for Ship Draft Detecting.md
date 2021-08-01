@@ -8,6 +8,7 @@ ref: Xiangqian Zhang. et al. 2019. Adv. Funct. Mater.
 journal: "Advanced Functional Materials 29, 1900327"
 pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/10.1002@adfm.201900327.pdf"
 doi: 10.1002/adfm.201900327
+type: journal
 ---
 
 # Abstract

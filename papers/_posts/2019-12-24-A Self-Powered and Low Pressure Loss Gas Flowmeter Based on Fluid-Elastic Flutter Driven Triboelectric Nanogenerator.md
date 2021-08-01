@@ -8,6 +8,7 @@ ref: Phan, Trung K. et al. 2020. Sensors.
 journal: "Sensors 20, no. 3: 729"
 pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/sensors-20-00729-v2.pdf"
 doi: 10.3390/s20030729
+type: journal
 ---
 
 # Abstract

@@ -8,6 +8,7 @@ ref: J. Zhang. et al. 2013. Phys. Rev. E.
 journal: "87, 053009"
 pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/zhang2013.pdf"
 doi: 10.1103/PhysRevE.87.053009
+type: journal
 ---
 
 # Abstract

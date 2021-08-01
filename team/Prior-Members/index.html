@@ -1,0 +1,42 @@
+---
+layout: default
+title: Marine Self-Powered System Lab / team / prior members
+categories:
+- research
+---
+
+
+{% include team-header.html prior-Members="active" %}
+<!-- <h5>
+	Sort by A - Z of surname initial letter in each position group.
+</h5> -->
+
+
+{% for member in site.categories.team reversed %}
+{% if member.position == "prior-Members" %}
+<div class="col-md-4 memberbox">
+	<div class="media">
+		{% if member.no_introduce == true %}
+		<a class="picture-link pull-left" href="">
+			<img width=100 class="profile-picture team-gallery-pic media-object" src="{{ member.image }}">
+		</a>
+		{% else %}
+		<a class="picture-link pull-left" href="{{ member.url }}">
+			<img width=100 class="profile-picture team-gallery-pic media-object" src="{{ member.image }}">
+		</a>
+		{% endif %}
+		<div class="media-body">
+			{% if member.no_introduce == true %}
+			<h3 class="head"><a href="" style="color: #3E978B;">{{ member.title }}</a></h3>
+			{% else %}
+			<h3 class="head"><a href="{{ member.url }}" style="color: #3E978B;">{{ member.title }}</a></h3>
+			{% endif %}
+			<p class="teamnote">{{ member.position }}</p>
+		</div>
+	</div>
+	<div class="bigspacer"></div>
+	<div class="bigspacer"></div>
+</div>
+{% endif %}
+{% endfor %}
+

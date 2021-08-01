@@ -8,6 +8,7 @@ ref: Xiu Xiao. et al. 2019. Adv. Energy Mater.
 journal: "Advanced Energy Materials, 9, 1902460."
 pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/xiao2019.pdf"
 doi: 10.1002/aenm.201902460
+type: journal
 ---
 
 # Abstract

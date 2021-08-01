@@ -8,6 +8,7 @@ ref: Xiu Xiao. et al. 2020. Nucl. Eng. Des.
 journal: "Nuclear Engineering and Design, Volume 360, 110523, ISSN 0029-5493"
 pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/xiao2020.pdf"
 doi: 10.1016/j.nucengdes.2020.110523
+type: journal
 ---
 
 # Abstract

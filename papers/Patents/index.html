@@ -1,0 +1,68 @@
+---
+layout: default
+title: Marine Self-Powered System Lab / publications / patents
+categories:
+- research
+---
+
+{% include publication-header.html patents="active" %}
+
+{% for paper in site.categories.papers %}
+{% if paper.type == "patents" %}
+{% cycle 'add rows': '<div class="row">', '', '' %}
+	<div class="col-md-4 col-xs-12 paperbox">
+		<div class="media equalCard">
+			<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 hidden-sm hidden-xs">
+				<a class="pull-right" href="{{ paper.url }}">
+					<img width=100 class="media-object" src="{{ paper.image }}">
+				</a>
+			</div>
+
+			<div class="media-body">
+				<h2 class="media-heading">
+				<a href="{{ paper.url }}"
+				{% assign handle = paper.year %}
+				{% case handle %}
+				  {% when 2021 %}
+				  style="color: #B05B3B;"
+				  {% when 2020 %}
+				  style="color: #679B9B;"
+				  {% when 2019 %}
+				  style="color: #5E63B6;"
+				  {% when 2018 %}
+				  style="color: #B05B3B;"
+				  {% when 2017 %}
+				  style="color: #679B9B;"
+				  {% when 2016 %}
+				  style="color: #5E63B6;"
+				  {% when 2015 %}
+				  style="color: #B05B3B;"
+				  {% when 2014 %}
+				  style="color: #679B9B;"
+				  {% when 2013 %}
+				  style="color: #5E63B6;"
+				  {% when 2012 %}
+				  style="color: #B05B3B;"
+				  {% when 2011 %}
+				  style="color: #679B9B;"
+				  {% when 2010 %}
+				  style="color: #5E63B6;"
+				  {% else %}
+				  style="color: black;"
+				  {% endcase %}
+				> {{ paper.title }}</a>
+				</h2>
+				<span class="smallnote">{{ paper.ref }}</span>
+			</div>
+
+		</div>
+	</div>
+
+
+	{% cycle 'close rows': '', '', '
+</div>' %}
+{% endif %}
+{% endfor %}
+{% cycle 'close rows': '', '</div>', '</div>' %}
+
+

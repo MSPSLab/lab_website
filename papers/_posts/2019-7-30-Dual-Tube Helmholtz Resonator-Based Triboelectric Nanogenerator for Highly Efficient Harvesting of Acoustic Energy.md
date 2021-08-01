@@ -8,6 +8,7 @@ ref: Zhao, H. et al. 2019. Adv. Energy Mater.
 journal: "Adv. Energy Mater. 2019, 9, 1902824."
 pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/10.1002@aenm.201902824.pdf"
 doi: 10.1002/aenm.201902824
+type: journal
 ---
 
 # Abstract

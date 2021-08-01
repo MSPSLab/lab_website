@@ -8,6 +8,7 @@ ref: Yan Wang. et al. 2021. Adv. Mater. Technol.
 journal: "Adv. Mater. Technol. 2021, 6, 2001270."
 pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/admt.202001270.pdf"
 doi: 10.1002/admt.202001270
+type: journal
 ---
 
 # Abstract

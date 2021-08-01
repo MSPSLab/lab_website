@@ -39,6 +39,20 @@ layout: default
 			<a class="off" href="{{ page.supplement }}">{{ page.supplement | split: '/' | last }}</a>
 			<div class="bigspacer"></div>
 			{% endif %}
+			{% if page.ISBN %}
+			<h6>
+				<i class="fa fa-book fa-fw"></i> ISBN
+			</h6>
+			<a class="off" href="">{{ page.ISBN }}</a>
+			<div class="bigspacer"></div>
+			{% endif %}
+			{% if page.bookurl %}
+			<h6>
+				<i class="fa fa-chain-broken fa-fw"></i> Book url
+			</h6>
+			<a class="off" href="{{ page.bookurl }}">{{ page.bookurl }}</a>
+			<div class="bigspacer"></div>
+			{% endif %}
 			{% if page.doi %}
 			<h6>
 				<i class="ai ai-doi"></i> DOI

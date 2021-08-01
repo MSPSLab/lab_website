@@ -8,6 +8,7 @@ ref: Minyi Xu. et al. 2019. ACS Nano.
 journal: "ACS Nano 13 (2), 1932-1939"
 pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/xu2019.pdf"
 doi: 10.1021/acsnano.8b08274
+type: journal
 ---
 
 # Abstract

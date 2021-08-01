@@ -8,6 +8,7 @@ ref: Peng Xu. et al. 2020. Complexity.
 journal: "Complexity, vol. 2020, Article ID 4715315, 12 pages"
 pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/4715315.pdf"
 doi: 10.1155/2020/4715315
+type: journal
 ---
 
 # Abstract
