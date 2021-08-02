@@ -1,0 +1,66 @@
+---
+layout: post
+title: 大连海事大学Nano Energy：一种用于风能采集和风速传感的新型防潮且自适应风向的旗形摩擦纳米发电机
+author: 
+url_author: 
+---
+
+<p style="text-align:center;" >
+<img class="center-block" style="margin:auto; width:70%;" src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/news/一种用于风能采集和风速传感_1.webp" alt=""/>
+</p>
+
+
+<p style="text-align:center;" >
+<img class="center-block" style="margin:auto; width:70%;" src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/news/仿三明治结构TENG_2.png" alt=""/>
+<b>图</b> -
+</p>
+
+> 引言:
+
+采用摩擦纳米发电机从环境中采集风能是实现无线传感系统自供能的理想方法。然而，潮湿的环境和多变的风向使大多数基于摩擦纳米发电机原理的风能收集装置的发电性能严重下降。本工作提出了一种防潮且可自适应风向的旗形摩擦纳米发电机，并进行了相关研究。将两片附着导电油墨的PET薄膜和一片PTFE薄膜叠加并对其四周进行密封即构成了旗形摩擦纳米发电机的基本结构。采用这种结构的优点为摩擦层与空气隔绝使得发电性能不受相对湿度的影响。本工作对旗形摩擦纳米发电机的结构参数进行了研究以分析几何结构参数对颤振特性和输出性能的影响。为了提升旗形摩擦纳米发电机的发电性能，将一对旗形摩擦纳米发电机相隔一定距离放置，由于内部和外部流动区域之间的风速变化和压力差，导致一对旗形摩擦纳米发电机在工作过程中可以产生相互拍打。采用这种工作模式的旗形摩擦纳米发电机的功率密度相较单一的旗形摩擦纳米发电机可以提升40倍。旗形摩擦纳米发电机的另一个优点是能够在不配备任何外部机械结构的条件下实现对于任意方向的风能采集。此外，旗形摩擦纳米发电机还可以作为一种自供能风速风向传感器。因此，旗形摩擦纳米发电机具备在多种自然条件下采集环境风能和实现自供能风速风向传感的巨大潜力。
+
+> 成果简介:
+
+大连海事大学徐敏义教授团队提出并系统性的研究了一种新型防潮且自适应风向的旗形摩擦纳米发电机。通过参数实验发现，调整旗形摩擦纳米发电机的弯曲刚度可以实现对其临界风速的调整。旗形摩擦纳米发电机的颤振特性和发电性能受到流固质量比和长宽比的影响。通过研究发现在常规自然条件下采用柔性电极对于风能的收集具有显著的优势，可使旗形摩擦纳米发电机在不配备外部机械结构的情况下持续采集来自不同方向的风能。更为重要的是，通过风洞中的湿度测试和下雨条件下的性能测试结果可以看出，旗形摩擦纳米发电机在高湿度环境下依然有着稳定的输出。同时，旗形摩擦纳米发电机作为一种自供能风速风向传感器也展现出了较高的精度和稳定性。
+
+> 图文导读:
+
+<p style="text-align:center;" >
+<img class="center-block" style="margin:auto; width:70%;" src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/news/一种用于风能采集和风速传感_1.webp" alt=""/>
+<b>图1.旗形摩擦纳米发电机的应用场景和工作原理</b> -(a)旗形摩擦纳米发电机的应用场景；(b)旗形摩擦纳米发电机的结构示意图；(c)旗形摩擦纳米发电机的发电原理。
+</p>
+
+<p style="text-align:center;" >
+<img class="center-block" style="margin:auto; width:70%;" src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/news/一种用于风能采集和风速传感_2.webp" alt=""/>
+<b>图2.旗形摩擦纳米发电机的实验装置和颤振特性分析</b> -(a)旗形摩擦纳米发电机的实验装置；(b)不同弯曲刚度和不同风速下旗形摩擦纳米发电机的运动照片；(c)流固质量比M*=0.43时，长宽比对旗形摩擦纳米发电机临界风速的影响；(d)流固质量比M*=0.43时，频率与风速的关系；(e)流固质量比对频率和相关斯特劳哈尔数的影响。
+</p>
+
+<p style="text-align:center;" >
+<img class="center-block" style="margin:auto; width:70%;" src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/news/一种用于风能采集和风速传感_3.webp" alt=""/>
+<b>图3.不同长宽比旗形摩擦纳米发电机的输出电压、电流与风速和弯曲刚度的关系</b> -(a)流固质量比M*=0.35时，旗形摩擦纳米发电机的短路电流；(b)流固质量比M*=0.43时，旗形摩擦纳米发电机的短路电流；(c)流固质量比M*=0.58时，旗形摩擦纳米发电机的短路电流；(d)流固质量比M*=0.35时，旗形摩擦纳米发电机的开路电压；(e)流固质量比M*=0.43时，旗形摩擦纳米发电机的开路电压；(f)流固质量比M*=0.58时，旗形摩擦纳米发电机的开路电压；(g)流固质量比M*=0.58时，不同电极间距下旗形摩擦纳米发电机的开路电压；(h)流固质量比M*=0.58时，不同电极间距下旗形摩擦纳米发电机的短路电流；(i)流固质量比M*=0.58时，不同电极间距下旗形摩擦纳米发电机的转移电荷量。
+</p>
+
+<p style="text-align:center;" >
+<img class="center-block" style="margin:auto; width:70%;" src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/news/一种用于风能采集和风速传感_4.png" alt=""/>
+<b>图4.相对湿度对旗形摩擦纳米发电机发电性能的影响</b> -(a)湿度测试实验装置示意图；(b)不同相对湿度下旗形摩擦纳米发电机的开路电压；(c)不同相对湿度下旗形摩擦纳米发电机的短路电流；(d)不同相对湿度下旗形摩擦纳米发电机的转移电荷量；(e)不同相对湿度条件下，旗形摩擦纳米发电机与ATNG、WTENG、TENG流量计和AF-TENG的输出性能对比；(f)为了增强输出性能而将一对旗形摩擦纳米发电机相隔一定间距放置的示意图；(g)单一旗形摩擦纳米发电机与增强旗形摩擦纳米发电机的输出电流对比；(h)单一旗形摩擦纳米发电机与增强旗形摩擦纳米发电机的输出功率对比。
+</p>
+
+<p style="text-align:center;" >
+<img class="center-block" style="margin:auto; width:70%;" src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/news/一种用于风能采集和风速传感_5.webp" alt=""/>
+<b>图5.旗形摩擦纳米发电机的发电性能与风向的关系</b> -(a)不同风向下旗形摩擦纳米发电机的开路电压；(b)不同风向下旗形摩擦纳米发电机的短路电流；(c)不同风向下旗形摩擦纳米发电机的转移电荷量；(d)风向指示电路；(e)旗形摩擦纳米发电机采集不同方向风能并指示风向的照片。
+</p>
+
+<p style="text-align:center;" >
+<img class="center-block" style="margin:auto; width:70%;" src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/news/一种用于风能采集和风速传感_6.png" alt=""/>
+<b>图6.旗形摩擦纳米发电机的演示实验</b> -(a)一对旗形摩擦纳米发电机用于驱动传感器工作的电路示意图；(b)一对旗形摩擦纳米发电机驱动温度传感器工作的照片；(c)驱动温度传感器工作的充放电曲线；(d)自供能风速传感的工作原理示意图；(e)旗形摩擦纳米发电机和商用风速传感器的实时风速测量的照片；(f)旗形摩擦纳米发电机与商用速传感器的对比。
+</p>
+
+> 总结：
+
+本研究成功研发了一种防潮且自适应风向的既可用于风能采集又可检测风速的旗形摩擦纳米发电机。通过调整旗形摩擦纳米发电机的弯曲刚度(KB≤0.21×10-4)即可使其在3.2m/s的较低风速条件下开始工作。通过风洞实验，我们提出了长宽比为2的尺寸为150×75mm结构优化旗形摩擦纳米发电机。同时我们发现旗形摩擦纳米发电机的发电性能随着弯曲刚度和流固质量比的降低和升高。风向和相对湿度改变时，旗形摩擦纳米发电机的发电性能并无明显下降，说明旗形摩擦纳米发电机可以在高湿度条件下正常采集风能。为了进一步增强旗形摩擦纳米发电机的发电性能，我们将一对旗形摩擦纳米发电机间隔一定距离放置，使其在工作时产生互相接触。通过这种方式，单一旗形摩擦纳米发电机的功率密度提升了40倍，且在7.5m/s的风速下，其电流和功率分别可达6.8μA和36.72μW。通过上述研究发现，旗形摩擦纳米发电机在高湿度条件下的风能采集和风速风向传感方面具有潜在的应用前景。该成果发表在国际著名期刊Nano Energy上，文献链接：A Novel Humidity Resisting and Wind Direction Adapting Flag-type Triboelectric Nanogenerator for Wind Energy Harvesting and Speed Sensing. Nano Energy, 2020, DOI: 10.1016/j.nanoen.2020.105279.大连海事大学轮机工程学院博士研究生王岩、硕士研究生杨恩为论文共同第一作者，大连海事大学轮机工程学院徐敏义教授为通讯作者，广东海洋大学潘新祥教授、北京大学米建春教授，大连海事大学轮机工程学院硕士研究生陈天予、王建业、胡致远参与了本研究工作。该研究获国家自然科学基金、中央高校基本科研业务费和大连市青年科技之星等项目的资助。
+
+> 站内直达链接：
+
+- <a style="color: #5E63B6;" class="off" target="_blank" href="/papers/A-novel-humidity-resisting-and-wind-direction-adapting-flag-type-triboelectric-nanogenerator-for-wind-energy-harvesting-and-speed-sensing/" rel="noopener noreferrer">A novel humidity resisting and wind direction adapting flag-type triboelectric nanogenerator for wind energy harvesting and speed sensing</a>
+
+

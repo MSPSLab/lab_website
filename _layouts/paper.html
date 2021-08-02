@@ -39,6 +39,28 @@ layout: default
 			<a class="off" href="{{ page.supplement }}">{{ page.supplement | split: '/' | last }}</a>
 			<div class="bigspacer"></div>
 			{% endif %}
+			{% if page.num %}
+			<h6>
+				<i class="fa fa-bullseye fa-fw"></i> 申请(专利)号
+			</h6>
+			<a class="off" href="">{{ page.num }}</a>
+			<div class="bigspacer"></div>
+			{% endif %}
+			{% if page.catenum %}
+			<h6>
+				<i class="fa fa-dot-circle-o fa-fw"></i> 分类号
+			</h6>
+			<a class="off" href="">{{ page.catenum }}</a>
+			<div class="bigspacer"></div>
+			{% endif %}
+			{% if page.mainnum %}
+			<h6>
+				<i class="fa fa-asterisk fa-fw"></i> 主分类号
+			</h6>
+			<a class="off" href="">{{ page.mainnum }}</a>
+			<div class="bigspacer"></div>
+			{% endif %}
+
 			{% if page.ISBN %}
 			<h6>
 				<i class="fa fa-book fa-fw"></i> ISBN

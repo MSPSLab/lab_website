@@ -21,10 +21,10 @@ cv:
 
 > 主要论文：
 
-1. H. Yang* M. Hou, A. Cui and K. Cai, "Living Range Trends and Fishery Policies for Herring and Mackerel in Scotland Based on Computer Modeling and Analysis," 2020 IEEE International Conference on Power, Intelligent Computing and Systems (ICPICS), 2020, pp. 363-366, doi: 10.1109/ICPICS50287.2020.9202331.
-2. H. Yang*, et al. (2020). "Impact and Suggestions of Sea Level Rise on the Survival of Tuvalu: Evidence from Mathematical and Computer Modeling." IOP Conference Series: Earth and Environmental Science 514: 032028.
-3. H. Yang*, T, Mao. Starting from the Influence of Tobacco: AKR1C3 and COVID-19 Receptor ACE2 Are Potential Prognostic Biomarkers for Brain Lower Grade Glioma, Evidence from Bioinformatics Analyses. Preprints 2020, 2020070411 (doi: 10.20944/preprints202007.0411.v1).
-4. H. Yang*, T. Mao. "ITGAX: A Potential Biomarker of Acute Myeloid Leukemia (AML) through Bioinformatic Analysis" 2021 IEEE 9th International Conference on Bioinformatics and Computational Biology (ICBCB), 2021, pp. 102-106, doi: 10.1109/ICBCB52223.2021.9459204.
+1. **H. Yang\*** M. Hou, A. Cui and K. Cai, "Living Range Trends and Fishery Policies for Herring and Mackerel in Scotland Based on Computer Modeling and Analysis," 2020 IEEE International Conference on Power, Intelligent Computing and Systems (ICPICS), 2020, pp. 363-366, doi: 10.1109/ICPICS50287.2020.9202331.
+2. **H. Yang\***, et al. (2020). "Impact and Suggestions of Sea Level Rise on the Survival of Tuvalu: Evidence from Mathematical and Computer Modeling." IOP Conference Series: Earth and Environmental Science 514: 032028.
+3. **H. Yang\***, T, Mao. Starting from the Influence of Tobacco: AKR1C3 and COVID-19 Receptor ACE2 Are Potential Prognostic Biomarkers for Brain Lower Grade Glioma, Evidence from Bioinformatics Analyses. Preprints 2020, 2020070411 (doi: 10.20944/preprints202007.0411.v1).
+4. **H. Yang\***, T. Mao. "ITGAX: A Potential Biomarker of Acute Myeloid Leukemia (AML) through Bioinformatic Analysis" 2021 IEEE 9th International Conference on Bioinformatics and Computational Biology (ICBCB), 2021, pp. 102-106, doi: 10.1109/ICBCB52223.2021.9459204.
 
 > 专利:
 

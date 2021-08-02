@@ -1,0 +1,62 @@
+---
+layout: post
+title: 大连海事大学&大连理工大学【Nano Energy】：基于仿三明治结构TENG堆叠集成的自供能海洋航标
+author: 
+url_author: 
+---
+
+<p style="text-align:center;" >
+<img class="center-block" style="margin:auto; width:70%;" src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/news/仿三明治结构TENG_1.webp" alt=""/>
+</p>
+
+> 背景介绍：
+
+- 海洋航道的照明指示对船舶航行安全至关重要。受制于现有的能源供给方式，海洋航标无法满足长时间、无缝隙工作的要求。本工作提出了一种以三明治结构摩擦纳米发电机堆叠实现多单元并联集成的自供能航标，并进行了相关研究。自供能航标由防水防腐外壳，配重块，发电模块和用电器组成，其中发电模块由7组每组10层堆叠的三明治结构摩擦纳米发电机并联而成。三明治结构摩擦纳米发电机由贴在上下电极固定板上的两层铝电极对和PTFE小球组成。本工作对三明治堆叠结构摩擦纳米发电机不同波浪条件下的发电性能进行了受迫运动实验研究。通过研究多单元并联的输出特性，发现该结构通过将各单元机械固定确保同相位运动即可实现输出性能随发电单元数量线形增加，适合多单元集成增大航标发电能力。结合水动力分析进行了自供能航标整体设计，并在海洋波流水槽对自供能航标进行了实验测试。实验表明，在波高为6cm，频率为1.04Hz波浪条件下，自供能航标点亮了功率为12W的LED灯，显示出优异的波浪能发电能力，可作为实用化自供能海洋航标的基础。
+
+> 文章概述:
+
+- 大连海事大学徐敏义教授团队与大连理工大学赵云鹏教授团队联合设计了一种基于仿三明治结构摩擦纳米发电机堆叠集成的自供能海洋航标。研究发现，三明治堆叠结构摩擦纳米发电机可有效利用波浪能，并且通过机械固定使各发电单元同向运动确保同相位交流电输出，使输出电流、电压和功率随着并联集成的发电单元数量线性增加，有效增加整体发电性能。结合水动力分析设计的自供能航标，在海洋波流水槽中进行了实验测试。结果表明，在多种波浪条件下，自供能航标展示了优异的波浪能转化能力，并可为其上安装的功率为12W的LED灯自供电，实现在目标航道持续确保船舶航行安全的目的。
+
+> 图文导读:
+
+<p style="text-align:center;" >
+<img class="center-block" style="margin:auto; width:70%;" src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/news/仿三明治结构TENG_2.png" alt=""/>
+<b>图1.自供能航标和摩擦纳米发电单元结构与应用场景</b> -（a）自供能航标的应用场景;（b）自供能航标的结构示意图；（c）自供能航标的实物照片；（d）三明治型摩擦纳米发电机的结构示意图；（e）三明治型摩擦纳米发电机的工作原理；
+</p>
+
+<p style="text-align:center;" >
+<img class="center-block" style="margin:auto; width:70%;" src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/news/仿三明治结构TENG_3.webp" alt=""/>
+<b>图2.10层堆叠发电单元在不同波浪条件下的发电性能测试</b> -（a）10层堆叠发电单元波浪模拟实验台；（b）不同波浪频率对短路电流的影响；（c）不同波浪频率对转移电荷量的影响；（d）不同波浪振幅对短路电流的影响；（e）不同波浪振幅对转移电荷量的影响;（f）不同波浪频率和振幅对短路电流影响3D示意图；（g）波浪方向与电极对夹角α示意图；（h）不同波浪方向下发电单元的短路电流;（i）不同波浪方向下发电单元的转移电荷量；
+</p>
+
+<p style="text-align:center;" >
+<img class="center-block" style="margin:auto; width:70%;" src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/news/仿三明治结构TENG_4.webp" alt=""/>
+<b>图3.10层堆叠发电单元的电容充电能力</b> -（a）2Hz频率下，10层堆叠发电单元不同规格电容充电对比；（b）不同频率条件下，10层堆叠发电单元对100μF电容充电对比；（c）10层堆叠发电单元的功率负载曲线图；（d）10层发电单元为温度传感器供电示意图；
+</p>
+
+<p style="text-align:center;" >
+<img class="center-block" style="margin:auto; width:70%;" src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/news/仿三明治结构TENG_5.webp" alt=""/>
+<b>图4.7个10层堆叠发电单元的并联输出特性</b> -（a）多发电单元并联性能测试实验台示意图；（b）随并联单元数增加，短路电流变化数据图；（c）随并联单元数增加，短路电流变化趋势图；（d）随并联单元数增加，转移电荷量变化数据图；（e）随并联单元数增加，转移电荷量变化趋势图；（f）随并联单元数增加，最大输出功率变化趋势图；
+</p>
+
+<p style="text-align:center;" >
+<img class="center-block" style="margin:auto; width:70%;" src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/news/仿三明治结构TENG_6.webp" alt=""/>
+<b>图5.自供能航标波浪水池实验</b> -（a）用于开展波浪实验的海洋波流水槽照片；（b）自供能航标实验照片；（c）自供能航标幅频相应算子模拟值与实验值对比图；（d）自供能航标在波浪驱动下为12W LED灯环供电照片；
+</p>
+
+<p style="text-align:center;" >
+<img class="center-block" style="margin:auto; width:70%;" src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/news/仿三明治结构TENG_7.webp" alt=""/>
+<b>图6.自供能航标对水动力参数敏感性研究</b> -（a）波高为6cm，波浪频率0.96Hz时自供能航标短路电流数据图；（b）波高为6cm，波浪频率0.96Hz时自供能航标转移电荷量数据图；（c）波浪频率0.96Hz，不同波高对输出短路电流的影响；（d）波浪频率0.96Hz，不同波高对转移电荷量的影响；（e）波高为4cm，不同波浪频率对输出短路电流的影响；（f）波高为4cm，不同波浪频率对转移电荷量的影响；
+</p>
+
+
+> 结论:
+
+- 本研究提出了一种基于三明治结构摩擦纳米发电机堆叠集成的自供能海洋航标。这种基于三明治结构堆叠的摩擦纳米发电机在受迫运动模拟实验台上展示出了优异的能量转化能力。在频率为2Hz，振幅为130mm的模拟运动条件下，10层堆叠发电单元功率密度可达34.65W/。相比于课题组之前的塔式摩擦纳米发电机提高了226%。同时，实验研究了多发电单元并联输出特性。实验结果表明，该设计仅通过机械固定确保各发电单元运动方向，即可实现同相位交流输出，从而实现整体发电量随着并联发电单元数量线性增加，而这正是集成自供能航标的基础。据此，作者在海洋波流水槽中对集成自供能航标进行了实验测试，研究了不同波浪环境参数对自供能航标输出的影响。在波浪频率为0.96Hz，波高为6cm条件下，自供能航标最大短路电流达20.91μA，转移电荷量达2.22μC，实现了12W LED灯供电，可作为实用化自供能海洋航标的基础。该成果发表在国际著名期刊Nano Energy.大连海事大学轮机工程学院王昊副教授、大连理工大学建设工程学部博士研究生范仲琪和中山大学海洋工程与技术学院博士研究生赵天聪为论文共同第一作者；大连海事大学轮机工程学院徐敏义教授和大连理工大学赵云鹏教授为共同通讯作者；广东海洋大学潘新祥教授、大连海事大学轮机工程学院肖秀副教授、柳长昕老师和硕士研究生董家乐、博士研究生王思远和王岩参与了本研究工作。该研究系在国家自然科学基金、中央高校基本科研业务费和大连市青年科技之星等项目的经费支持下完成。
+
+
+> 站内直达链接：
+
+- <a style="color: #5E63B6;" class="off" target="_blank" href="/papers/Sandwich-like-triboelectric-nanogenerators-integrated-self-powered-buoy-for-navigation-safety/" rel="noopener noreferrer">Sandwich-like triboelectric nanogenerators integrated self-powered buoy for navigation safety</a>
+
+

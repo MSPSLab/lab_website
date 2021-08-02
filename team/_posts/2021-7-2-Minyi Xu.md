@@ -10,11 +10,8 @@ scholar:
 orcid: 0000-0002-3772-8340
 image: /images/team/xuminyi.jpg
 cv: 
+researchgate: Minyi-Xu
 ---
-
-<!-- I am a Professor, Doctoral Supervisor, Director of the Thermal Flow Teaching and Research Office at the [Department of Marine Engineering](http://mec.dlmu.edu.cn) at the [Dalian Maritime University](http://www.dlmu.edu.cn). Professor, Doctoral Supervisor, Director of the Thermal Flow Teaching and Research Office
-
-I received my bachelor's degrees from the [Dalian University of Technology](https://www.dlut.edu.cn) (China) and PhD from the [Peking University](https://www.pku.edu.cn) (China).  -->
 
 >职称学位：
 

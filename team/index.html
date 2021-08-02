@@ -99,6 +99,34 @@ categories:
 {% endif %}
 {% endfor %}
 
+{% for member in site.categories.team reversed %}
+{% if member.position == "Experimentalist" %}
+<div class="col-md-4 memberbox">
+	<div class="media">
+		{% if member.no_introduce == true %}
+		<a class="picture-link pull-left" href="">
+			<img width=100 class="profile-picture team-gallery-pic media-object" src="{{ member.image }}">
+		</a>
+		{% else %}
+		<a class="picture-link pull-left" href="{{ member.url }}">
+			<img width=100 class="profile-picture team-gallery-pic media-object" src="{{ member.image }}">
+		</a>
+		{% endif %}
+		<div class="media-body">
+			{% if member.no_introduce == true %}
+			<h3 class="head"><a href="" style="color: #5E63B6;">{{ member.title }}</a></h3>
+			{% else %}
+			<h3 class="head"><a href="{{ member.url }}" style="color: #5E63B6;">{{ member.title }}</a></h3>
+			{% endif %}
+			<p class="teamnote">{{ member.position }}</p>
+		</div>
+	</div>
+	<div class="bigspacer"></div>
+	<div class="bigspacer"></div>
+</div>
+{% endif %}
+{% endfor %}
+
 
 {% for member in site.categories.team reversed %}
 {% if member.position contains "student" %}
@@ -128,13 +156,59 @@ categories:
 {% endif %}
 {% endfor %}
 
+{% for member in site.categories.team reversed %}
+{% if member.position == "visiting" %}
+<div class="col-md-4 memberbox">
+	<div class="media">
+		{% if member.no_introduce == true %}
+		<a class="picture-link pull-left" href="">
+			<img width=100 class="profile-picture team-gallery-pic media-object" src="{{ member.image }}">
+		</a>
+		{% else %}
+		<a class="picture-link pull-left" href="{{ member.url }}">
+			<img width=100 class="profile-picture team-gallery-pic media-object" src="{{ member.image }}">
+		</a>
+		{% endif %}
+		<div class="media-body">
+			{% if member.no_introduce == true %}
+			<h3 class="head"><a href="" style="color: #3E978B;">{{ member.title }}</a></h3>
+			{% else %}
+			<h3 class="head"><a href="{{ member.url }}" style="color: #3E978B;">{{ member.title }}</a></h3>
+			{% endif %}
+			<p class="teamnote">{{ member.position }}</p>
+		</div>
+	</div>
+	<div class="bigspacer"></div>
+	<div class="bigspacer"></div>
+</div>
+{% endif %}
+{% endfor %}
 
 
-<!-- 
-<div class="row">
-  <div class="col-md-12">
-    <div class="smallhead">
-		
-        </div>
-  </div>
-</div> -->
+{% for member in site.categories.team reversed %}
+{% if member.position contains "Prior" %}
+<div class="col-md-4 memberbox">
+	<div class="media">
+		{% if member.no_introduce == true %}
+		<a class="picture-link pull-left" href="">
+			<img width=100 class="profile-picture team-gallery-pic media-object" src="{{ member.image }}">
+		</a>
+		{% else %}
+		<a class="picture-link pull-left" href="{{ member.url }}">
+			<img width=100 class="profile-picture team-gallery-pic media-object" src="{{ member.image }}">
+		</a>
+		{% endif %}
+		<div class="media-body">
+			{% if member.no_introduce == true %}
+			<h3 class="head"><a href="" style="color: #3E978B;">{{ member.title }}</a></h3>
+			{% else %}
+			<h3 class="head"><a href="{{ member.url }}" style="color: #3E978B;">{{ member.title }}</a></h3>
+			{% endif %}
+			<p class="teamnote">{{ member.position }}</p>
+		</div>
+	</div>
+	<div class="bigspacer"></div>
+	<div class="bigspacer"></div>
+</div>
+{% endif %}
+{% endfor %}
