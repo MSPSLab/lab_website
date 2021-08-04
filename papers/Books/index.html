@@ -7,6 +7,8 @@ categories:
 
 {% include publication-header.html books="active" %}
 
+{% assign counter_pre = site.categories.papers | where:"type","book" %}
+{% assign counter = counter_pre.size | plus:1 %}
 {% for paper in site.categories.papers %}
 {% if paper.type == "book" %}
 {% cycle 'add rows': '<div class="row">', '', '' %}
@@ -19,6 +21,7 @@ categories:
 			</div>
 
 			<div class="media-body">
+				{% assign counter = counter | minus:1 %}
 				<h2 class="media-heading">
 				<a href="{{ paper.url }}"
 				{% assign handle = paper.year %}
@@ -50,7 +53,7 @@ categories:
 				  {% else %}
 				  style="color: black;"
 				  {% endcase %}
-				> {{ paper.title }}</a>
+				  > {{ counter }}. {{ paper.title }}</a>
 				</h2>
 				<span class="smallnote">{{ paper.ref }}</span>
 			</div>

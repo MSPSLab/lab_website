@@ -96,7 +96,7 @@
 						
 						<li>
 							
-							<a href="/news/">News</a>
+							<a href="/news/archive">News</a>
 						</li>
 						
 						<li>
@@ -116,7 +116,7 @@
 						
 						<li>
 							
-							<a href="/blog/">Blogs</a>
+							<a href="/blog/archive">Blogs</a>
 						</li>
 						
 						<li class="active">
@@ -519,19 +519,13 @@
 				</div>
 				<div class="colophon">
 					<div class="google_translate_element2" id="google_translate_element2"></div>
+					<button type="button" class="btn btn-outline-secondary" onclick="cleartrans()" style="margin-left: 15px;">Reset</button>
 				</div>
-
-				<p class="colophon_trans footerstatus hidden-sm hidden-xs" style="margin-bottom: -30px;">
-				</p>
-<div id="qrcode" tyle="max-width:100%; float: none;" height="50px" width="50px"></div>
-				
-
 			</div>
 		</footer>
 
 		<script>
 			var resourcesUrl = '';
-			// var allLanguage = 'en,zh-CN,zh-TW,fr,de,it,ja,ko,ru'.split(',');
 			var allLanguage = 'de,hi,lt,hr,lv,ht,hu,zh-CN,hy,uk,mg,id,ur,mk,ml,mn,af,mr,uz,ms,el,mt,is,it,my,es,et,eu,ar,pt-PT,ja,ne,az,fa,ro,nl,en-GB,no,be,fi,ru,bg,fr,bs,sd,se,si,sk,sl,ga,sn,so,gd,ca,sq,sr,kk,st,km,kn,sv,ko,sw,gl,zh-TW,pt-BR,co,ta,gu,ky,cs,pa,te,tg,th,la,cy,pl,da,tr'.split(',');
 			var localLanguage;
 			if (navigator.language) {
@@ -548,17 +542,41 @@
 				new google.translate.TranslateElement(
 					{
 						layout: 1,
-						includedLanguages: 'en,zh-CN,zh-TW,fr,de,it,ja,ko,ru',
+						includedLanguages: 'fr,de,it,ja,ko,ru,en,zh-CN,zh-TW',
 						autoDisplay: false,
 					},
 					'google_translate_element2'
 				);
 			}
+			function cleartrans() {
+				delCookie("googtrans");
+				window.location.reload();
+			}
+			function getCookie(name) {
+				var arr, reg = new RegExp("(^| )" + name + "=([^;]*)(;|$)");
+				if (arr = document.cookie.match(reg))
+					return unescape(arr[2]);
+				else
+					return null;
+			}
+			function delCookie(name) {
+				var Days = 30;
+				var exp = new Date();
+				exp.setTime(exp.getTime() - Days * 24 * 60 * 60 * 30);
+				var domain = document.domain;
+				var domainIsIp = false;
+				var dd = domain.split(".");
+				if (dd.length == 4) {
+					domainIsIp = true;
+				}
+				document.cookie = name + "='';path=/;expires=" + exp.toUTCString();
+				if (domainIsIp == false) {
+					domain = "." + dd[1] + "." + dd[2];
+					document.cookie = name + "='';domain=" + domain + ";expires=" + exp.toGMTString() + ";path=/";
+				}
+			}
 		</script>
 		<script src="/js/element.js?cb=googleTranslateElementInit"></script>
-
-		<!--https://practical-euclid-f7ff6c.netlify.app/-->
-
 </div></body>
 
 </html>

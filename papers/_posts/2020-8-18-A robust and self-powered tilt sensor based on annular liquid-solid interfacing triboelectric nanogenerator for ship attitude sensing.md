@@ -8,6 +8,7 @@ ref: Song Wang. et al. 2021. Sens. Actuator A Phys.
 journal: "Sensors and Actuators A: Physical, Volume 317, 112459, ISSN 0924-4247"
 pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/wang2020.pdf"
 doi: 10.1016/j.sna.2020.112459
+type: journal
 ---
 
 # Abstract
