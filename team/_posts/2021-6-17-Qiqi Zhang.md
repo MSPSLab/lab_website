@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Qiqi Zhang
-position: ME student
+position: Master degree candidate
 handle: Qiqi Zhang
 email: zhangqiqi229@163.com
 twitter: 

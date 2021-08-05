@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Junpeng Wang
-position: ME student
+position: Master degree candidate
 handle: Junpeng Wang
 email: 
 twitter: 

@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Dehua Liu
-position: ME student
+position: Master degree candidate
 handle: Dehua Liu
 email: 18042694375@163.com
 twitter: 

@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Zhenhui Lian
-position: ME student
+position: Master degree candidate
 handle: Zhenhui Lian
 email: 13622017522@163.com
 twitter: 

@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Jingang Yang
-position: PhD student
+position: Ph.D. candidate
 handle: Jingang Yang
 email: 2765695811@qq.com
 twitter: 

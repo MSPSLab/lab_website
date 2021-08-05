@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Xiangyu Liu
-position: ME student
+position: Master degree candidate
 handle: Xiangyu Liu
 email: simonlxy@dlmu.edu.cn
 twitter: 

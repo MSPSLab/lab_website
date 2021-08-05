@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Jiaxi Zheng
-position: BS student
+position: Bachelor degree candidate
 handle: Jiaxi Zheng
 email: 2220194051jacky@dlmu.edu.cn
 twitter: 

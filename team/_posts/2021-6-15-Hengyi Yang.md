@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Hengyi Yang
-position: ME student
+position: Master degree candidate
 handle: Hengyi Yang
 email: yhyatesss@foxmail.com
 twitter: 

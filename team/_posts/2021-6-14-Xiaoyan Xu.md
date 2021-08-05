@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Xiaoyan Xu
-position: ME student
+position: Master degree candidate
 handle: Xiaoyan Xu
 email: yz1769135517@dlmu.edu.cn
 twitter: 
