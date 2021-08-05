@@ -60,7 +60,7 @@ category: home
 		</div>
 		<div class="bigspacer"></div>
 		<div class="feedbox">
-			{% for paper in site.categories.papers limit:5 %}
+			{% for paper in site.categories.papers limit:3 %}
 			<div class="note-title">
 				<i class="fa fa-file-text-o fa-fw"></i>
 				<a class="off" href="{{ paper.url }}">
@@ -87,7 +87,7 @@ category: home
 		</div>
 		<div class="bigspacer"></div>
 		<div class="feedbox">
-			{% for news in site.categories.news limit:5 %}
+			{% for news in site.categories.news limit:3 %}
 
 			{% for member in site.categories.team %}
 			{% if member.handle == news.author_handle %}
@@ -122,7 +122,7 @@ category: home
 		</div>
 		<div class="bigspacer"></div>
 		<div class="feedbox">
-			{% for blog in site.categories.blog limit:5 %}
+			{% for blog in site.categories.blog limit:3 %}
 			<div class="note-title">
 				<i class="fa fa-comment-o fa-fw"></i>
 				<a class="off" href="{{ blog.url }}">
