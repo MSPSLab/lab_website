@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "[技能分享] 利用R包Pheatmap绘制简单热图"
-author: 
-url_author: 
+author: Hengyi Yang
+url_author: Hengyi-Yang
 description: pheatmap是一种R包；热图可以聚合大量的数据，利用渐进色来优雅很直观地展现数据的疏密程度或频率高低。
 
 ---

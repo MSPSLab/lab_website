@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "[工具分享] Mathpix Snip 公式"
-author: 
-url_author: 
+author: Hengyi Yang
+url_author: Hengyi-Yang
 description: 好用的数学公式识别神器：Mathpix Snip，只需要截图就能识别公式，手写的公式也能识别。
 ---
 > 介绍

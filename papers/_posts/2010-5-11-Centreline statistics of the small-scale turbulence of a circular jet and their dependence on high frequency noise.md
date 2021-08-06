@@ -7,7 +7,7 @@ year: 2011
 ref: Xu Minyi. et al. 2011. Acta Physica Sinica.
 journal: "Acta Physica Sinica, 60(3): 0-034701"
 pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/Centreline.pdf"
-doi:  10.7498/aps.60.034701.
+doi:  10.7498/aps.60.034701
 type: journal
 ---
 

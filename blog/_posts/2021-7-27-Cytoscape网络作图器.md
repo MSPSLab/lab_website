@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "[工具分享] Cytoscape网络作图器"
-author: 
-url_author: 
+author: Hengyi Yang
+url_author: Hengyi-Yang
 description: Cytoscape 是一个专注于开源网络可视化和分析的软件，其核心是提供基础的功能布局和查询网络，并依据基本的数据结合成可视化网络。多用于生物信息学领域，但其强大的作图能力值得我们了解。
 
 ---

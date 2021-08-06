@@ -7,7 +7,7 @@ year: 2019
 ref: Minyi Xu. et al. 2019. Research.
 journal: "Nano Energy, Volume 57, Pages 574-580, ISSN 2211-2855"
 pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/xu2018.pdf"
-doi: 10.1016/j.nanoen.2018.12.041.
+doi: 10.1016/j.nanoen.2018.12.041
 type: journal
 ---
 
