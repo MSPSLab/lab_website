@@ -156,8 +156,9 @@ categories:
 {% endif %}
 {% endfor %}
 
+
 {% for member in site.categories.team reversed %}
-{% if member.position contains "Visiting" %}
+{% if member.position contains "Prior" %}
 <div class="col-md-4 memberbox">
 	<div class="media">
 		{% if member.no_introduce == true %}
@@ -186,7 +187,7 @@ categories:
 
 
 {% for member in site.categories.team reversed %}
-{% if member.position contains "Prior" %}
+{% if member.position contains "Visiting" %}
 <div class="col-md-4 memberbox">
 	<div class="media">
 		{% if member.no_introduce == true %}
