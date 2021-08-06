@@ -6,6 +6,7 @@ categories:
 ---
 
 {% include blog-header.html archive="active" %}
+<div class="post-list">
 
 {% for post in site.categories.blog %}
 
@@ -28,3 +29,4 @@ categories:
   {% cycle 'close rows': '', '', '</div>' %}
 {% endfor %}
 {% cycle 'close rows': '', '</div>', '</div>' %}
+</div>
