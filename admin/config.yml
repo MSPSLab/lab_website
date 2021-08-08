@@ -4,7 +4,7 @@ backend:
     branch: master
 media_folder: 'assets/uploads'
 collections:
-  - name: 'post'
+  - name: 'Blog'
     label: 'Blog'
     label_singular: "Blog" 
     folder: 'blog/_posts/'
@@ -19,8 +19,7 @@ collections:
       - {label: "一句话简介", name: "description", widget: "string", tagname: "h2"}
       - {label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
       - {label: "Body", name: "body", widget: "markdown"}
-collections:
-  - name: 'post'
+  - name: 'News'
     label: 'News'
     label_singular: "News" 
     folder: 'news/_posts/'
@@ -34,8 +33,7 @@ collections:
       - {label: "链接作者(对应为：Hengyi-Yang)", name: "url_author", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
       - {label: "Body", name: "body", widget: "markdown"}
-collections:
-  - name: 'paper'
+  - name: 'Paper'
     label: 'Paper'
     label_singular: "Paper" 
     folder: 'papers/_posts/'
@@ -55,4 +53,3 @@ collections:
       - {label: "类型：patents（专利）、book（书籍）、journal（期刊）、conference（会议）", name: "type", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
       - {label: "Body", name: "body", widget: "markdown"}
-
