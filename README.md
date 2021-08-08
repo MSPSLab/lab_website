@@ -1,5 +1,5 @@
 # 🌊Marine Self-Powered System Lab🌊
-🌊此为实验室网站的代码仓库，使用netlify和vercel进行deploy
+🌊此为实验室网站的代码仓库，使用netlify和vercel进行deploy，netlifycms进行后台管理
 
 This is the repository containing the website (http://mspslab.org) of our research group.
 
