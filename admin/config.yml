@@ -12,8 +12,7 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - {label: "Post_Layout", name: "layout", widget: "hidden", default: "post"}
-      - {label: "Paper_Layout", name: "layout", widget: "hidden", default: "paper"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Blog_Author", name: "author", widget: "string"}
       - {label: "Blog_Url_author", name: "url_author", widget: "string"}
