@@ -26,13 +26,14 @@ collections:
     folder: 'news/_posts/'
     sort: "date:desc"
     create: true 
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{date}}-{{slug}}"
+    sanitize_replacement: " "
     fields:
       - {label: "样式", name: "layout", widget: "hidden", default: "post"}
       - {label: "标题", name: "title", widget: "string", tagname: "h1"}
       - {label: "作者（如：Hengyi Yang）", name: "author", widget: "string", required: false}
       - {label: "链接作者(对应为：Hengyi-Yang)", name: "url_author", widget: "string", required: false}
-      - {label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD"}
+      - {label: "文件名定义时间（用于手动排序）", name: "date", widget: "datetime", format: "YYYY-M-D"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: 'Paper'
     label: 'Paper'
@@ -40,7 +41,8 @@ collections:
     folder: 'papers/_posts/'
     sort: "date:desc"
     create: true 
-    slug: "{{year}}-{{month}}-{{day}}-{{title}}"
+    slug: "{{date}}-{{slug}}"
+    sanitize_replacement: " "
     fields:
       - {label: "样式", name: "layout", widget: "hidden", default: "paper"}
       - {label: "标题", name: "title", widget: "string", tagname: "h1"}
@@ -58,7 +60,7 @@ collections:
           options:
             [{ label: "期刊", value: "journal" }, { label: "会议", value: "conference" }, { label: "专利", value: "patents" }, { label: "书籍", value: "book" }],
         }
-      - {label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD"}
+      - {label: "文件名定义时间（用于手动排序）", name: "date", widget: "datetime", format: "YYYY-M-D"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: 'Team'
     label: 'Team'
@@ -66,7 +68,8 @@ collections:
     folder: 'team/_posts/'
     sort: "date:desc"
     create: true 
-    slug: "{{year}}-{{month}}-{{day}}-{{handle}}"
+    slug: "{{date}}-{{slug}}"
+    sanitize_replacement: " "
     fields:
       - {label: "样式", name: "layout", widget: "hidden", default: "member"}
       - {label: "姓名（如：Hengyi Yang）", name: "title", widget: "string", tagname: "h1"}
@@ -84,5 +87,5 @@ collections:
       - {label: "Orcid", name: "orcid", widget: "string", required: false}
       - {label: "头像（149*149像素）", name: "image", widget: "image", allow_multiple: false}
       - {label: "简历文件", name: "cv", widget: "string", required: false}
-      - {label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD"}
+      - {label: "文件名定义时间（用于手动排序）", name: "date", widget: "datetime", format: "YYYY-M-D"}
       - {label: "Body", name: "body", widget: "markdown"}  
