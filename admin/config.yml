@@ -14,10 +14,10 @@ collections:
     fields:
       - {label: "样式", name: "layout", widget: "hidden", default: "post"}
       - {label: "标题", name: "title", widget: "string", tagname: "h1"}
-      - {label: "作者（如：Hengyi Yang）", name: "author", widget: "string"}
-      - {label: "链接作者(对应为：Hengyi-Yang)", name: "url_author", widget: "string"}
+      - {label: "作者（如：Hengyi Yang）", name: "author", widget: "string", required: false}
+      - {label: "链接作者(对应为：Hengyi-Yang)", name: "url_author", widget: "string", required: false}
       - {label: "一句话简介", name: "description", widget: "string", tagname: "h2"}
-      - {label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
+      - {label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: 'News'
     label: 'News'
@@ -29,9 +29,9 @@ collections:
     fields:
       - {label: "样式", name: "layout", widget: "hidden", default: "post"}
       - {label: "标题", name: "title", widget: "string", tagname: "h1"}
-      - {label: "作者（如：Hengyi Yang）", name: "author", widget: "string"}
-      - {label: "链接作者(对应为：Hengyi-Yang)", name: "url_author", widget: "string"}
-      - {label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
+      - {label: "作者（如：Hengyi Yang）", name: "author", widget: "string", required: false}
+      - {label: "链接作者(对应为：Hengyi-Yang)", name: "url_author", widget: "string", required: false}
+      - {label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: 'Paper'
     label: 'Paper'
@@ -39,7 +39,7 @@ collections:
     folder: 'papers/_posts/'
     sort: "date:desc"
     create: true 
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{title}}"
     fields:
       - {label: "样式", name: "layout", widget: "hidden", default: "paper"}
       - {label: "标题", name: "title", widget: "string", tagname: "h1"}
@@ -50,8 +50,17 @@ collections:
       - {label: "期刊&页码（无需年份）", name: "journal", widget: "string"}
       - {label: "PDF链接（使用jsdelivr地址）", name: "pdf", widget: "string"}
       - {label: "DOI号", name: "doi", widget: "string"}
+      
+      - label: "City"
+  name: "airport-code"
+  widget: "select"
+  options:
+    - { label: "Chicago", value: "ORD" }
+    - { label: "Paris", value: "CDG" }
+    - { label: "Tokyo", value: "HND" }
+    
       - {label: "类型：patents（专利）、book（书籍）、journal（期刊）、conference（会议）", name: "type", widget: "string"}
-      - {label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
+      - {label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: 'Team'
     label: 'Team'
@@ -59,17 +68,17 @@ collections:
     folder: 'team/_posts/'
     sort: "date:desc"
     create: true 
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{handle}}"
     fields:
       - {label: "样式", name: "layout", widget: "hidden", default: "member"}
       - {label: "姓名（如：Hengyi Yang）", name: "title", widget: "string", tagname: "h1"}
       - {label: "姓名备份（格式同上）", name: "handle", widget: "string"}
       - {label: "职位：Professor（教授）、Associate Professor（副教授）、Lecturer（讲师）、Experimentalist（实验师）、Ph.D. candidate（博士生）、Master degree candidate（硕士生）、Bachelor degree candidate（本科生）、Prior member（往届生）、Visiting member（访问生）", name: "position", widget: "string"}
       - {label: "邮箱", name: "email", widget: "string"}
-      - {label: "Github", name: "github", widget: "string"}
-      - {label: "谷歌Scholar", name: "scholar", widget: "string"}
-      - {label: "Orcid", name: "orcid", widget: "string"}
+      - {label: "Github", name: "github", widget: "string", required: false}
+      - {label: "谷歌Scholar", name: "scholar", widget: "string", required: false}
+      - {label: "Orcid", name: "orcid", widget: "string", required: false}
       - {label: "头像（149*149像素）", name: "image", widget: "image", allow_multiple: false}
-      - {label: "简历文件", name: "cv", widget: "string"}
-      - {label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
+      - {label: "简历文件", name: "cv", widget: "string", required: false}
+      - {label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD"}
       - {label: "Body", name: "body", widget: "markdown"}  
