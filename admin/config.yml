@@ -11,7 +11,7 @@ collections:
     sort: "date:desc"
     create: true
     slug: "{{date}}-{{slug}}"
-    sanitize_replacement: " "
+    clean_accents: true
     fields:
       - {label: "样式", name: "layout", widget: "hidden", default: "post"}
       - {label: "标题", name: "title", widget: "string", tagname: "h1"}
@@ -27,7 +27,7 @@ collections:
     sort: "date:desc"
     create: true 
     slug: "{{date}}-{{slug}}"
-    sanitize_replacement: " "
+    clean_accents: true
     fields:
       - {label: "样式", name: "layout", widget: "hidden", default: "post"}
       - {label: "标题", name: "title", widget: "string", tagname: "h1"}
@@ -42,7 +42,7 @@ collections:
     sort: "date:desc"
     create: true 
     slug: "{{date}}-{{slug}}"
-    sanitize_replacement: " "
+    clean_accents: true
     fields:
       - {label: "样式", name: "layout", widget: "hidden", default: "paper"}
       - {label: "标题", name: "title", widget: "string", tagname: "h1"}
@@ -69,7 +69,7 @@ collections:
     sort: "date:desc"
     create: true 
     slug: "{{date}}-{{slug}}"
-    sanitize_replacement: " "
+    clean_accents: true
     fields:
       - {label: "样式", name: "layout", widget: "hidden", default: "member"}
       - {label: "姓名（如：Hengyi Yang）", name: "title", widget: "string", tagname: "h1"}
