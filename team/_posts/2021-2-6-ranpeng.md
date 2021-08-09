@@ -5,6 +5,7 @@ handle: RanPeng
 position: Associate Professor
 email: rpeng@dlmu.edu.cn
 image: /images/team/pengran.png
+date: 2021-8-9
 ---
 
 > 研究方向：
@@ -15,7 +16,7 @@ image: /images/team/pengran.png
 
 - 2011和2013年分别于大连海事大学获得学士学位和硕士学位
 - 2018年于加拿大滑铁卢大学获得博士学位，师从微纳流控领域国际著名学者，中国“长江学者”及“千人计划”学者Dongqing Li教授，而后于加拿大多伦多大学从事博士后研究工作
-- 2020年12月加入大连海事大学轮机工程学院。
+- 2020年12月加入大连海事大学轮机工程学院
 
 > 简介：
 
