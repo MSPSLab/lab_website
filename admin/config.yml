@@ -75,7 +75,7 @@ collections:
           name: "position",
           widget: "select",
           options:
-            [{ label: "教授", value: "Professor" }, { label: "副教授", value: "Associate Professor" }, { label: "讲师", value: "Lecturer" }, { label: "实验师", value: "Experimentalist" }, { label: "讲师", value: "Lecturer" }, { label: "博士生", value: "Ph.D. candidate" }, { label: "硕士生", value: "Master degree candidate" }, { label: "本科生", value: "Bachelor degree candidate" }, { label: "往届生", value: "Prior member" }, { label: "访问者", value: "Visiting member" }],
+            [{ label: "教授", value: "Professor" }, { label: "副教授", value: "Associate Professor" }, { label: "讲师", value: "Lecturer" }, { label: "实验师", value: "Experimentalist" }, { label: "博士生", value: "Ph.D. candidate" }, { label: "硕士生", value: "Master degree candidate" }, { label: "本科生", value: "Bachelor degree candidate" }, { label: "往届生", value: "Prior member" }, { label: "访问者", value: "Visiting member" }],
         }
       - {label: "邮箱", name: "email", widget: "string"}
       - {label: "Github", name: "github", widget: "string", required: false}
