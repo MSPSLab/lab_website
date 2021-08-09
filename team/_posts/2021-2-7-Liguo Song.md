@@ -9,7 +9,6 @@ scholar: null
 orcid: null
 image: /images/team/songliguo.png
 cv: null
-date: 2021-02-07
 twitter: null
 ---
 

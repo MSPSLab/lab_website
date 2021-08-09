@@ -5,8 +5,8 @@ handle: RanPeng
 position: Associate Professor
 email: rpeng@dlmu.edu.cn
 image: /images/team/pengran.png
-date: 2021-02-08
 ---
+
 > 研究方向：
 
 - 主要从事微纳机电系统及微纳流控传感技术研究
