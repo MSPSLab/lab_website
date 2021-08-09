@@ -11,7 +11,7 @@ collections:
     sort: "date:desc"
     create: true
     slug: "{{date}}-{{slug}}"
-      sanitize_replacement: " "
+    sanitize_replacement: " "
     fields:
       - {label: "样式", name: "layout", widget: "hidden", default: "post"}
       - {label: "标题", name: "title", widget: "string", tagname: "h1"}
