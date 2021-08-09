@@ -50,12 +50,13 @@ collections:
       - {label: "期刊&页码（无需年份）", name: "journal", widget: "string"}
       - {label: "PDF链接（使用jsdelivr地址）", name: "pdf", widget: "string"}
       - {label: "DOI号", name: "doi", widget: "string"}
-      - {label: "City", name: "airport-code", widget: "select", options:
-    - { label: "Chicago", value: "ORD" }
-    - { label: "Paris", value: "CDG" }
-    - { label: "Tokyo", value: "HND" }
-    }
-      - {label: "类型：patents（专利）、book（书籍）、journal（期刊）、conference（会议）", name: "type", widget: "string"}
+      - {
+          label: "类型",
+          name: "type",
+          widget: "select",
+          options:
+            [{ label: "期刊", value: "journal" }, { label: "会议", value: "conference" }, { label: "专利", value: "patents" }, { label: "书籍", value: "book" }],
+        }
       - {label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: 'Team'
@@ -69,7 +70,13 @@ collections:
       - {label: "样式", name: "layout", widget: "hidden", default: "member"}
       - {label: "姓名（如：Hengyi Yang）", name: "title", widget: "string", tagname: "h1"}
       - {label: "姓名备份（格式同上）", name: "handle", widget: "string"}
-      - {label: "职位：Professor（教授）、Associate Professor（副教授）、Lecturer（讲师）、Experimentalist（实验师）、Ph.D. candidate（博士生）、Master degree candidate（硕士生）、Bachelor degree candidate（本科生）、Prior member（往届生）、Visiting member（访问生）", name: "position", widget: "string"}
+            - {
+          label: "职位",
+          name: "position",
+          widget: "select",
+          options:
+            [{ label: "教授", value: "Professor" }, { label: "副教授", value: "Associate Professor" }, { label: "讲师", value: "Lecturer" }, { label: "实验师", value: "Experimentalist" }, { label: "讲师", value: "Lecturer" }, { label: "博士生", value: "Ph.D. candidate" }, { label: "硕士生", value: "Master degree candidate" }, { label: "本科生", value: "Bachelor degree candidate" }, { label: "往届生", value: "Prior member" }, { label: "访问者", value: "Visiting member" }],
+        }
       - {label: "邮箱", name: "email", widget: "string"}
       - {label: "Github", name: "github", widget: "string", required: false}
       - {label: "谷歌Scholar", name: "scholar", widget: "string", required: false}
