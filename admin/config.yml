@@ -50,15 +50,11 @@ collections:
       - {label: "期刊&页码（无需年份）", name: "journal", widget: "string"}
       - {label: "PDF链接（使用jsdelivr地址）", name: "pdf", widget: "string"}
       - {label: "DOI号", name: "doi", widget: "string"}
-      
-      - label: "City"
-  name: "airport-code"
-  widget: "select"
-  options:
+      - {label: "City", name: "airport-code", widget: "select", options:
     - { label: "Chicago", value: "ORD" }
     - { label: "Paris", value: "CDG" }
     - { label: "Tokyo", value: "HND" }
-    
+    }
       - {label: "类型：patents（专利）、book（书籍）、journal（期刊）、conference（会议）", name: "type", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD"}
       - {label: "Body", name: "body", widget: "markdown"}
