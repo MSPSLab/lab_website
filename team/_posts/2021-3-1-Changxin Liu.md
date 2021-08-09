@@ -4,11 +4,11 @@ title: Changxin Liu
 handle: Changxin Liu
 position: Lecturer
 email: liu_changxin@dlmu.edu.cn
-github: " "
-scholar: " "
-orcid: " "
+github:
+scholar: 
+orcid:
 image: /images/team/liuchangxin.png
-cv: " "
+cv: 
 date: 2021-08-09 11:34:00
 twitter: null
 ---
