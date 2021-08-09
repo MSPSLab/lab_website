@@ -2,7 +2,7 @@ backend:
     name: github
     repo: MSPSLab/lab_website 
     branch: main
-media_folder: 'assets/uploads'
+media_folder: 'images/team'
 collections:
   - name: 'Blog'
     label: 'Blog'
@@ -53,3 +53,23 @@ collections:
       - {label: "类型：patents（专利）、book（书籍）、journal（期刊）、conference（会议）", name: "type", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: 'Team'
+    label: 'Team'
+    label_singular: "Team" 
+    folder: 'team/_posts/'
+    sort: "date:desc"
+    create: true 
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "样式", name: "layout", widget: "hidden", default: "member"}
+      - {label: "姓名（如：Hengyi Yang）", name: "title", widget: "string", tagname: "h1"}
+      - {label: "姓名备份（格式同上）", name: "handle", widget: "string"}
+      - {label: "职位：Professor（教授）、Associate Professor（副教授）、Lecturer（讲师）、Experimentalist（实验师）、Ph.D. candidate（博士生）、Master degree candidate（硕士生）、Bachelor degree candidate（本科生）、Prior member（往届生）、Visiting member（访问生）", name: "position", widget: "string"}
+      - {label: "邮箱", name: "email", widget: "string"}
+      - {label: "Github", name: "github", widget: "string"}
+      - {label: "谷歌Scholar", name: "scholar", widget: "string"}
+      - {label: "Orcid", name: "orcid", widget: "string"}
+      - {label: "头像（149*149像素）", name: "image", widget: "image", allow_multiple: false}
+      - {label: "简历文件", name: "cv", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
+      - {label: "Body", name: "body", widget: "markdown"}  
