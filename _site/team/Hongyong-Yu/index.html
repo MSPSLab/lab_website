@@ -58,7 +58,17 @@
 
 
 </head>
-</head>
+<script>
+    if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", function (user) {
+        if (!user) {
+        window.netlifyIdentity.on("login", function () {
+            document.location.href = "/admin/";
+        });
+        }
+    });
+    }
+    </script>
 <style type="text/css">
 	body {
 		top: 0 !important;
@@ -184,8 +194,8 @@
 
 <ul>
 <li>2014-2018 大连海事大学 本科 轮机工程</li>
-<li>2018-2019招商局重工（江苏）有限公司 轮机调试工程师</li>
-<li>2020-今 硕士研究生 轮机工程学硕</li>
+<li>2018-2019 招商局重工（江苏）有限公司 轮机调试工程师</li>
+<li>2020-至今 硕士研究生 轮机工程学硕</li>
 </ul>
 
 		</div>
@@ -312,7 +322,7 @@
 				</div>
 				<div class="colophon" style="align-items: baseline">
 					<div class="google_translate_element2" id="google_translate_element2"></div>
-					<button type="button" class="btn btn-outline-secondary" onclick="cleartrans()" style="margin-left: 15px;">Reset</button>
+					<button type="button" onclick="cleartrans()" style="margin-left: 15px;">Reset</button>
 				</div>
 			</div>
 		</footer>

@@ -58,7 +58,17 @@
 
 
 </head>
-</head>
+<script>
+    if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", function (user) {
+        if (!user) {
+        window.netlifyIdentity.on("login", function () {
+            document.location.href = "/admin/";
+        });
+        }
+    });
+    }
+    </script>
 <style type="text/css">
 	body {
 		top: 0 !important;
@@ -456,6 +466,8 @@
 
 
 
+
+
 <div class="col-md-4 memberbox">
 	<div class="media">
 		
@@ -559,6 +571,26 @@
 <div class="col-md-4 memberbox">
 	<div class="media">
 		
+		<a class="picture-link pull-left" href="/team/Ran-Peng/">
+			<img width="100" class="profile-picture team-gallery-pic media-object" src="/images/team/pengran.png">
+		</a>
+		
+		<div class="media-body">
+			
+			<h3 class="head"><a href="/team/Ran-Peng/" style="color: #586E72;">Ran Peng</a></h3>
+			
+			<p class="teamnote">Associate Professor</p>
+		</div>
+	</div>
+	<div class="bigspacer"></div>
+	<div class="bigspacer"></div>
+</div>
+
+
+
+<div class="col-md-4 memberbox">
+	<div class="media">
+		
 		<a class="picture-link pull-left" href="/team/Liguo-Song/">
 			<img width="100" class="profile-picture team-gallery-pic media-object" src="/images/team/songliguo.png">
 		</a>
@@ -573,6 +605,8 @@
 	<div class="bigspacer"></div>
 	<div class="bigspacer"></div>
 </div>
+
+
 
 
 
@@ -986,6 +1020,8 @@
 
 
 
+
+
 <div class="col-md-4 memberbox">
 	<div class="media">
 		
@@ -1003,6 +1039,8 @@
 	<div class="bigspacer"></div>
 	<div class="bigspacer"></div>
 </div>
+
+
 
 
 
@@ -2122,6 +2160,8 @@
 
 
 
+
+
 <div class="col-md-4 memberbox">
 	<div class="media">
 		
@@ -2541,6 +2581,8 @@
 
 
 
+
+
 <div class="col-md-4 memberbox">
 	<div class="media">
 		
@@ -2741,7 +2783,7 @@
 				</div>
 				<div class="colophon" style="align-items: baseline">
 					<div class="google_translate_element2" id="google_translate_element2"></div>
-					<button type="button" class="btn btn-outline-secondary" onclick="cleartrans()" style="margin-left: 15px;">Reset</button>
+					<button type="button" onclick="cleartrans()" style="margin-left: 15px;">Reset</button>
 				</div>
 			</div>
 		</footer>

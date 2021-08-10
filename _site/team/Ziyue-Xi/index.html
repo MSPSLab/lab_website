@@ -58,7 +58,17 @@
 
 
 </head>
-</head>
+<script>
+    if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", function (user) {
+        if (!user) {
+        window.netlifyIdentity.on("login", function () {
+            document.location.href = "/admin/";
+        });
+        }
+    });
+    }
+    </script>
 <style type="text/css">
 	body {
 		top: 0 !important;
@@ -197,7 +207,8 @@
 <li>2018-2019 学年荣获数学竞赛山东省三等奖</li>
 <li>2017-2018学年荣获"思想品德奖学金"</li>
 <li>2018-2019学年荣获"单项奖学金"</li>
-<li>2018-2019学年度荣获青岛西海岸围棋名人赛第五名 ◼ 2021.06获得优秀毕业生称号</li>
+<li>2018-2019学年度荣获青岛西海岸围棋名人赛第五名</li>
+<li>2021.06获得优秀毕业生称号</li>
 </ol>
 
 		</div>
@@ -324,7 +335,7 @@
 				</div>
 				<div class="colophon" style="align-items: baseline">
 					<div class="google_translate_element2" id="google_translate_element2"></div>
-					<button type="button" class="btn btn-outline-secondary" onclick="cleartrans()" style="margin-left: 15px;">Reset</button>
+					<button type="button" onclick="cleartrans()" style="margin-left: 15px;">Reset</button>
 				</div>
 			</div>
 		</footer>

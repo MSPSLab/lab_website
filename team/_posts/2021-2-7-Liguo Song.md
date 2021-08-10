@@ -4,12 +4,12 @@ title: Liguo Song
 handle: Liguo Song
 position: Associate Professor
 email: songliguo@dlmu.edu.cn
-github: null
-scholar: null
-orcid: null
+github: 
+scholar: 
+orcid: 
 image: /images/team/songliguo.png
-cv: null
-twitter: null
+cv: 
+twitter: 
 ---
 
 >教育经历：

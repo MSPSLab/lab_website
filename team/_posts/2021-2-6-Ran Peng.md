@@ -5,7 +5,6 @@ handle: RanPeng
 position: Associate Professor
 email: rpeng@dlmu.edu.cn
 image: /images/team/pengran.png
-date: 2021-8-9
 ---
 
 > 研究方向：

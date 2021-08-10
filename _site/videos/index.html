@@ -58,7 +58,17 @@
 
 
 </head>
-</head>
+<script>
+    if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", function (user) {
+        if (!user) {
+        window.netlifyIdentity.on("login", function () {
+            document.location.href = "/admin/";
+        });
+        }
+    });
+    }
+    </script>
 <style type="text/css">
 	body {
 		top: 0 !important;
@@ -134,12 +144,12 @@
 
 	<div class="container main">
 
-		<div class="row">
+		<!-- <div class="row">
 	<div class="col-lg-4 col-sm-6 item">
-		<img src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/others/%E7%8E%8B%E4%B8%AD%E6%9E%97%E6%8A%A5%E5%91%8A%E5%90%88%E5%BD%B1.jpg">
+		<img src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/others/王中林报告合影.jpg">
 	</div>
 
-</div>
+</div> -->
 
 		<div class="row">
 
@@ -250,7 +260,7 @@
 				</div>
 				<div class="colophon" style="align-items: baseline">
 					<div class="google_translate_element2" id="google_translate_element2"></div>
-					<button type="button" class="btn btn-outline-secondary" onclick="cleartrans()" style="margin-left: 15px;">Reset</button>
+					<button type="button" onclick="cleartrans()" style="margin-left: 15px;">Reset</button>
 				</div>
 			</div>
 		</footer>

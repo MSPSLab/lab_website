@@ -58,7 +58,17 @@
 
 
 </head>
-</head>
+<script>
+    if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", function (user) {
+        if (!user) {
+        window.netlifyIdentity.on("login", function () {
+            document.location.href = "/admin/";
+        });
+        }
+    });
+    }
+    </script>
 <style type="text/css">
 	body {
 		top: 0 !important;
@@ -253,6 +263,23 @@
 
 			<div class="note-title">
 				<i class="fa fa-bullhorn"></i>
+				<a class="off" href="/news/%E6%9C%80%E6%96%B0%E7%BB%BC%E8%BF%B0-%E4%B8%80%E6%96%87%E4%BA%86%E8%A7%A3%E8%93%9D%E8%89%B2%E8%83%BD%E6%BA%90%E6%94%B6%E9%9B%86%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95/">
+					[最新综述]一文了解蓝色能源收集最新进展！
+				</a>
+			</div>
+			<div class="smallnote">
+				Published
+				09 Aug 2021
+				
+			</div>
+			<div class="spacer"></div>
+			<div class="spacer"></div>
+			
+
+			
+
+			<div class="note-title">
+				<i class="fa fa-bullhorn"></i>
 				<a class="off" href="/news/%E6%99%BA%E8%81%94%E5%8F%8B%E9%81%93%E6%9D%AF-%E7%AC%AC%E5%8D%81%E5%85%AD%E5%B1%8A%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BA%A4%E9%80%9A%E8%BF%90%E8%BE%93%E7%A7%91%E6%8A%80%E5%A4%A7%E8%B5%9B/">
 					《水下船体智能检测机器人》荣获“智联友道杯”第十六届全国大学生交通运输科技大赛航海技术类别作品一等奖，《一种波浪能采集利用的长续航自供能海洋浮标》荣获航海技术类别作品三等奖
 				</a>
@@ -277,23 +304,6 @@
 			<div class="smallnote">
 				Published
 				24 Jun 2021
-				
-			</div>
-			<div class="spacer"></div>
-			<div class="spacer"></div>
-			
-
-			
-
-			<div class="note-title">
-				<i class="fa fa-bullhorn"></i>
-				<a class="off" href="/news/%E6%9C%80%E6%96%B0%E7%BB%BC%E8%BF%B0-%E4%B8%80%E6%96%87%E4%BA%86%E8%A7%A3%E8%93%9D%E8%89%B2%E8%83%BD%E6%BA%90%E6%94%B6%E9%9B%86%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95/">
-					[最新综述]一文了解蓝色能源收集最新进展！
-				</a>
-			</div>
-			<div class="smallnote">
-				Published
-				11 Jun 2021
 				
 			</div>
 			<div class="spacer"></div>
@@ -498,7 +508,7 @@
 				</div>
 				<div class="colophon" style="align-items: baseline">
 					<div class="google_translate_element2" id="google_translate_element2"></div>
-					<button type="button" class="btn btn-outline-secondary" onclick="cleartrans()" style="margin-left: 15px;">Reset</button>
+					<button type="button" onclick="cleartrans()" style="margin-left: 15px;">Reset</button>
 				</div>
 			</div>
 		</footer>

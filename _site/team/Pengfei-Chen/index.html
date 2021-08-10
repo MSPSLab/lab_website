@@ -58,7 +58,17 @@
 
 
 </head>
-</head>
+<script>
+    if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", function (user) {
+        if (!user) {
+        window.netlifyIdentity.on("login", function () {
+            document.location.href = "/admin/";
+        });
+        }
+    });
+    }
+    </script>
 <style type="text/css">
 	body {
 		top: 0 !important;
@@ -231,8 +241,7 @@
 <li>2017-2018 “大连海事大学优秀毕业生”</li>
 <li>2015-2016  “大连市三好学生”</li>
 <li>2015-2018  “大连海事大学三好学生”（ 连续3次）</li>
-<li>2015-2016作为“青春爱唱响”远洋“探海者”第八届全国大学生社会实践双翼行大学生</li>
-<li>公益团队成员获全国“一等奖”、“全国优秀团队”</li>
+<li>2015-2016作为“青春爱唱响”远洋“探海者”第八届全国大学生社会实践双翼行大学生公益团队成员获全国“一等奖”、“全国优秀团队”</li>
 <li>2015-2016大连海事大学暑期文化科技卫生“三下乡”社会实践校“十佳团队”</li>
 <li>2015-2016大连海事大学情商奖学金-“自励自强奖”</li>
 <li>2016-2017大连海事大学船舶专业认识实习“优秀学生干部”</li>
@@ -362,7 +371,7 @@
 				</div>
 				<div class="colophon" style="align-items: baseline">
 					<div class="google_translate_element2" id="google_translate_element2"></div>
-					<button type="button" class="btn btn-outline-secondary" onclick="cleartrans()" style="margin-left: 15px;">Reset</button>
+					<button type="button" onclick="cleartrans()" style="margin-left: 15px;">Reset</button>
 				</div>
 			</div>
 		</footer>
