@@ -2,7 +2,7 @@
 layout: member
 title: Haichao Yuan
 position: Lecturer 
-handle: Haichao Yuan
+handle: Yuan
 email: 
 twitter: 
 github: 

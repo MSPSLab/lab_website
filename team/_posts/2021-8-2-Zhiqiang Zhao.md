@@ -2,7 +2,7 @@
 layout: member
 title: Zhiqiang Zhao
 position: Visiting member
-handle: Zhiqiang Zhao
+handle: Zhao
 email: zhaozhiqiang929@gdou.edu.cn
 twitter: 
 github: 

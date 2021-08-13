@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Ran Peng
-handle: RanPeng
+handle: Peng
 position: Associate Professor
 email: rpeng@dlmu.edu.cn
 image: /images/team/pengran.png

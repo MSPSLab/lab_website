@@ -2,7 +2,7 @@
 layout: member
 title: Chengfa Wang
 position: Lecturer
-handle: Chengfa Wang
+handle: Wang
 email: wangcf08@dlmu.edu.cn
 twitter: 
 github: 

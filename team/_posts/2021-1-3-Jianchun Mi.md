@@ -2,7 +2,7 @@
 layout: member
 title: Jianchun Mi
 position: Professor
-handle: Jianchun Mi
+handle: C
 email: jmi@pku.edu.cn
 twitter: 
 github: 

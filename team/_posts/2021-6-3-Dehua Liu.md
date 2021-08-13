@@ -2,7 +2,7 @@
 layout: member
 title: Dehua Liu
 position: Master degree candidate
-handle: Dehua Liu
+handle: Liu
 email: 18042694375@163.com
 twitter: 
 github: 

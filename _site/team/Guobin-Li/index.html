@@ -59,16 +59,16 @@
 
 </head>
 <script>
-    if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", function (user) {
-        if (!user) {
-        window.netlifyIdentity.on("login", function () {
-            document.location.href = "/admin/";
-        });
-        }
-    });
-    }
-    </script>
+	if (window.netlifyIdentity) {
+		window.netlifyIdentity.on("init", function (user) {
+			if (!user) {
+				window.netlifyIdentity.on("login", function () {
+					document.location.href = "/admin/";
+				});
+			}
+		});
+	}
+</script>
 <style type="text/css">
 	body {
 		top: 0 !important;
@@ -80,10 +80,9 @@
 </style>
 
 <body>
-
 	<div id="header">
 		<nav class="navbar navbar-default navbar-static-top" role="navigation">
-			<div class="container">
+			<div class="container" style="background-image: linear-gradient(203deg, #4aa96b1c 0%, #b3cbf157 100%);border-radius: 10px;">
 				<div class="navbar-header">
 					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-element" aria-expanded="false">
 						<span class="sr-only">Toggle navigation</span>
@@ -303,7 +302,7 @@
 
 		<div class="row">
 
-			<div class="col-md-12 col-xs-12">
+			<div class="col-md-12 col-xs-12" style="background-image: linear-gradient(135deg, #4aa96b0d 0%, #bed1ef33 100%);border-radius: 10px;">
 				<div>
 					<ul class="list-inline footernav">
 						
@@ -346,9 +345,7 @@
 			<div class="col-lg-12 col-xs-12">
 				<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
-
 				<div class="colophon">
-
 					<!--动态打字，未启用
 						 <div class="footer-banner-left">
 						<div id="footer-banner-tips">用行动去思考，去改变、去创造。</div><span class="typed-cursor typed-cursor--blink"
@@ -470,6 +467,6 @@
 
 		</script>
 		<script src="/js/element.js?cb=googleTranslateElementInit"></script>
+		<script type="text/javascript" text=" " src="/js/x-return-top.min.js"></script>
 </div></body>
-
 </html>

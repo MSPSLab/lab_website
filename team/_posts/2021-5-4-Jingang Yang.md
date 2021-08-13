@@ -2,7 +2,7 @@
 layout: member
 title: Jingang Yang
 position: Ph.D. candidate
-handle: Jingang Yang
+handle: Yang
 email: 2765695811@qq.com
 twitter: 
 github: 

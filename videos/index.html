@@ -3,12 +3,33 @@ layout: default
 title: Marine Self-Powered System Lab / Media
 categories:
 - videos
+images:
+  - path: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/others/1X.png"
+    title: pic
+  - path: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/others/2.png"
+    title: pic
+  - path: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/others/3.png"
+    title: pic
+  - path: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/others/4.png"
+    title: pic	
+  - path: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/others/5.png"
+    title: pic
+  - path: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/others/6.png"
+    title: pic
 ---
 
 
-<div class="row">
-	<div class="col-lg-4 col-sm-6 item">
-		<img src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/others/王中林报告合影.jpg">
+<div class="row" style="padding-bottom: 20px;">
+	{% for image in page.images %}
+	<div class="col-lg-4 col-sm-6 item" style="padding-bottom: 20px;">
+		{% if image.title == "pic" %}
+		<img src="{{ image.path }}" style="border-radius: 15px;">
+		{% else %}
+		<video id="video" controls="" preload="auto" style="width: 100%;border-radius: 15px;">
+			<source id="mp4" src="{{ image.path }}" type="video/mp4">
+		</video>
+		{% endif %}
 	</div>
-
+	{% endfor %}
 </div> 
+

@@ -2,7 +2,7 @@
 layout: member
 title: Jianye Wang
 position: Prior member
-handle: Jianye Wang
+handle: Wang
 email: 1013838510@qq.com
 twitter: 
 github: 

@@ -2,7 +2,7 @@
 layout: member
 title: Nanxi Chen
 position: Master degree candidate
-handle: Nanxi Chen
+handle: Chen
 email: 94502470@qq.com
 twitter: 
 github: 

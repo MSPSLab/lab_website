@@ -2,7 +2,7 @@
 layout: member
 title: Fangming Li
 position: Ph.D. candidate
-handle: Fangming Li
+handle: Li
 email: AlbertDT0521@outlook.com
 twitter: 
 github: 

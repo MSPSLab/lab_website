@@ -2,7 +2,7 @@
 layout: member
 title: Houwang Zhou
 position: Visiting member
-handle: Houwang Zhou
+handle: Zhou
 email: 496254666@qq.com
 twitter: 
 github: 

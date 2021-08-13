@@ -2,7 +2,7 @@
 layout: member
 title: Guangming Xie
 position: Professor
-handle: Guangming Xie
+handle: D
 email: xiegming@pku.edu.cn
 twitter: 
 github: 

@@ -2,7 +2,7 @@
 layout: member
 title: Guobin Li
 position: Professor
-handle: Guobin Li
+handle: E
 email: liguobin@dlmu.edu.cn
 twitter: 
 github: 

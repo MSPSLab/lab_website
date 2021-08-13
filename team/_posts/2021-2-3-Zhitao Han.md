@@ -2,7 +2,7 @@
 layout: member
 title: Zhitao Han
 position: Associate Professor
-handle: Zhitao Han
+handle: Han
 email: hanzt@dlmu.edu.cn
 twitter: 
 github: 

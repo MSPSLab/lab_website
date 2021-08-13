@@ -2,7 +2,7 @@
 layout: member
 title: Xiangyi Wang
 position: Prior member
-handle: Xiangyi Wang
+handle: Wang
 email: wxy15714131102@163.com
 twitter: 
 github: 

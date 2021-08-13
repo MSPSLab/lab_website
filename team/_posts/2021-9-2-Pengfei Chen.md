@@ -2,7 +2,7 @@
 layout: member
 title: Pengfei Chen
 position: Prior member
-handle: Pengfei Chen
+handle: Chen
 email: chenpengfei@binn.cas.cn
 twitter: 
 github: 

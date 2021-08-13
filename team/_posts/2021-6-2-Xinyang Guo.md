@@ -2,7 +2,7 @@
 layout: member
 title: Xinyang Guo
 position: Master degree candidate
-handle: Xinyang Guo
+handle: Guo
 email: 2928368480@qq.com
 twitter: 
 github: 

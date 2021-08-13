@@ -2,7 +2,7 @@
 layout: member
 title: Xiangqian Zhang
 position: Prior member
-handle: Xiangqian Zhang
+handle: Zhang
 email: 17698328035@163.com
 twitter: 
 github: 

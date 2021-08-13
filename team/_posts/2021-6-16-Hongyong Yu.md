@@ -2,7 +2,7 @@
 layout: member
 title: Hongyong Yu
 position: Master degree candidate
-handle: Hongyong Yu
+handle: Yu
 email: 442798130@qq.com
 twitter: 
 github: 

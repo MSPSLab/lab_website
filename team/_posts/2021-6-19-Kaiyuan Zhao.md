@@ -2,7 +2,7 @@
 layout: member
 title: Kaiyuan Zhao
 position: Master degree candidate
-handle: Kaiyuan Zhao
+handle: Zhao
 email: zky666@dlmu.edu.cn
 twitter: 
 github: 

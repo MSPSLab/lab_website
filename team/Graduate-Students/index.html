@@ -10,11 +10,12 @@ categories:
 <!-- <h5>
 	Sort by A - Z of surname initial letter in each position group.
 </h5> -->
+<div  class="row">
 
-
-{% for member in site.categories.team reversed %}
-{% if member.position contains "candidate" %}
-<div class="col-md-4 memberbox">
+{% assign sortedItems = site.categories.team | sort: 'handle' %}
+{% for member in sortedItems %}
+{% if member.position == "Ph.D. candidate" %}
+<div class="col-sm-6 col-md-4 col-xs-12 memberbox">
 	<div class="media">
 		{% if member.no_introduce == true %}
 		<a class="picture-link pull-left" href="">
@@ -40,3 +41,61 @@ categories:
 {% endif %}
 {% endfor %}
 
+{% assign sortedItems = site.categories.team | sort: 'handle' %}
+{% for member in sortedItems %}
+{% if member.position == "Master degree candidate" %}
+<div class="col-sm-6 col-md-4 col-xs-12 memberbox">
+	<div class="media">
+		{% if member.no_introduce == true %}
+		<a class="picture-link pull-left" href="">
+			<img width=100 class="profile-picture team-gallery-pic media-object" src="{{ member.image }}">
+		</a>
+		{% else %}
+		<a class="picture-link pull-left" href="{{ member.url }}">
+			<img width=100 class="profile-picture team-gallery-pic media-object" src="{{ member.image }}">
+		</a>
+		{% endif %}
+		<div class="media-body">
+			{% if member.no_introduce == true %}
+			<h3 class="head"><a href="" style="color: #3E978B;">{{ member.title }}</a></h3>
+			{% else %}
+			<h3 class="head"><a href="{{ member.url }}" style="color: #3E978B;">{{ member.title }}</a></h3>
+			{% endif %}
+			<p class="teamnote">{{ member.position }}</p>
+		</div>
+	</div>
+	<div class="bigspacer"></div>
+	<div class="bigspacer"></div>
+</div>
+{% endif %}
+{% endfor %}
+
+{% assign sortedItems = site.categories.team | sort: 'handle' %}
+{% for member in sortedItems %}
+{% if member.position == "Bachelor degree candidate" %}
+<div class="col-sm-6 col-md-4 col-xs-12 memberbox">
+	<div class="media">
+		{% if member.no_introduce == true %}
+		<a class="picture-link pull-left" href="">
+			<img width=100 class="profile-picture team-gallery-pic media-object" src="{{ member.image }}">
+		</a>
+		{% else %}
+		<a class="picture-link pull-left" href="{{ member.url }}">
+			<img width=100 class="profile-picture team-gallery-pic media-object" src="{{ member.image }}">
+		</a>
+		{% endif %}
+		<div class="media-body">
+			{% if member.no_introduce == true %}
+			<h3 class="head"><a href="" style="color: #3E978B;">{{ member.title }}</a></h3>
+			{% else %}
+			<h3 class="head"><a href="{{ member.url }}" style="color: #3E978B;">{{ member.title }}</a></h3>
+			{% endif %}
+			<p class="teamnote">{{ member.position }}</p>
+		</div>
+	</div>
+	<div class="bigspacer"></div>
+	<div class="bigspacer"></div>
+</div>
+{% endif %}
+{% endfor %}
+</div>

@@ -2,7 +2,7 @@
 layout: member
 title: Changxin Liu
 position: Lecturer
-handle: Changxin Liu
+handle: Liu
 email: liu_changxin@dlmu.edu.cn
 twitter: 
 github: 

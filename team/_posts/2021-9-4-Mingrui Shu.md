@@ -2,7 +2,7 @@
 layout: member
 title: Mingrui Shu
 position: Prior member
-handle: Mingrui Shu
+handle: Shu
 email: 1217814436@qq.com
 twitter: 
 github: 

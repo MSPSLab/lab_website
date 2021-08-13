@@ -2,7 +2,7 @@
 layout: member
 title: Yongjiu Zou
 position: Lecturer
-handle: Yongjiu Zou
+handle: Zou
 email: 
 twitter: 
 github: 

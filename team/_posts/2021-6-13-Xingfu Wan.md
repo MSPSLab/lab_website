@@ -2,7 +2,7 @@
 layout: member
 title: Xingfu Wan
 position: Master degree candidate
-handle: Xingfu Wan
+handle: Wan
 email: wanxingfu97@qq.com
 twitter: 
 github: 

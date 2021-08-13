@@ -2,7 +2,7 @@
 layout: member
 title: Yiping Zhang
 position: Master degree candidate
-handle: Yiping Zhang
+handle: Zhang
 email: 67221686@qq.com
 twitter: 
 github: 

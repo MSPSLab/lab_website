@@ -2,7 +2,7 @@
 layout: member
 title: Ling Liu
 position: Master degree candidate
-handle: Ling Liu
+handle: Liu
 email: 
 twitter: 
 github: 

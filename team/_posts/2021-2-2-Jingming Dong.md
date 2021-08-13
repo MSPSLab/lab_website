@@ -2,7 +2,7 @@
 layout: member
 title: Jingming Dong
 position: Associate Professor
-handle: Jingming Dong
+handle: Dong
 email: dmudjm@dlmu.edu.cn
 twitter: 
 github: 

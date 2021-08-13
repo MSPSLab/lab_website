@@ -2,7 +2,7 @@
 layout: member
 title: Junpeng Wang
 position: Master degree candidate
-handle: Junpeng Wang
+handle: Wang
 email: 
 twitter: 
 github: 

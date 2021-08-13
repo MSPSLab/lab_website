@@ -2,7 +2,7 @@
 layout: member
 title: Minzheng Sun
 position: Master degree candidate
-handle: Minzheng Sun
+handle: Sun
 email: 3034304299@qq.com
 twitter: 
 github: 

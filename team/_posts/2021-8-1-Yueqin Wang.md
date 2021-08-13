@@ -2,7 +2,7 @@
 layout: member
 title: Yueqin Wang
 position: Visiting member
-handle: Yueqin Wang
+handle: Wang
 email: 1599435200@qq.com
 twitter: 
 github: 

@@ -2,7 +2,7 @@
 layout: member
 title: Huaan Li
 position: Master degree candidate
-handle: Huaan Li
+handle: Li
 email: HuaanLiDayayUp@163.com
 twitter: 
 github: 

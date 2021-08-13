@@ -2,7 +2,7 @@
 layout: member
 title: Yawei Wang
 position: Master degree candidate
-handle: Yawei Wang
+handle: Wang
 email: wangyawei@dlmu.edu.cn
 twitter: 
 github: 

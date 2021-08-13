@@ -2,7 +2,7 @@
 layout: member
 title: Zhenhui Lian
 position: Master degree candidate
-handle: Zhenhui Lian
+handle: Lian
 email: 13622017522@163.com
 twitter: 
 github: 

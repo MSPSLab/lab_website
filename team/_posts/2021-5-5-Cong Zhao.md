@@ -2,7 +2,7 @@
 layout: member
 title: Cong Zhao
 position: Ph.D. candidate
-handle: Cong Zhao
+handle: Zhao
 email: zhaocong951101@163.com
 twitter: 
 github: 

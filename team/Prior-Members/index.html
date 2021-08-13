@@ -10,11 +10,12 @@ categories:
 <!-- <h5>
 	Sort by A - Z of surname initial letter in each position group.
 </h5> -->
+<div  class="row">
 
-
-{% for member in site.categories.team reversed %}
+{% assign sortedItems = site.categories.team | sort: 'handle' %}
+{% for member in sortedItems %}
 {% if member.position contains "Prior" %}
-<div class="col-md-4 memberbox">
+<div class="col-sm-6 col-md-4 col-xs-12 memberbox">
 	<div class="media">
 		{% if member.no_introduce == true %}
 		<a class="picture-link pull-left" href="">
@@ -39,4 +40,4 @@ categories:
 </div>
 {% endif %}
 {% endfor %}
-
+</div>

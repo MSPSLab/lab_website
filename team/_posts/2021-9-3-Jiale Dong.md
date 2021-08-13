@@ -2,7 +2,7 @@
 layout: member
 title: Jiale Dong
 position: Prior member
-handle: Jiale Dong
+handle: Dong
 email: daviddongjiale@163.com
 twitter: 
 github: 

@@ -2,7 +2,7 @@
 layout: member
 title: Ziyi Zhang
 position: Master degree candidate
-handle: Ziyi Zhang
+handle: Zhang
 email: 364447735@qq.com
 twitter: 
 github: 

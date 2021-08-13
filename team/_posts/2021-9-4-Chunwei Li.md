@@ -2,7 +2,7 @@
 layout: member
 title: Chunwei Li
 position: Prior member
-handle: Chunwei Li
+handle: Li
 email: lichunwei20@mails.ucas.ac.cn
 twitter: 
 github: 

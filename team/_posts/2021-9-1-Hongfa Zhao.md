@@ -2,7 +2,7 @@
 layout: member
 title: Hongfa Zhao
 position: Prior member
-handle: Hongfa Zhao
+handle: Zhao
 email: zhaoh1040@163.com
 twitter: 
 github: 

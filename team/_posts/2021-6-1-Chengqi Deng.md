@@ -2,7 +2,7 @@
 layout: member
 title: Chengqi Deng
 position: Master degree candidate
-handle: Chengqi Deng
+handle: Deng
 email: dcqcool@163.com
 twitter: 
 github: 

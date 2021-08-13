@@ -2,7 +2,7 @@
 layout: member
 title: Yuefeng Gao
 position: Experimentalist
-handle: Yuefeng Gao
+handle: Gao
 email: 
 twitter: 
 github: 

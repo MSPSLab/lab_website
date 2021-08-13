@@ -2,7 +2,7 @@
 layout: member
 title: Tiancong Zhao
 position: Prior member
-handle: Tiancong Zhao
+handle: Zhao
 email: zhaotc3@mail2.sysu.edu.cn
 twitter: 
 github: 

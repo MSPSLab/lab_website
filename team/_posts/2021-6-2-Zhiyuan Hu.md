@@ -2,7 +2,7 @@
 layout: member
 title: Zhiyuan Hu
 position: Master degree candidate
-handle: Zhiyuan Hu
+handle: Hu
 email: zhiyuanhu@dlmu.edu.cn
 twitter: 
 github: 

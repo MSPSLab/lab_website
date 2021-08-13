@@ -2,7 +2,7 @@
 layout: member
 title: Xinrong Lv
 position: Associate Professor
-handle: Xinrong Lv
+handle: Lv
 email: 
 twitter: 
 github: 

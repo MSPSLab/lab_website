@@ -2,7 +2,7 @@
 layout: member
 title: Guanghao Qu
 position: Master degree candidate
-handle: Guanghao Qu
+handle: Qu
 email: Quguanghao@126.com
 twitter: 
 github: 

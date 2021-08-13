@@ -2,7 +2,7 @@
 layout: member
 title: Hao Wang
 position: Lecturer
-handle: Hao Wang
+handle: Wang
 email: hao8901@dlmu.edu.cn
 twitter: 
 github: 

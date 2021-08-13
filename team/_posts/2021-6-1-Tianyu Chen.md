@@ -2,7 +2,7 @@
 layout: member
 title: Tianyu Chen
 position: Master degree candidate
-handle: Tianyu Chen
+handle: Chen
 email: cty@dlmu.edu.cn
 twitter: 
 github: 

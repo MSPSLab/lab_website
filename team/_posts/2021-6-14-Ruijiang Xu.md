@@ -2,7 +2,7 @@
 layout: member
 title: Ruijiang Xu
 position: Master degree candidate
-handle: Ruijiang Xu
+handle: Xu
 email: 1352459157@qq.com
 twitter: 
 github: 

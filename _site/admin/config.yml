@@ -33,9 +33,9 @@ collections:
       - {label: "链接作者(对应为：Hengyi-Yang)", name: "url_author", widget: "string", required: false}
       - {label: "文件名定义时间（用于手动排序）", name: "date", widget: "datetime", format: "YYYY-M-D"}
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: 'Paper'
-    label: 'Paper'
-    label_singular: "Paper" 
+  - name: 'Journal Paper'
+    label: 'Journal Paper'
+    label_singular: "Journal Paper" 
     folder: 'papers/_posts/'
     sort: "date:desc"
     create: true 
@@ -55,7 +55,86 @@ collections:
           name: "type",
           widget: "select",
           options:
-            [{ label: "期刊", value: "journal" }, { label: "会议", value: "conference" }, { label: "专利", value: "patents" }, { label: "书籍", value: "book" }],
+            [{ label: "期刊", value: "journal" }],
+        }
+      - {label: "文件名定义时间（用于手动排序）", name: "date", widget: "datetime", format: "YYYY-M-D"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: 'Conference Paper'
+    label: 'Conference Paper'
+    label_singular: "Conference Paper" 
+    folder: 'papers/_posts/'
+    sort: "date:desc"
+    create: true 
+    slug: "{{date}}-{{slug}}"
+    fields:
+      - {label: "样式", name: "layout", widget: "hidden", default: "paper"}
+      - {label: "标题", name: "title", widget: "string", tagname: "h1"}
+      - {label: "论文缩略图", name: "image", widget: "image", allow_multiple: false}
+      - {label: "作者（英文逗号分隔）", name: "authors", widget: "string"}
+      - {label: "出版年份", name: "year", widget: "string"}
+      - {label: "短引用（如：XX. et al. Nano Energy.）", name: "ref", widget: "string"}
+      - {label: "会议&页码（无需年份）", name: "journal", widget: "string"}
+      - {label: "PDF链接（使用jsdelivr地址）", name: "pdf", widget: "string"}
+      - {label: "DOI号", name: "doi", widget: "string"}  
+      - {
+          label: "类型",
+          name: "type",
+          widget: "select",
+          options:
+            [{ label: "会议", value: "conference" }],
+        }
+      - {label: "文件名定义时间（用于手动排序）", name: "date", widget: "datetime", format: "YYYY-M-D"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: 'Patents'
+    label: 'Patents'
+    label_singular: "Patents" 
+    folder: 'papers/_posts/'
+    sort: "date:desc"
+    create: true 
+    slug: "{{date}}-{{slug}}"
+    fields:
+      - {label: "样式", name: "layout", widget: "hidden", default: "paper"}
+      - {label: "标题", name: "title", widget: "string", tagname: "h1"}
+      - {label: "论文缩略图", name: "image", widget: "image", allow_multiple: false}
+      - {label: "作者（英文逗号分隔）", name: "authors", widget: "string"}
+      - {label: "出版年份", name: "year", widget: "string"}
+      - {label: "短引用（如：XX. et al. Nano Energy.）", name: "ref", widget: "string"}
+      - {label: "会议&页码（无需年份）", name: "journal", widget: "string"}
+      - {label: "申请专利号", name: "num", widget: "string"}
+      - {label: "分类号（长分类中间用空格分隔）", name: "catenum", widget: "string"}  
+       - {label: "主分类号", name: "mainnum", widget: "string"}  
+      - {
+          label: "类型",
+          name: "type",
+          widget: "select",
+          options:
+            [{ label: "专利", value: "patents" }],
+        }
+      - {label: "文件名定义时间（用于手动排序）", name: "date", widget: "datetime", format: "YYYY-M-D"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: 'Book'
+    label: 'Book'
+    label_singular: "Book" 
+    folder: 'papers/_posts/'
+    sort: "date:desc"
+    create: true 
+    slug: "{{date}}-{{slug}}"
+    fields:
+      - {label: "样式", name: "layout", widget: "hidden", default: "paper"}
+      - {label: "标题", name: "title", widget: "string", tagname: "h1"}
+      - {label: "论文缩略图", name: "image", widget: "image", allow_multiple: false}
+      - {label: "作者（英文逗号分隔）", name: "authors", widget: "string"}
+      - {label: "出版年份", name: "year", widget: "string"}
+      - {label: "短引用（如：XX. et al. Nano Energy.）", name: "ref", widget: "string"}
+      - {label: "会议&页码（无需年份）", name: "journal", widget: "string"}
+      - {label: "ISBN号码", name: "ISBN", widget: "string"}  
+       - {label: "书本销售链接", name: "bookurl", widget: "string"}  
+      - {
+          label: "类型",
+          name: "type",
+          widget: "select",
+          options:
+            [{ label: "书籍", value: "book" }],
         }
       - {label: "文件名定义时间（用于手动排序）", name: "date", widget: "datetime", format: "YYYY-M-D"}
       - {label: "Body", name: "body", widget: "markdown"}
@@ -69,7 +148,7 @@ collections:
     fields:
       - {label: "样式", name: "layout", widget: "hidden", default: "member"}
       - {label: "姓名（如：Hengyi Yang）", name: "title", widget: "string", tagname: "h1"}
-      - {label: "姓名备份（格式同上）", name: "handle", widget: "string"}
+      - {label: "姓氏（用于自动排序，如 Yang）", name: "handle", widget: "string"}
       - {
           label: "职位",
           name: "position",

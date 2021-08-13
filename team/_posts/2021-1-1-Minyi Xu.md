@@ -2,7 +2,7 @@
 layout: member
 title: Minyi Xu
 position: Professor
-handle: Minyi Xu
+handle: A
 email: xuminyi@dlmu.edu.cn
 twitter: 
 github: 

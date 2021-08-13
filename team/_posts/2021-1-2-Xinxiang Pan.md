@@ -2,7 +2,7 @@
 layout: member
 title: Xinxiang Pan
 position: Professor
-handle: Xinxiang Pan
+handle: B
 email: panxx@dlmu.edu.cn
 twitter: 
 github: 

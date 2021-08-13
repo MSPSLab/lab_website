@@ -2,7 +2,7 @@
 layout: member
 title: Yuhang Fan
 position: Master degree candidate
-handle: Yuhang Fan
+handle: Fan
 email: 591480515@qq.com
 twitter: 
 github: 

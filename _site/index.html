@@ -59,16 +59,16 @@
 
 </head>
 <script>
-    if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", function (user) {
-        if (!user) {
-        window.netlifyIdentity.on("login", function () {
-            document.location.href = "/admin/";
-        });
-        }
-    });
-    }
-    </script>
+	if (window.netlifyIdentity) {
+		window.netlifyIdentity.on("init", function (user) {
+			if (!user) {
+				window.netlifyIdentity.on("login", function () {
+					document.location.href = "/admin/";
+				});
+			}
+		});
+	}
+</script>
 <style type="text/css">
 	body {
 		top: 0 !important;
@@ -80,10 +80,9 @@
 </style>
 
 <body>
-
 	<div id="header">
 		<nav class="navbar navbar-default navbar-static-top" role="navigation">
-			<div class="container">
+			<div class="container" style="background-image: linear-gradient(203deg, #4aa96b1c 0%, #b3cbf157 100%);border-radius: 10px;">
 				<div class="navbar-header">
 					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-element" aria-expanded="false">
 						<span class="sr-only">Toggle navigation</span>
@@ -144,7 +143,9 @@
 
 	<div class="container main">
 
-		<div class="row">
+		<script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="row">
 	<div class="col-lg-9 col-md-8 col-sm-12 col-xs-12">
 		<h2 class="intro-text">
 			Marine Self-Powered System Lab led by <a href="/team/Minyi-Xu/" rel="noopener noreferrer">Prof. Minyi
@@ -159,36 +160,62 @@
 		<img class="biglogo img-responsive" src="/images/biglogo.png" type="image/svg+xml">
 	</div>
 </div>
-<div class="row">
-	<div style="padding-left:15px;padding-right: 15px;">
-		<img class="pull-right img-thumbnail" style="border-radius: 50%;width: 100px;margin-left: 15px;" src="/images/team/xuminyi.jpg">
-		<p style="font-style:italic;">
-			<i class="fa fa-quote-left fa-fw" style="color: gray; font-style:italic;"></i>
-			Our research areas include ocean energy, underwater sensing, maritime rescue, ship inspection, smart
-			nacelles, green and healthy ship technology. Our desire is to achieve partial energy independence through
-			self-powered system and to create more dynamic and exiting research in energy harvesting, sensors,
-			communication, and control application. We embrace the values of integrity, excellence and teamwork, and we
-			practice integrity in all its forms and are honest and fair to other team members and collaborators; We have
-			a zero tolerance policy for plagiarism and falsification of results; We strive for excellence in everything
-			we do and insist on scientific quality; Our goal is to develop hands-on individuals with excellent
-			analytical, technical and communication skills; Ideas are freely shared and discussed, and we believe that
-			great teamwork is the key to great science.; And we strive to build great collaborative relationships within
-			and outside the group. With a truly diverse culture, each member of our team is passionate and committed to
-			the research area of interest, we want to work with like-minded partners and encourage applicants from
-			diverse backgrounds to join our team.
-			<i class="fa fa-quote-right fa-fw" style="color: gray; font-style:italic;"></i>
+<!-- style="margin-left: 2px; margin-right: 2px;"  style="border-radius: 15px;"-->
 
+<div class="row">
+	<div class="col-lg-9 col-md-8 col-sm-12 col-xs-12">
+		<div id="slidershow" class="carousel_iframe carousel slide" data-ride="carousel" data-interval="2500" data-pause="hover" data-wrap="true" style="margin-top: 0rem; margin-left:auto; margin-right:auto;">
+		<!-- 设置图片轮播的顺序 -->
+		<ol class="carousel-indicators">
+			<li class="active" data-target="#slidershow" data-slide-to="0">
+			<li data-target="#slidershow" data-slide-to="1">
+			<li data-target="#slidershow" data-slide-to="2">
+			<li data-target="#slidershow" data-slide-to="3">
+			<li data-target="#slidershow" data-slide-to="5">
+		</ol>
+		<!--设置轮播的图片-->
+		<div class="carousel-inner" style="border-radius: 15px;">
+			<div class="item active" style="border-radius: 15px;">
+				<a href="/papers/A-highly-sensitive-wave-sensor-based-on-liquid-solid-interfacing-triboelectric-nanogenerator-for-smart-marine-equipment/"><img src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/home/A-highly-sensitive-2.png" alt="cat1" style="margin: 0 auto;border-radius: 15px; padding-bottom: 8px;"></a>
+			</div>
+			<div class="item">
+				<a href="/papers/Dual-Tube-Helmholtz-Resonator-Based-Triboelectric-Nanogenerator-for-Highly-Efficient-Harvesting-of-Acoustic-Energy/"><img src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/home/Dual-Tube-Helmholtz-2.png" alt="cat2" style="margin: 0 auto;border-radius: 15px; padding-bottom: 8px;"></a>
+			</div>
+			<div class="item">
+				<a href="/papers/Sandwich-like-triboelectric-nanogenerators-integrated-self-powered-buoy-for-navigation-safety/"><img src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/home/Sandwich-like-2.png" alt="cat3" style="margin: 0 auto;border-radius: 15px; padding-bottom: 8px;"></a>
+			</div>
+			<div class="item">
+				<a href="/papers/A-novel-humidity-resisting-and-wind-direction-adapting-flag-type-triboelectric-nanogenerator-for-wind-energy-harvesting-and-speed-sensing/"><img src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/home/A-novel-humidity-2.png" alt="cat3" style="margin: 0 auto;border-radius: 15px; padding-bottom: 8px;"></a>
+			</div>
+			<div class="item">
+				<a href="/papers/Multi-functional-wind-barrier-based-on-triboelectric-nanogenerator-for-power-generation,-self-powered-wind-speed-sensing-and-highly-efficient-windshield/"><img src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/home/Multi-functional-wind-2.png" alt="cat3" style="margin: 0 auto;border-radius: 15px; padding-bottom: 8px;"></a>
+			</div>
+		</div>
+		<p class="left carousel-control" href="#slidershow" role="button" data-slide="prev" style="width: 10%;border-radius: 15px;">
+			<span class="glyphicon glyphicon-chevron-left"></span>
+		</p>
+		<p class="right carousel-control" href="#slidershow" role="button" data-slide="next" style="width: 10%;border-radius: 15px;">
+			<span class="glyphicon glyphicon-chevron-right"></span>
 		</p>
 	</div>
-
+	</div>
+	<div class="col-lg-3 col-sm-4 col-xs-12 hidden-sm hidden-xs homerighttextdiv">
+		<p style="font-style:italic; line-height: ;" class="homerighttext">
+			<i class="fa fa-quote-left fa-fw" style="color: gray; font-style:italic;"></i>
+			We are currently hiring motivated team members, including <strong>postgraduates students</strong> and <strong>visiting members</strong>. 
+			<br>
+			 We encourage students from mechanical, energy, computer, electrical, and
+			automation majors to join our team and promote a multidisciplinary atmosphere where students from different
+			majors are welcome to join the lab. 
+			<br>
+			 For more details, please click the link to explore: <a href="/misc/Join-us/" rel="noopener noreferrer"><strong>Join us</strong></a>
+			<i class="fa fa-quote-right fa-fw" style="color: gray; font-style:italic;"></i>
+		</p>
+	</div>
 </div>
 
 <div class="bigspacer"></div>
-
-
-
 <div class="row">
-
 	<div class="col-md-4">
 		<div class="head">
 			<a class="off" href="/papers/">Recent Papers
@@ -199,51 +226,51 @@
 			
 			<div class="note-title">
 				<i class="fa fa-file-text-o fa-fw"></i>
-				<a class="off" href="/papers/%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8E%E6%91%A9%E6%93%A6%E7%BA%B3%E7%B1%B3%E5%8F%91%E7%94%B5%E6%9C%BA%E7%9A%84%E4%BB%BF%E7%94%9F%E8%A7%A6%E8%A7%89%E4%BC%A0%E6%84%9F%E5%99%A8/">
-					一种基于摩擦纳米发电机的仿生触觉传感器
+				<a class="off" href="/papers/%E8%87%AA%E9%A9%B1%E5%8A%A8%E8%88%B9%E8%88%B6%E6%8C%AF%E5%8A%A8%E7%9B%91%E6%B5%8B%E5%8F%8A%E6%95%85%E9%9A%9C%E8%AF%8A%E6%96%AD%E7%B3%BB%E7%BB%9F/">
+					自驱动船舶振动监测及故障诊断系统
 				</a>
 				<br>
 				<div class="ref note">
-					徐敏义,王新宇,徐鹏,王思远,刘建华,马志,郑嘉熙,王廷宇. 一种基于摩擦纳米发电机的仿生触觉传感器[P]. 辽宁省：CN113162457A,2021-07-23
+					徐敏义,赵洪发,潘新祥. 自驱动船舶振动监测及故障诊断系统[P]. 辽宁省：CN109470354B,2021-03-19
 				</div>
 			</div>
 			<div class="smallnote">
 				Published
-				23 Jul 2021
+				19 Mar 2021
 			</div>
 			<div class="spacer"></div>
 			<div class="spacer"></div>
 			
 			<div class="note-title">
 				<i class="fa fa-file-text-o fa-fw"></i>
-				<a class="off" href="/papers/%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8E%E8%BD%AC%E5%8A%A8%E5%9E%8B%E6%91%A9%E6%93%A6%E7%BA%B3%E7%B1%B3%E5%8F%91%E7%94%B5%E6%9C%BA%E7%9A%84%E8%88%B9%E8%88%B6%E5%BA%9F%E6%B0%94%E6%B5%81%E9%87%8F%E7%9B%91%E6%B5%8B%E8%A3%85%E7%BD%AE/">
-					一种基于转动型摩擦纳米发电机的船舶废气流量监测装置
+				<a class="off" href="/papers/%E4%B8%80%E7%A7%8D%E9%AB%98%E5%8E%8B%E6%91%A9%E6%93%A6%E7%BA%B3%E7%B1%B3%E5%8F%91%E7%94%B5%E9%99%A4%E9%9C%9C%E8%A3%85%E7%BD%AE/">
+					一种高压摩擦纳米发电除霜装置
 				</a>
 				<br>
 				<div class="ref note">
-					杜太利,董方阳,张博深,张跃文,孙培廷,徐敏义,张鹏,姜兴家,马忠民. 一种基于转动型摩擦纳米发电机的船舶废气流量监测装置[P]. 辽宁省：CN112945315A,2021-06-11
+					徐敏义,李方明,刘翔宇. 一种高压摩擦纳米发电除霜装置[P]. 辽宁省：CN110715495B,2021-03-19
 				</div>
 			</div>
 			<div class="smallnote">
 				Published
-				11 Jun 2021
+				19 Mar 2021
 			</div>
 			<div class="spacer"></div>
 			<div class="spacer"></div>
 			
 			<div class="note-title">
 				<i class="fa fa-file-text-o fa-fw"></i>
-				<a class="off" href="/papers/%E4%B8%80%E7%A7%8D%E9%95%BF%E7%BB%AD%E8%88%AA%E8%87%AA%E4%BE%9B%E8%83%BD%E6%B5%B7%E6%B4%8B%E7%9B%91%E6%B5%8B%E6%B5%AE%E6%A0%87/">
-					一种长续航自供能海洋监测浮标
+				<a class="off" href="/papers/A-Triboelectric-Based-Artificial-Whisker-for-Reactive-Obstacle-Avoidance-and-Local-Mapping/">
+					A Triboelectric-Based Artificial Whisker for Reactive Obstacle Avoidance and Local Mapping
 				</a>
 				<br>
 				<div class="ref note">
-					徐敏义,董家乐,赵天聪,赵云鹏,范仲琪. 一种长续航自供能海洋监测浮标[P]. 辽宁省：CN112758252A,2021-05-07
+					Peng Xu. et al. 2021. Research.
 				</div>
 			</div>
 			<div class="smallnote">
 				Published
-				07 May 2021
+				19 Feb 2021
 			</div>
 			<div class="spacer"></div>
 			<div class="spacer"></div>
@@ -257,23 +284,6 @@
 		</div>
 		<div class="bigspacer"></div>
 		<div class="feedbox">
-			
-
-			
-
-			<div class="note-title">
-				<i class="fa fa-bullhorn"></i>
-				<a class="off" href="/news/%E6%9C%80%E6%96%B0%E7%BB%BC%E8%BF%B0-%E4%B8%80%E6%96%87%E4%BA%86%E8%A7%A3%E8%93%9D%E8%89%B2%E8%83%BD%E6%BA%90%E6%94%B6%E9%9B%86%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95/">
-					[最新综述]一文了解蓝色能源收集最新进展！
-				</a>
-			</div>
-			<div class="smallnote">
-				Published
-				09 Aug 2021
-				
-			</div>
-			<div class="spacer"></div>
-			<div class="spacer"></div>
 			
 
 			
@@ -304,6 +314,23 @@
 			<div class="smallnote">
 				Published
 				24 Jun 2021
+				
+			</div>
+			<div class="spacer"></div>
+			<div class="spacer"></div>
+			
+
+			
+
+			<div class="note-title">
+				<i class="fa fa-bullhorn"></i>
+				<a class="off" href="/news/%E6%9C%80%E6%96%B0%E7%BB%BC%E8%BF%B0-%E4%B8%80%E6%96%87%E4%BA%86%E8%A7%A3%E8%93%9D%E8%89%B2%E8%83%BD%E6%BA%90%E6%94%B6%E9%9B%86%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95/">
+					[最新综述]一文了解蓝色能源收集最新进展！
+				</a>
+			</div>
+			<div class="smallnote">
+				Published
+				11 Jun 2021
 				
 			</div>
 			<div class="spacer"></div>
@@ -341,7 +368,6 @@
 			</div>
 			<div class="spacer"></div>
 			<div class="spacer"></div>
-
 			
 			<div class="note-title">
 				<i class="fa fa-comment-o fa-fw"></i>
@@ -365,7 +391,6 @@
 			</div>
 			<div class="spacer"></div>
 			<div class="spacer"></div>
-
 			
 			<div class="note-title">
 				<i class="fa fa-comment-o fa-fw"></i>
@@ -389,11 +414,8 @@
 			</div>
 			<div class="spacer"></div>
 			<div class="spacer"></div>
-
 			
 		</div>
-		<div class="bigspacer"></div>
-
 
 	</div>
 
@@ -401,7 +423,7 @@
 
 		<div class="row">
 
-			<div class="col-md-12 col-xs-12">
+			<div class="col-md-12 col-xs-12" style="background-image: linear-gradient(135deg, #4aa96b0d 0%, #bed1ef33 100%);border-radius: 10px;">
 				<div>
 					<ul class="list-inline footernav">
 						
@@ -444,9 +466,7 @@
 			<div class="col-lg-12 col-xs-12">
 				<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
-
 				<div class="colophon">
-
 					<!--动态打字，未启用
 						 <div class="footer-banner-left">
 						<div id="footer-banner-tips">用行动去思考，去改变、去创造。</div><span class="typed-cursor typed-cursor--blink"
@@ -568,6 +588,6 @@
 
 		</script>
 		<script src="/js/element.js?cb=googleTranslateElementInit"></script>
+		<script type="text/javascript" text=" " src="/js/x-return-top.min.js"></script>
 </div></body>
-
 </html>

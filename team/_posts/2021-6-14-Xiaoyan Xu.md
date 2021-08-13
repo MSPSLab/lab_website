@@ -2,7 +2,7 @@
 layout: member
 title: Xiaoyan Xu
 position: Master degree candidate
-handle: Xiaoyan Xu
+handle: Xu
 email: yz1769135517@dlmu.edu.cn
 twitter: 
 github: 

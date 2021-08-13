@@ -2,7 +2,7 @@
 layout: member
 title: Danting Yue
 position: Professor
-handle: Danting Yue
+handle: F
 email: 
 twitter: 
 github: 

@@ -2,7 +2,7 @@
 layout: member
 title: Yuhang Wei
 position: Master degree candidate
-handle: Yuhang Wei
+handle: Wei
 email: wyh2327194963@163.com
 twitter: 
 github: 

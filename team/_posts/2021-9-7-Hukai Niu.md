@@ -2,7 +2,7 @@
 layout: member
 title: Hukai Niu
 position: Prior member
-handle: Hukai Niu
+handle: Niu
 email: terry1993nhk@outlook.com
 twitter: 
 github: 

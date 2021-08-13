@@ -2,7 +2,7 @@
 layout: member
 title: Wenxiang Ye
 position: Prior member
-handle: Wenxiang Ye
+handle: Ye
 email: 
 twitter: 
 github: 

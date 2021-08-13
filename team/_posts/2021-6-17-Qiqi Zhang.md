@@ -2,7 +2,7 @@
 layout: member
 title: Qiqi Zhang
 position: Master degree candidate
-handle: Qiqi Zhang
+handle: Zhang
 email: zhangqiqi229@163.com
 twitter: 
 github: 

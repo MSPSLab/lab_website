@@ -2,7 +2,7 @@
 layout: member
 title: Yan Wang
 position: Ph.D. candidate
-handle: Yan Wang
+handle: Wang
 email: wangyanme@dlmu.edu.cn
 twitter: 
 github: 

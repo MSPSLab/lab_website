@@ -2,7 +2,7 @@
 layout: member
 title: Taili Du
 position: Associate Professor
-handle: Taili Du
+handle: Du
 email: dutaili@dlmu.edu.cn
 twitter: 
 github: 

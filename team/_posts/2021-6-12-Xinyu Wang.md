@@ -2,7 +2,7 @@
 layout: member
 title: Xinyu Wang
 position: Master degree candidate
-handle: Xinyu Wang
+handle: Wang
 email: 
 twitter: 
 github: 

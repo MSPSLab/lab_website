@@ -2,7 +2,7 @@
 layout: member
 title: Wenxiang Li
 position: Prior member
-handle: Wenxiang Li
+handle: Li
 email: happylwx@126.com
 twitter: 
 github: 

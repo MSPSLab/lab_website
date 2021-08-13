@@ -2,7 +2,7 @@
 layout: member
 title: Mengwei Wu
 position: Prior member
-handle: Mengwei Wu
+handle: Wu
 email: wumengwei@pku.edu.cn
 twitter: 
 github: 
