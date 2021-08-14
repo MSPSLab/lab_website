@@ -1,5 +1,4 @@
 name: 镜像仓库（团队MSPSLAB/lab_website -> 个人yhyates/lab_website_personal）
-#test3
 on: [ push, delete, create ]
 
 jobs:
