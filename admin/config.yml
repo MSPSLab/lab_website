@@ -102,7 +102,7 @@ collections:
       - {label: "会议&页码（无需年份）", name: "journal", widget: "string"}
       - {label: "申请专利号", name: "num", widget: "string"}
       - {label: "分类号（长分类中间用空格分隔）", name: "catenum", widget: "string"}  
-       - {label: "主分类号", name: "mainnum", widget: "string"}  
+      - {label: "主分类号", name: "mainnum", widget: "string"}  
       - {
           label: "类型",
           name: "type",
@@ -128,7 +128,7 @@ collections:
       - {label: "短引用（如：XX. et al. Nano Energy.）", name: "ref", widget: "string"}
       - {label: "会议&页码（无需年份）", name: "journal", widget: "string"}
       - {label: "ISBN号码", name: "ISBN", widget: "string"}  
-       - {label: "书本销售链接", name: "bookurl", widget: "string"}  
+      - {label: "书本销售链接", name: "bookurl", widget: "string"}  
       - {
           label: "类型",
           name: "type",
