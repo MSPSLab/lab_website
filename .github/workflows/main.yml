@@ -1,12 +1,12 @@
-name: Mirror to Repo
-#test2
+name: 镜像仓库（团队MSPSLAB/lab_website -> 个人yhyates/lab_website_personal）
+#test3
 on: [ push, delete, create ]
 
 jobs:
   git-mirror:
     runs-on: ubuntu-latest
     steps:
-      - name: Configure Private Key
+      - name: 装配必要Key
         env:
           SSH_PRIVATE_KEY: ${{ secrets.PERSONAL_WEBSITE_RSA_PRIVATE_KEY }}
         run: |
@@ -14,7 +14,7 @@ jobs:
           echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
           chmod 600 ~/.ssh/id_rsa
           echo "StrictHostKeyChecking no" >> ~/.ssh/config
-      - name: Push Mirror
+      - name: 镜像仓库
         env:
           SOURCE_REPO: ${{ secrets.PERSONAL_SOURCE_REPO_KEY }}
           DESTINATION_REPO: 'git@github.com:yhyates/lab_website_personal.git'
