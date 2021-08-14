@@ -1,6 +1,6 @@
 ---
 layout: misc
-title: Our Sponsors 
+title: Sponsors 
 ---
 
 Our research activities are generously supported by:
