@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Chuanqing Zhu
-position: Master degree candidate
+position: Ph.D. candidate
 handle: Zhu
 email: zcqdmu@163.com
 twitter: 
