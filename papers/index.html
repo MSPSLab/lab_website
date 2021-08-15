@@ -8,15 +8,6 @@ categories:
 
 {% include publication-header.html all="active" %}
 
-<!-- <div class="row">
-	<div class="col-md-12">
-		<div class="smallhead">
-			<p>Our publications are also archived <a href="https://github.com//papers">here</a> and <a
-					href="https://scholar.google.com/citations?hl=en&user=">Google Scholar</a>.</p>
-		</div>
-	</div>
-</div> -->
-
 {% assign counter = site.categories.papers.size | plus:1 %}
 {% for paper in site.categories.papers %}
 {% cycle 'add rows': '<div class="row">', '', '' %}
@@ -76,8 +67,12 @@ categories:
 {% cycle 'close rows': '', '</div>', '</div>' %}
 
 
-
-
-
+<div class="row">
+	<div class="col-md-12">
+		<div class="smallhead">
+			<p style="font-size: 0.9em;text-align: center;"> The PDF resources of the distributed papers are only allowed to be downloaded and accessed for learning purposes, and all illegal and criminal activities are prohibited.</p>
+		</div>
+	</div>
+</div>
 
 

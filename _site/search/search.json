@@ -531,6 +531,12 @@
 
   
   {
+    "title"    : "Recent progress in blue energy harvesting for powering distributed sensors in ocean",
+    "url"      : "/papers/Recent-progress-in-blue-energy-harvesting-for-powering-distributed-sensors-in-ocean/",
+    "content"  : "AbstractOceanography has received a lot of attention in the 21st century Due to the harsh and complex ocean conditions, ensuring power supply to the distributed marine equipment has become a critical challenge The ocean kinetic energy harvester (OKEH) has made favorable progress in powering ocean sensors by harvesting blue energy The latest developments in the electromagnetic harvester (EMH), electroactive polymers harvester (EAH), triboelectric nanogenerator (TENG), and hybrid harvester (HH) are reviewed in this study This study analyzes the working principles and output performance of the OKEH as well as highlights the future challenges of and perspectives on the OKEH Based on the comparison of OKEHs, this study indicates that TENG is favorable for harvesting low-frequency, low-amplitude, and random-direction wave energy (called high entropy energy)"
+  } ,
+
+  {
     "title"    : "自驱动船舶振动监测及故障诊断系统",
     "url"      : "/papers/%E8%87%AA%E9%A9%B1%E5%8A%A8%E8%88%B9%E8%88%B6%E6%8C%AF%E5%8A%A8%E7%9B%91%E6%B5%8B%E5%8F%8A%E6%95%85%E9%9A%9C%E8%AF%8A%E6%96%AD%E7%B3%BB%E7%BB%9F/",
     "content"  : "Abstract本发明提供一种自驱动船舶振动监测及故障诊断系统,包括：声学及振动传感装置,处理模块,CAN总线和控制计算机；其中,声学及振动传感装置为一收集声波能量的摩擦纳米发电机,在有声波或者与振动物体直接接触的条件下,可输出电能；处理模块所需的电能可由声学及振动传感装置供应,传感装置与处理模块组合构成自驱动的振动传感及故障诊断器；CAN总线将各个振动传感及故障诊断器与控制计算机连接,形成通信网络；控制计算机被配置为接收传感器发出的信号,判断机械设备是否正常运行,并作出控制。本发明所用传感装置灵敏度高,可实时反应机械振动的频率振幅及其变化情况,并通过通信网络至计算机处理,对船舶机械进行实时振动监测及故障诊断。"
