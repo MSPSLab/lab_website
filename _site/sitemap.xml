@@ -373,6 +373,10 @@
 <lastmod>2021-08-15T17:37:05+08:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/team/Zhongjie-Fan/</loc>
+<lastmod>2021-08-16T08:35:54+08:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/team/Jingang-Yang/</loc>
 <lastmod>2021-08-13T10:15:12+08:00</lastmod>
 </url>
@@ -613,6 +617,10 @@
 <lastmod>2021-08-15T17:03:07+08:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/blog/%E7%8E%8B%E4%B8%AD%E6%9E%97%E9%99%A2%E5%A3%AB%E8%BF%91%E5%B9%B4%E6%9D%A5%E8%AE%B2%E5%BA%A7%E5%8F%8A%E8%AE%BF%E8%B0%88%E9%9B%86%E9%94%A6/</loc>
+<lastmod>2021-08-16T09:12:07+08:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/team/Hongfa-Zhao/</loc>
 <lastmod>2021-08-13T10:15:12+08:00</lastmod>
 </url>
@@ -671,6 +679,10 @@
 <url>
 <loc>http://localhost:4000/team/Xiangqian-Zhang/</loc>
 <lastmod>2021-08-13T10:15:12+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/team/Elly/</loc>
+<lastmod>2021-08-16T09:29:37+08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/papers/Patents/</loc>
@@ -750,7 +762,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
-<lastmod>2021-08-15T17:30:39+08:00</lastmod>
+<lastmod>2021-08-15T21:21:07+08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/admin/</loc>
