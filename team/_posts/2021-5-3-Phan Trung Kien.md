@@ -2,8 +2,9 @@
 layout: member
 title: Phan Trung Kien
 position: Ph.D. candidate
-handle: Kien
+handle: Phan
 email: trungkienkdt@gmail.com
+short_title: Phan, Trung K.
 twitter: 
 github: 
 scholar:

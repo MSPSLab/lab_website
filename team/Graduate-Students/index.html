@@ -28,9 +28,17 @@ categories:
 		{% endif %}
 		<div class="media-body">
 			{% if member.no_introduce == true %}
-			<h3 class="head"><a href="" style="color: #3E978B;">{{ member.title }}</a></h3>
+			{% if member.short_title %}
+			<h3 class="head"><a href="" style="color: #3E978B;">{{ member.short_title }}</a></h3>
 			{% else %}
-			<h3 class="head"><a href="{{ member.url }}" style="color: #3E978B;">{{ member.title }}</a></h3>
+			<h3 class="head"><a href="" style="color: #3E978B;">{{ member.title }}</a></h3>
+			{% endif %}
+			{% else %}
+			{% if member.short_title %}
+			<h3 class="head"><a href="" style="color: #3E978B;">{{ member.short_title }}</a></h3>
+			{% else %}
+			<h3 class="head"><a href="" style="color: #3E978B;">{{ member.title }}</a></h3>
+			{% endif %}
 			{% endif %}
 			<p class="teamnote">{{ member.position }}</p>
 		</div>
