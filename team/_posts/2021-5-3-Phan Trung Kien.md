@@ -1,8 +1,8 @@
 ---
 layout: member
-title: Zhongjie Fan
+title: Phan Trung Kien
 position: Ph.D. candidate
-handle: Fan
+handle: Kien
 email: trungkienkdt@gmail.com
 twitter: 
 github: 
