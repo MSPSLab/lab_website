@@ -10,6 +10,8 @@
 @media screen and (min-width:850px){
     .navbar-toggle-small{display: none;}
     .homesmalltext{margin-bottom: 10px!important;}
+    .headerimg{ height: 110px!important; justify-content:center;}
+
     }   
 
 
