@@ -370,7 +370,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/team/Phan-Trung-Kien/</loc>
-<lastmod>2021-08-16T09:39:22+08:00</lastmod>
+<lastmod>2021-08-16T20:31:13+08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/team/Qiang-Zhao/</loc>
@@ -629,6 +629,10 @@
 <lastmod>2021-08-13T10:15:12+08:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/team/Xiangqian-Zhang/</loc>
+<lastmod>2021-08-11T18:49:53+08:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/team/Pengfei-Chen/</loc>
 <lastmod>2021-08-13T10:15:12+08:00</lastmod>
 </url>
@@ -681,12 +685,8 @@
 <lastmod>2021-08-13T10:15:12+08:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/team/Xiangqian-Zhang/</loc>
-<lastmod>2021-08-13T10:15:12+08:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/team/Elly/</loc>
-<lastmod>2021-08-16T09:30:22+08:00</lastmod>
+<lastmod>2021-08-16T20:31:13+08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/papers/Patents/</loc>
@@ -746,7 +746,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/team/Graduate-Students/</loc>
-<lastmod>2021-08-13T10:15:12+08:00</lastmod>
+<lastmod>2021-08-16T20:31:13+08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/team/Prior-Members/</loc>
@@ -754,7 +754,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/team/</loc>
-<lastmod>2021-08-13T10:15:12+08:00</lastmod>
+<lastmod>2021-08-16T20:31:13+08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/videos/archive/</loc>

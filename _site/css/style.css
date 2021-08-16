@@ -13,7 +13,9 @@
     .headerimg{ height: 110px!important; justify-content:center;}
 
     }   
-
+@media only screen and (min-width: 991px) and (max-width: 1200px){
+    .memberbox{ height: 171px;}
+}
 
 /* @media screen and (min-width: 1200px){.homerighttext{ line-height: 2.0rem;} .homerighttextdiv{ margin-top: -4px!important;}} 
 @media screen and (min-width: 850px){.homerighttextdiv{ margin-top: -13px;}}  */

@@ -30,9 +30,17 @@ categories:
 
 		<div class="media-body">
 			{% if member.no_introduce == true %}
+			{% if member.short_title %}
+			<h3 class="head"><a href="" style="color: #c45e39;">{{ member.short_title }}</a></h3>
+			{% else %}
 			<h3 class="head"><a href="" style="color: #c45e39;">{{ member.title }}</a></h3>
+			{% endif %}
+			{% else %}
+			{% if member.short_title %}
+			<h3 class="head"><a href="{{ member.url }}" style="color: #c45e39;">{{ member.short_title }}</a></h3>
 			{% else %}
 			<h3 class="head"><a href="{{ member.url }}" style="color: #c45e39;">{{ member.title }}</a></h3>
+			{% endif %}
 			{% endif %}
 			<p class="teamnote">{{ member.position }}</p>
 		</div>
@@ -59,9 +67,17 @@ categories:
 		{% endif %}
 		<div class="media-body">
 			{% if member.no_introduce == true %}
+			{% if member.short_title %}
+			<h3 class="head"><a href="" style="color: #586E72;">{{ member.short_title }}</a></h3>
+			{% else %}
 			<h3 class="head"><a href="" style="color: #586E72;">{{ member.title }}</a></h3>
+			{% endif %}
+			{% else %}
+			{% if member.short_title %}
+			<h3 class="head"><a href="{{ member.url }}" style="color: #586E72;">{{ member.short_title }}</a></h3>
 			{% else %}
 			<h3 class="head"><a href="{{ member.url }}" style="color: #586E72;">{{ member.title }}</a></h3>
+			{% endif %}
 			{% endif %}
 			<p class="teamnote">{{ member.position }}</p>
 		</div>
@@ -88,9 +104,17 @@ categories:
 		{% endif %}
 		<div class="media-body">
 			{% if member.no_introduce == true %}
+			{% if member.short_title %}
+			<h3 class="head"><a href="" style="color: #5E63B6;">{{ member.short_title }}</a></h3>
+			{% else %}
 			<h3 class="head"><a href="" style="color: #5E63B6;">{{ member.title }}</a></h3>
+			{% endif %}			
+			{% else %}
+			{% if member.short_title %}
+			<h3 class="head"><a href="{{ member.url }}" style="color: #5E63B6;">{{ member.short_title }}</a></h3>
 			{% else %}
 			<h3 class="head"><a href="{{ member.url }}" style="color: #5E63B6;">{{ member.title }}</a></h3>
+			{% endif %}	
 			{% endif %}
 			<p class="teamnote">{{ member.position }}</p>
 		</div>
@@ -117,9 +141,17 @@ categories:
 		{% endif %}
 		<div class="media-body">
 			{% if member.no_introduce == true %}
+			{% if member.short_title %}
+			<h3 class="head"><a href="" style="color: #5E63B6;">{{ member.short_title }}</a></h3>
+			{% else %}
 			<h3 class="head"><a href="" style="color: #5E63B6;">{{ member.title }}</a></h3>
+			{% endif %}	
+			{% else %}
+			{% if member.short_title %}
+			<h3 class="head"><a href="{{ member.url }}" style="color: #5E63B6;">{{ member.short_title }}</a></h3>
 			{% else %}
 			<h3 class="head"><a href="{{ member.url }}" style="color: #5E63B6;">{{ member.title }}</a></h3>
+			{% endif %}	
 			{% endif %}
 			<p class="teamnote">{{ member.position }}</p>
 		</div>
