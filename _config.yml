@@ -48,9 +48,6 @@ exclude:
   - "vendor"
 
 plugins:
-  - jekyll-sitemap
   - jekyll-target-blank
   - jekyll-katex
 
-sitemap-force-include:
-   - "/pdf/papers/*.pdf"
