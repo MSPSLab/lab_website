@@ -12,27 +12,6 @@ image: /images/team/wangyan.png
 cv: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/others/cv_wy.pdf"
 ---
 
-- Second email: <a href="mailto:wangyanme@dlmu.edu.cn">e0701746<span style="display:none">obfuscate</span>@u.nus.edu</a>
-
-> SUMMARY OF QUALIFICATIONS
-
-- Strong background in Fluid Mechanics, Material Science and Electronics
-- Four years of experience in Experimental Fluid Mechanics, Triboelectric
-Nanogenerator, Self-powered System and Renewable Energy Harvesting
-- Experimental and numerical research experience in fluid mechanics, triboelectric
-nanogenerator, self-powered system and renewable energy harvester design
-- Excellent skills in wind energy, wave energy and marine current energy harvesting
-devices fabrication
-- Skillful in Solidworks, Labview, Origin and Comsol Multiphysics software
-- Creative, hardworking, logical, self-motivated, excellent multi-tasking
-
-> EDUCATION
-
-- Joint training PhD. student, NUS Lab of Sensors, MEMS and NEMS for Internet of Things (IoT) Applications, National University of Singapore (05/2021-present)
-- Master and PhD., Marine Engineering, Dalian Maritime University, Dalian, China
-(09/2016- present)
-- B. SC, Marine Engineering, Dalian Maritime University, Dalian, China (09/2007-
-07/2011)
 
 > PUBLICATIONS 
 
@@ -58,59 +37,3 @@ Xinxiang Pan, Minyi Xu*, “A Novel Humidity Resisting and Wind Direction Adapti
 3. Fluid energy harvesting based on the flutter-type triboelectric nanogenerator, Postgraduate Forum on South China Sea New Energy and Technology 2020
 4. The study on the performance of fluttering membrane triboelectric nanogenerator, The Chinese Congress of Theoretical and Applied Mechanics (CCATM 2019)
 5. A self-powered Tilt Sensor based on Triboelectric Nanogenerator, Asia Navigation 2019
-
-> PATENT
-
-1. Minyi Xu, Jianye Wang, Yan Wang, Hanfeng Wang “A power generation wind
-barrier based on the triboelectric nanogenerator” Apply No. CN201911261369.7; Public No. CN110932593A
-
-> AWARDS
-
-- Third Prize, Target Crawl Group-Target Recognition, International Underwater Robot Competition, 2018
-- Third Prize, Autonomous Vision Group-Target Tracing, International Underwater Robot Competition, 2018
-- Outstanding Postgraduate Cadre, Dalian Maritime University, 2019
-- Excellent Paper, China Institute of Navigation, 2019
-- Grand Prize, 2020 China Marine Intelligent Equipment Innovation Competition,2020
-- Excellent Paper, Postgraduate Forum on South China Sea New Energy and Technology 2020
-
->WORK EXPERIENCE
-
-- Work
-
-```
-Assistant engineer and 4th engineer, Chinese-Polish Joint Stock Shipping Company (08/2011-08/2013)
-Teaching assistant, Dalian Shipping College (09/2013-08/2016)
-```
-
-- Research Project Topics
-
-```
-(a) Investigation on highly efficient wave energy conversion mechanism based on triboelectric nanogenerator. National Natural Science Foundation of China Surface Project (51979045), 01/2019-12/2022, main participant.
-(b) Investigation on energy conversion mechanism of flexible triboelectric nanogenerator for harvesting ocean current energy. National Natural Science Foundation of China Surface Project (51879022), 01/2020-12/2023, main participant.
-(c) Investigation on the key technology of the marine intelligent buoy. Projects for Dalian Youth Star of Science and Technology (2018RQ12), 01/2018-12/2020, main participant.
-```
-
-> REFERENCES
-
-- Professor Minyi Xu (Supervisor)
-
-```
-Marine Engineering College, Dalian Maritime University, No.1 Linghai Road, Ganjingzi District, Dalian, Liaoning, China
-Tel: +86-18941134769
-Email: xuminyi@dlmu.edu.cn
-```
-
-- Professor Xinxiang Pan (Supervisor)
-   
-```
-School of Electronics and Information technology, Guangdong Ocean University, No.1 Haida Road, Mazhang District, Zhanjiang, Guangdong, China
-Tel: +86-0759-2383338
-Email: panxx@dlmu.edu.cn
-```
-
-- Professor Chengkuo Lee (Foreign supervisor)
-
-```
-Center for Intelligent Sensors and MEMS (CISM), National University of Singapore, Singapore
-Email: elelc@nus.edu.sg
-```
