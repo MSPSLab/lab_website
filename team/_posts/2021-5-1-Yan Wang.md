@@ -9,7 +9,6 @@ github:
 scholar:
 orcid: 
 image: /images/team/wangyan.png
-cv: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/others/cv_wy.pdf"
 ---
 
 
