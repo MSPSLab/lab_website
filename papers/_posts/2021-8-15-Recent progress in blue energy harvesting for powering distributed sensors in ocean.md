@@ -6,7 +6,7 @@ authors: Tiancong Zhao, Minyi Xu, Xiu Xiao, Yong Ma, Zhou Li, Zhong Lin Wang
 year: 2021
 ref: Tiancong Zhao. et al. 2021. Nano Energy.
 journal: "Nano Energy, Volume 88, 106199, ISSN 2211-2855"
-pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/1-s2.0-S2211285521004559-main.pdf.pdf"
+pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/1-s2.0-S2211285521004559-main.pdf"
 doi: 10.1016/j.nanoen.2021.106199
 type: journal
 ---
