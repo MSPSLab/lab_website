@@ -6,7 +6,7 @@ authors: Dongyue Jiang, Yunpeng Su, Kun Wang, Yutao Wang, Minyi Xu, Ming Dong, G
 year: 2020
 ref: Dongyue Jiang. et al. 2020. Nano Energy.
 journal: "Nano Energy, Volume 70, 104459, ISSN 2211-2855"
-pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/jiang2020.pdf"
+pdf: "/pdfs/jiang2020.pdf"
 doi: 10.1016/j.nanoen.2020.104459
 type: journal
 ---

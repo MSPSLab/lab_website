@@ -6,7 +6,7 @@ authors: Hao Wang; Zhongqi Fan; Tiancong Zhao; Jiale Dong; Siyuan Wang; Yan Wang
 year: 2021
 ref: Hao Wang. et al. 2021. Nano Energy.
 journal: "Nano Energy, Volume 84, 105920, ISSN 2211-2855"
-pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/1-s2.0-S2211285521001786-main.pdf"
+pdf: "/pdfs/1-s2.0-S2211285521001786-main.pdf"
 doi: 10.1016/j.nanoen.2021.105920
 type: journal
 ---

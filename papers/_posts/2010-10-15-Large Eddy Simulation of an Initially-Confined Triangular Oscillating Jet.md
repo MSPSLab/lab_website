@@ -6,7 +6,7 @@ authors: Minyi Xu, Jianchun Mi & Pengfei Li
 year: 2012
 ref: Minyi Xu. et al. 2012. Flow Turbul Combust.
 journal: "Flow, Turbulence and Combustion volume 88, pages367–386"
-pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/xu2011.pdf"
+pdf: "/pdfs/xu2011.pdf"
 doi: 10.1007/s10494-011-9363-y
 type: journal
 ---

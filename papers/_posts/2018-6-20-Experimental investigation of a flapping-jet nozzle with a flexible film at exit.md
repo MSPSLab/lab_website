@@ -6,7 +6,7 @@ authors: Wu M, Xu M, Mi J
 year: 2018
 ref: Wu M. et al. 2018. AFMC.
 journal: "21st Australasian Fluid Mechanics Conference, AFMC 2018"
-pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/Contribution_557_final.pdf"
+pdf: "/pdfs/Contribution_557_final.pdf"
 doi: 
 type: conference
 ---

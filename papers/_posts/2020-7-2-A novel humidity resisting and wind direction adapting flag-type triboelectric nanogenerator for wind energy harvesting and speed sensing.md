@@ -6,7 +6,7 @@ authors: Yan Wang, En Yang, Tianyu Chen, Jianye Wang, Zhiyuan Hu, Jianchun Mi, X
 year: 2020
 ref: Yan Wang. et al. Nano Energy.
 journal: "Nano Energy, Volume 78, 105279, ISSN 2211-2855"
-pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/wang2020_3.pdf"
+pdf: "/pdfs/wang2020_3.pdf"
 doi: 10.1016/j.nanoen.2020.105279
 type: journal
 ---

@@ -6,7 +6,7 @@ authors: Mi Jianchun*; Xu Minyi; Zhou Tongming
 year: 2013
 ref: Mi Jianchun. et al. 2013. Phys. Fluids.
 journal: "Physics of Fluids. B 23 044704"
-pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/mi2013.pdf"
+pdf: "/pdfs/mi2013.pdf"
 doi: 10.1063/1.4811403
 type: journal
 ---

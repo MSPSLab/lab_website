@@ -6,7 +6,7 @@ authors: Minyi Xu, Yi-Cheng Wang, Steven L. Zhang, Wenbo Ding, Jia Cheng, Xu He,
 year: 2017
 ref: Minyi Xu. et al. 2017. Extreme Mech. Lett.
 journal: "Extreme Mechanics Letters, Volume 15, Pages 122-129, ISSN 2352-4316"
-pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/xu2017_2.pdf"
+pdf: "/pdfs/xu2017_2.pdf"
 doi: 10.1016/j.eml.2017.07.005
 type: journal
 ---

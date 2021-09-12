@@ -6,7 +6,7 @@ authors: Liguo Song, Jingang Yang, Shubo Yu, Minyi Xu, Yuanchuang Liang, Xinxian
 year: 2019
 ref: Liguo Song. et al. 2019. Chem. Eng. J.
 journal: "Chemical Engineering Journal, Volume 373, Pages 767-779, ISSN 1385-8947"
-pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/10.1016@j.cej.2019.05.094.pdf"
+pdf: "/pdfs/10.1016@j.cej.2019.05.094.pdf"
 doi: 10.1016/j.cej.2019.05.094
 type: journal
 ---

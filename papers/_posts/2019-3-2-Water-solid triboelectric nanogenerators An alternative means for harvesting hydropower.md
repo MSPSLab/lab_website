@@ -6,7 +6,7 @@ authors: Dongyue Jiang, Minyi Xu, Ming Dong, Fei Guo, Xiaohua Liu, Guijun Chen, 
 year: 2019
 ref: Dongyue Jiang. et al. 2019. Renew. Sust. Energ. Rev.
 journal: "Renewable and Sustainable Energy Reviews, Volume 115, 109366, ISSN 1364-0321"
-pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/jiang2019_2.pdf"
+pdf: "/pdfs/jiang2019_2.pdf"
 doi: 10.1016/j.rser.2019.109366
 type: journal
 ---

@@ -6,7 +6,7 @@ authors: M. Wu, M. Xu, J. Mi, R.C. Deo,
 year: 2020
 ref: M. Wu. et al. 2020. Int J Heat Fluid Flow.
 journal: "International Journal of Heat and Fluid Flow, Volume 82, 108532, ISSN 0142-727X"
-pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/10.1016@j.ijheatfluidflow.2019.108532.pdf"
+pdf: "/pdfs/10.1016@j.ijheatfluidflow.2019.108532.pdf"
 doi: 10.1016/j.ijheatfluidflow.2019.108532
 type: journal
 ---

@@ -6,7 +6,7 @@ authors: Guijun Chen, Yutao Wang, Dongyue Jiang, Hongchen Wang, Kun Wang, Jie Ta
 year: 2021
 ref: Guijun Chen. et al. 2021. Nano Energy.
 journal: "Nano Energy, Volume 80, 105524, ISSN 2211-2855"
-pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/10.1016@j.nanoen.2020.105524.pdf"
+pdf: "/pdfs/10.1016@j.nanoen.2020.105524.pdf"
 doi: 10.1016/j.nanoen.2020.105524
 type: journal
 ---

@@ -6,7 +6,7 @@ authors: Dongyue Jiang*, Zeng Fan, Hongchen Wang, Minyi Xu*, Guijun Chen, Yongch
 year: 2020
 ref: Dongyue Jiang. et al. 2020. ACS Nano.
 journal: "ACS Nano, 14, 11, 15394–15402"
-pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/10.1021@acsnano.0c05901.pdf"
+pdf: "/pdfs/10.1021@acsnano.0c05901.pdf"
 doi: 10.1021/acsnano.0c05901
 type: journal
 ---

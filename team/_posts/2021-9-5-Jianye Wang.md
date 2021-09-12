@@ -9,7 +9,7 @@ github:
 scholar:
 orcid: 
 image: /images/team/wangjianye.png
-cv: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/others/cv_wjy.pdf"
+cv: "/others/cv_wjy.pdf"
 ---
 
 > 教育经历：

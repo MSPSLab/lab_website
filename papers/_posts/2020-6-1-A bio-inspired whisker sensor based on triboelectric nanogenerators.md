@@ -6,7 +6,7 @@ authors: Xinyu Wang; Peng Xu; Zhi Ma; Siyuan Wang; Guangming Xie; Minyi Xu
 year: 2020
 ref: Xinyu Wang. et al. 2020. YAC.
 journal: "2020 35th Youth Academic Annual Conference of Chinese Association of Automation (YAC),pp. 105-109"
-pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/A_Bio-Inspired_Whisker_Sensor_Based_on_Triboelectric_Nanogenerators-2.pdf"
+pdf: "/pdfs/A_Bio-Inspired_Whisker_Sensor_Based_on_Triboelectric_Nanogenerators-2.pdf"
 doi: 10.1109/YAC51587.2020.9337588
 type: conference
 ---

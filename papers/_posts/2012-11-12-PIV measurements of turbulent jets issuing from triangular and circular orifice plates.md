@@ -6,7 +6,7 @@ authors: MinYi Xu, JianPeng Zhang, JianChun Mi, G. J. Nathan & P. A. M. Kalt
 year: 2013
 ref: MinYi Xu. et al. 2013. Sci. China Phys. Mech. Astron.
 journal: "Science China Physics,Mechanics & Astronomy, 56, 1176–1186"
-pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/xu2013_2.pdf"
+pdf: "/pdfs/xu2013_2.pdf"
 doi: 10.1007/s11433-013-5099-0
 type: journal
 ---

@@ -6,7 +6,7 @@ authors: Peng Xu, Xinyu Wang, Siyuan Wang, Tianyu Chen, Jianhua Liu, Jiaxi Zheng
 year: 2021
 ref: Peng Xu. et al. 2021. Research.
 journal: "Research, vol. 2021, Article ID 9864967, 10 pages"
-pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/9864967.pdf"
+pdf: "/pdfs/9864967.pdf"
 doi: 10.34133/2021/9864967
 type: journal
 ---

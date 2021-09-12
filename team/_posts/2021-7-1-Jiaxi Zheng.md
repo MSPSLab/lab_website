@@ -9,7 +9,7 @@ github:
 scholar:
 orcid: 
 image: /images/team/zhengjiaxi.png
-cv: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/others/cv_zjx.pdf"
+cv: "/others/cv_zjx.pdf"
 ---
 
 > RESEARCH INTERESTS

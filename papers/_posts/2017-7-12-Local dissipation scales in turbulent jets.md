@@ -6,7 +6,7 @@ authors: Minyi Xu, Kin-Pang Cheong, Jianchun Mi, Andrew Pollard
 year: 2018
 ref: Minyi Xu. et al. 2018. Exp. Therm. Fluid Sci.
 journal: "Experimental Thermal and Fluid Science, Volume 93, Pages 178-185, ISSN 0894-1777"
-pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/xu2018_2.pdf"
+pdf: "/pdfs/xu2018_2.pdf"
 doi: 10.1016/j.expthermflusci.2017.12.019
 type: journal
 ---

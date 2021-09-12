@@ -6,7 +6,7 @@ authors: J Mi, M Xu and C Du
 year: 2011
 ref: J Mi. et al. 2011. Meas. Sci. Technol.
 journal: "Measurement Science and Technology, R22 125401"
-pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/mi2011.pdf"
+pdf: "/pdfs/mi2011.pdf"
 doi: 10.1088/0957-0233/22/12/125401
 type: journal
 ---

@@ -6,7 +6,7 @@ authors: G. Wang, J. Si, M. Xu, J. Mi
 year: 2019
 ref: G. Wang. et al. 2019. Energy.
 journal: "Energy, Volume 187, 115934, ISSN 0360-5442"
-pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/wang2019_2.pdf"
+pdf: "/pdfs/wang2019_2.pdf"
 doi: 10.1016/j.energy.2019.115934
 type: journal
 ---

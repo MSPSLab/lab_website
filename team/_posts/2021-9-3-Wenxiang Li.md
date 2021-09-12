@@ -9,7 +9,7 @@ github:
 scholar:
 orcid: 
 image: /images/team/liwenxiang.png
-cv: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/others/cv_lwx.pdf"
+cv: "/others/cv_lwx.pdf"
 ---
 
 > 教育背景:

@@ -6,7 +6,7 @@ authors: Peng Xu; Xinyu wang; Jin Tao; Guangming Xie; Minyi Xu; Quan Zhou
 year: 2020
 ref: Peng Xu. et al. 2020. CCC.
 journal: "2020 39th Chinese Control Conference (CCC), pp. 4639-4645"
-pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/Distributed_Self-triggered_Circular_Formation_Control_for_Multi-robot_Systems.pdf"
+pdf: "/pdfs/Distributed_Self-triggered_Circular_Formation_Control_for_Multi-robot_Systems.pdf"
 doi: 10.23919/CCC50068.2020.9188356
 type: conference
 ---

@@ -6,7 +6,7 @@ authors: Du, Taili, Xusheng Zuo, Fangyang Dong, Shunqi Li, Anaeli E. Mtui, Yongj
 year: 2021
 ref: Du, Taili. et al. 2021. Micromachines.
 journal: "Micromachines, 12, 218"
-pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/micromachines-12-00218-v2.pdf"
+pdf: "/pdfs/micromachines-12-00218-v2.pdf"
 doi: 10.3390/mi12020218
 type: journal
 ---

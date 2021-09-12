@@ -6,7 +6,7 @@ authors: Xiao, Xiu; Wang, Guo-Chang; Xu, Min-Yi; Mi, Jian-Chun*
 year: 2020
 ref: Xiu Xiao. et al. 2020. Chinese Phys. B.
 journal: "Chinese Physics B, Volume 29, Number 6"
-pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/10.1088@1674-1056@ab8623.pdf"
+pdf: "/pdfs/10.1088@1674-1056@ab8623.pdf"
 doi: 10.1088/1674-1056/ab8623
 type: journal
 ---

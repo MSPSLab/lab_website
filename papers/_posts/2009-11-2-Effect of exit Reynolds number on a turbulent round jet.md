@@ -6,7 +6,7 @@ authors: Du Cheng, Xu Min-Yi, Mi Jian-Chun*
 year: 2010
 ref: Du Cheng. et al. 2010. Acta Physica Sinica.
 journal: "Acta Physica Sinica, 59(9): 6331-6338"
-pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/Effect-of.pdf"
+pdf: "/pdfs/Effect-of.pdf"
 doi: 10.7498/aps.59.6331
 type: journal
 ---

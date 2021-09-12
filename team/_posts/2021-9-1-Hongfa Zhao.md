@@ -9,7 +9,7 @@ github:
 scholar:
 orcid: 
 image: /images/team/zhaohongfa.png
-cv: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/others/cv_zhf.pdf"
+cv: "/others/cv_zhf.pdf"
 ---
 
 > 教育背景:

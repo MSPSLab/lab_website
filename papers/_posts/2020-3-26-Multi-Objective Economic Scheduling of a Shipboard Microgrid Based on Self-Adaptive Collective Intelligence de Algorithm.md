@@ -6,7 +6,7 @@ authors: Jinhong Feng; Jundong Zhang; Chuan Wang; Ruizheng Jiang; Mingyi Xu
 year: 2020
 ref: Jinhong Feng. et al. 2020. IEEE Access.
 journal: "IEEE Access, vol. 8, pp. 73204-73219"
-pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/Multi-Objective_Economic_Scheduling_of_a_Shipboard_Microgrid_Based_on_Self-Adaptive_Collective_Intelligence_DE_Algorithm.pdf"
+pdf: "/pdfs/Multi-Objective_Economic_Scheduling_of_a_Shipboard_Microgrid_Based_on_Self-Adaptive_Collective_Intelligence_DE_Algorithm.pdf"
 doi: 10.1109/ACCESS.2020.2988530
 type: journal
 ---

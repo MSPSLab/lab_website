@@ -6,7 +6,7 @@ authors: Xu, Peng and Li, Wenxiang and Tao, Jin and Dehmer, Matthias and Emmert-
 year: 2020
 ref: Peng Xu. et al. 2020. IEEE Access
 journal: "IEEE Access, vol. 8, pp. 167288-167299"
-pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/xu2020.pdf"
+pdf: "/pdfs/xu2020.pdf"
 doi: 10.1109/ACCESS.2020.3023374
 type: journal
 ---

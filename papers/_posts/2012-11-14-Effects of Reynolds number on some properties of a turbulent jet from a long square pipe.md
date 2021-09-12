@@ -6,7 +6,7 @@ authors: Xu Minyi; Pollard Andrew*; Mi Jianchun; Secretain, F.; Sadeghi, H.
 year: 2013
 ref: Xu Minyi. et al. 2013. Phys. Fluids.
 journal: "Physics of Fluids 25, 035102"
-pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/xu2013.pdf"
+pdf: "/pdfs/xu2013.pdf"
 doi: 10.1063/1.4797456
 type: journal
 ---

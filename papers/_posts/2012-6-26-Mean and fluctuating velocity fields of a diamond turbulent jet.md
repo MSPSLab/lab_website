@@ -6,7 +6,7 @@ authors: Xu Min-Yi; Zhang Jian-Peng; Mi Jian-Chun*; Nathan, G. J.; Kalt, P. A. M
 year: 2013
 ref: Xu Min-Yi. et al. 2013. Chinese Phys. B.
 journal: "Chinese Physics B, 22 034701"
-pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/xu2013_3.pdf"
+pdf: "/pdfs/xu2013_3.pdf"
 doi: 10.1088/1674-1056/22/3/034701
 type: journal
 ---

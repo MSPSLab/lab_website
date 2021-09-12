@@ -9,7 +9,7 @@ github:
 scholar:
 orcid: 
 image: /images/team/liudehua.png
-cv: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/others/cv_ldh.pdf"
+cv: "/others/cv_ldh.pdf"
 ---
 
 > 教育背景:

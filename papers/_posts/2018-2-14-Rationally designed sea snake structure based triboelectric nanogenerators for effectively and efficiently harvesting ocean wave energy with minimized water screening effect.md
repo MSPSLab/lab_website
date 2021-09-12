@@ -6,7 +6,7 @@ authors: Steven L. Zhang, Minyi Xu, Chunli Zhang, Yi-Cheng Wang, Haiyang Zou, Xu
 year: 2018
 ref: Steven L. et al. 2018. Nano Energy.
 journal: "Nano Energy, Volume 48, Pages 421-429, ISSN 2211-2855"
-pdf: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_docs/pdfs/zhang2018.pdf"
+pdf: "/pdfs/zhang2018.pdf"
 doi: 10.1016/j.nanoen.2018.03.062
 type: journal
 ---
