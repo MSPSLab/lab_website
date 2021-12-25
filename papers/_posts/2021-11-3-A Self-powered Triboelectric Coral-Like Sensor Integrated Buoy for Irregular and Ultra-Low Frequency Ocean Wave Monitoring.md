@@ -7,7 +7,7 @@ year: 2021
 ref:  Xinyu Wang. et al. 2021. Advanced Energy Materials.
 journal: "Advanced Energy Materials, 2101098"
 pdf: "/pdfs/Adv-Materials-Technologies-2021-Wang.pdf"
-doi: 0.1002/admt.202101098
+doi: 10.1002/admt.202101098
 type: journal
 ---
 
