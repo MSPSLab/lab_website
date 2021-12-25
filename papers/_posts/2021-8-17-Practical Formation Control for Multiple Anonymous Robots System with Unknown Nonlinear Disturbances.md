@@ -6,7 +6,7 @@ authors: Peng Xu, Jin Tao, Minyi Xu and Guangming Xie
 year: 2021
 ref: Peng Xu. et al. 2021. Applied Sciences.
 journal: "Applied Sciences 2021, 11(19), 9170"
-pdf: "/pdfs/1-s2.0-S2211285521004559-main.pdf"
+pdf: "/pdfs/applsci-11-09170-v2.pdf"
 doi: 10.3390/app11199170
 type: journal
 ---
