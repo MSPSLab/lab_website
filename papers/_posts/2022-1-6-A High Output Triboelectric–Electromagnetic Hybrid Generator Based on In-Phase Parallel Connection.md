@@ -5,7 +5,7 @@ image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/AMT2022-Z.png"
 authors: Tiancong Zhao,Bo Niu,Guangci Xie,Chao Hu,Boying Liu,Minyi Xu,Yong Ma
 year: 2021
 ref: Tiancong Zhao. et al. 2021. Adv. Mater. Technol.
-journal: "Advanced Materials Technologies. Mater. Technol. 2022, 2101485."
+journal: "Advanced Materials Technologies. 2022, 2101485."
 pdf: "/pdfs/AMT2022-Zhao.pdf"
 doi: 10.1002/admt.202101485
 type: journal
