@@ -16,7 +16,7 @@ description:
 
 - 观看链接：
 
-<iframe src="//player.bilibili.com/player.html?aid=935612726&bvid=BV1uT4y1171c&cid=481537337&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="100%" height="480" style="border:0;" allowfullscreen="" loading="lazy" src="//player.bilibili.com/player.html?aid=935612726&bvid=BV1uT4y1171c&cid=481537337&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 > 介绍：
 
