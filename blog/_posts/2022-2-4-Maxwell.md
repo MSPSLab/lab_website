@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[视频] 李永乐｜麦克斯韦方程组是什么？电场和磁场有什么重要联系？"
+title: "[资源分享] 李永乐｜麦克斯韦方程组是什么？电场和磁场有什么重要联系？"
 author: 
 url_author: 
 description: 
