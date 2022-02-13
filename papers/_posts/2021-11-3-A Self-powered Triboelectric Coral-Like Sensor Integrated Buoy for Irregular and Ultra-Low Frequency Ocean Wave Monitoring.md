@@ -4,8 +4,8 @@ title: A Self-powered Triboelectric Coral-Like Sensor Integrated Buoy for Irregu
 image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Coral-Like-Sensor.png"
 authors: Xinyu Wang, Jianhua Liu, Siyuan Wang, Jiaxi Zheng, Tangzhen Guan, Xiangyu Liu, Tingyu Wang, Tianyu Chen, Hao Wang, Guangming Xie, Peng Xu, Jin Tao, Minyi Xu
 year: 2021
-ref:  Xinyu Wang. et al. 2021. Advanced Energy Materials.
-journal: "Advanced Energy Materials, 2101098"
+ref:  Xinyu Wang. et al. 2021. Advanced Materials Technologies.
+journal: "Advanced Materials Technologies, 2101098"
 pdf: "/pdfs/Adv-Materials-Technologies-2021-Wang.pdf"
 doi: 10.1002/admt.202101098
 type: journal
