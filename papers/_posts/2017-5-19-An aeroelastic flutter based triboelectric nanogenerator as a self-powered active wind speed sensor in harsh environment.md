@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: An aeroelastic flutter based triboelectric nanogenerator as a self-powered active wind speed sensor in harsh environment
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/An-aeroelastic-flutter.png"
+image: "/lab_images/papers/An-aeroelastic-flutter.png"
 authors: Minyi Xu, Yi-Cheng Wang, Steven L. Zhang, Wenbo Ding, Jia Cheng, Xu He, Peng Zhang, Zhengjun Wang, Xinxiang Pan, Zhong Lin Wang
 year: 2017
 ref: Minyi Xu. et al. 2017. Extreme Mech. Lett.

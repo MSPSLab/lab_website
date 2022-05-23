@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Effect of exit Reynolds number on a turbulent round jet
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Effect-of-exit-Reynolds.png"
+image: "/lab_images/papers/Effect-of-exit-Reynolds.png"
 authors: Du Cheng, Xu Min-Yi, Mi Jian-Chun*
 year: 2010
 ref: Du Cheng. et al. 2010. Acta Physica Sinica.

@@ -6,12 +6,12 @@ url_author:
 ---
 
 <p style="text-align:center;" >
-<img class="center-block" style="margin:auto; width:70%;" src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/news/一种用于风能采集和风速传感_1.webp" alt=""/>
+<img class="center-block" style="margin:auto; width:70%;" src="/lab_images/news/一种用于风能采集和风速传感_1.webp" alt=""/>
 </p>
 
 
 <p style="text-align:center;" >
-<img class="center-block" style="margin:auto; width:70%;" src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/news/仿三明治结构TENG_2.png" alt=""/>
+<img class="center-block" style="margin:auto; width:70%;" src="/lab_images/news/仿三明治结构TENG_2.png" alt=""/>
 <b>图</b> -
 </p>
 
@@ -26,32 +26,32 @@ url_author:
 > 图文导读:
 
 <p style="text-align:center;" >
-<img class="center-block" style="margin:auto; width:70%;" src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/news/一种用于风能采集和风速传感_1.webp" alt=""/>
+<img class="center-block" style="margin:auto; width:70%;" src="/lab_images/news/一种用于风能采集和风速传感_1.webp" alt=""/>
 <b>图1.旗形摩擦纳米发电机的应用场景和工作原理</b> -(a)旗形摩擦纳米发电机的应用场景；(b)旗形摩擦纳米发电机的结构示意图；(c)旗形摩擦纳米发电机的发电原理。
 </p>
 
 <p style="text-align:center;" >
-<img class="center-block" style="margin:auto; width:70%;" src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/news/一种用于风能采集和风速传感_2.webp" alt=""/>
+<img class="center-block" style="margin:auto; width:70%;" src="/lab_images/news/一种用于风能采集和风速传感_2.webp" alt=""/>
 <b>图2.旗形摩擦纳米发电机的实验装置和颤振特性分析</b> -(a)旗形摩擦纳米发电机的实验装置；(b)不同弯曲刚度和不同风速下旗形摩擦纳米发电机的运动照片；(c)流固质量比M*=0.43时，长宽比对旗形摩擦纳米发电机临界风速的影响；(d)流固质量比M*=0.43时，频率与风速的关系；(e)流固质量比对频率和相关斯特劳哈尔数的影响。
 </p>
 
 <p style="text-align:center;" >
-<img class="center-block" style="margin:auto; width:70%;" src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/news/一种用于风能采集和风速传感_3.webp" alt=""/>
+<img class="center-block" style="margin:auto; width:70%;" src="/lab_images/news/一种用于风能采集和风速传感_3.webp" alt=""/>
 <b>图3.不同长宽比旗形摩擦纳米发电机的输出电压、电流与风速和弯曲刚度的关系</b> -(a)流固质量比M*=0.35时，旗形摩擦纳米发电机的短路电流；(b)流固质量比M*=0.43时，旗形摩擦纳米发电机的短路电流；(c)流固质量比M*=0.58时，旗形摩擦纳米发电机的短路电流；(d)流固质量比M*=0.35时，旗形摩擦纳米发电机的开路电压；(e)流固质量比M*=0.43时，旗形摩擦纳米发电机的开路电压；(f)流固质量比M*=0.58时，旗形摩擦纳米发电机的开路电压；(g)流固质量比M*=0.58时，不同电极间距下旗形摩擦纳米发电机的开路电压；(h)流固质量比M*=0.58时，不同电极间距下旗形摩擦纳米发电机的短路电流；(i)流固质量比M*=0.58时，不同电极间距下旗形摩擦纳米发电机的转移电荷量。
 </p>
 
 <p style="text-align:center;" >
-<img class="center-block" style="margin:auto; width:70%;" src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/news/一种用于风能采集和风速传感_4.png" alt=""/>
+<img class="center-block" style="margin:auto; width:70%;" src="/lab_images/news/一种用于风能采集和风速传感_4.png" alt=""/>
 <b>图4.相对湿度对旗形摩擦纳米发电机发电性能的影响</b> -(a)湿度测试实验装置示意图；(b)不同相对湿度下旗形摩擦纳米发电机的开路电压；(c)不同相对湿度下旗形摩擦纳米发电机的短路电流；(d)不同相对湿度下旗形摩擦纳米发电机的转移电荷量；(e)不同相对湿度条件下，旗形摩擦纳米发电机与ATNG、WTENG、TENG流量计和AF-TENG的输出性能对比；(f)为了增强输出性能而将一对旗形摩擦纳米发电机相隔一定间距放置的示意图；(g)单一旗形摩擦纳米发电机与增强旗形摩擦纳米发电机的输出电流对比；(h)单一旗形摩擦纳米发电机与增强旗形摩擦纳米发电机的输出功率对比。
 </p>
 
 <p style="text-align:center;" >
-<img class="center-block" style="margin:auto; width:70%;" src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/news/一种用于风能采集和风速传感_5.webp" alt=""/>
+<img class="center-block" style="margin:auto; width:70%;" src="/lab_images/news/一种用于风能采集和风速传感_5.webp" alt=""/>
 <b>图5.旗形摩擦纳米发电机的发电性能与风向的关系</b> -(a)不同风向下旗形摩擦纳米发电机的开路电压；(b)不同风向下旗形摩擦纳米发电机的短路电流；(c)不同风向下旗形摩擦纳米发电机的转移电荷量；(d)风向指示电路；(e)旗形摩擦纳米发电机采集不同方向风能并指示风向的照片。
 </p>
 
 <p style="text-align:center;" >
-<img class="center-block" style="margin:auto; width:70%;" src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/news/一种用于风能采集和风速传感_6.png" alt=""/>
+<img class="center-block" style="margin:auto; width:70%;" src="/lab_images/news/一种用于风能采集和风速传感_6.png" alt=""/>
 <b>图6.旗形摩擦纳米发电机的演示实验</b> -(a)一对旗形摩擦纳米发电机用于驱动传感器工作的电路示意图；(b)一对旗形摩擦纳米发电机驱动温度传感器工作的照片；(c)驱动温度传感器工作的充放电曲线；(d)自供能风速传感的工作原理示意图；(e)旗形摩擦纳米发电机和商用风速传感器的实时风速测量的照片；(f)旗形摩擦纳米发电机与商用速传感器的对比。
 </p>
 

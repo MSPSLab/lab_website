@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: A material recognition method for underwater application based on Micro Thermoelectric Generator
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/MTEG.png"
+image: "/lab_images/papers/MTEG.png"
 authors: Changxin Liu, Baichuan Shan, Nanxi Chen, Jianhao Liu, Zhenghui Zhou, Qingyong Wang, Yu Gao, Yunfei Gao, Zhitao Han, Zhijian Liu, Minyi Xu
 year: 2022
 ref: "Changxin Liu. et al. 2022. Sensors and Actuators A: Physical."

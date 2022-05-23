@@ -6,7 +6,7 @@ url_author:
 ---
 
 <p style="text-align:center;" >
-<img class="center-block" style="margin:auto; width:70%;" src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/news/仿三明治结构TENG_1.webp" alt=""/>
+<img class="center-block" style="margin:auto; width:70%;" src="/lab_images/news/仿三明治结构TENG_1.webp" alt=""/>
 </p>
 
 > 背景介绍：
@@ -20,32 +20,32 @@ url_author:
 > 图文导读:
 
 <p style="text-align:center;" >
-<img class="center-block" style="margin:auto; width:70%;" src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/news/仿三明治结构TENG_2.png" alt=""/>
+<img class="center-block" style="margin:auto; width:70%;" src="/lab_images/news/仿三明治结构TENG_2.png" alt=""/>
 <b>图1.自供能航标和摩擦纳米发电单元结构与应用场景</b> -（a）自供能航标的应用场景;（b）自供能航标的结构示意图；（c）自供能航标的实物照片；（d）三明治型摩擦纳米发电机的结构示意图；（e）三明治型摩擦纳米发电机的工作原理；
 </p>
 
 <p style="text-align:center;" >
-<img class="center-block" style="margin:auto; width:70%;" src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/news/仿三明治结构TENG_3.webp" alt=""/>
+<img class="center-block" style="margin:auto; width:70%;" src="/lab_images/news/仿三明治结构TENG_3.webp" alt=""/>
 <b>图2.10层堆叠发电单元在不同波浪条件下的发电性能测试</b> -（a）10层堆叠发电单元波浪模拟实验台；（b）不同波浪频率对短路电流的影响；（c）不同波浪频率对转移电荷量的影响；（d）不同波浪振幅对短路电流的影响；（e）不同波浪振幅对转移电荷量的影响;（f）不同波浪频率和振幅对短路电流影响3D示意图；（g）波浪方向与电极对夹角α示意图；（h）不同波浪方向下发电单元的短路电流;（i）不同波浪方向下发电单元的转移电荷量；
 </p>
 
 <p style="text-align:center;" >
-<img class="center-block" style="margin:auto; width:70%;" src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/news/仿三明治结构TENG_4.webp" alt=""/>
+<img class="center-block" style="margin:auto; width:70%;" src="/lab_images/news/仿三明治结构TENG_4.webp" alt=""/>
 <b>图3.10层堆叠发电单元的电容充电能力</b> -（a）2Hz频率下，10层堆叠发电单元不同规格电容充电对比；（b）不同频率条件下，10层堆叠发电单元对100μF电容充电对比；（c）10层堆叠发电单元的功率负载曲线图；（d）10层发电单元为温度传感器供电示意图；
 </p>
 
 <p style="text-align:center;" >
-<img class="center-block" style="margin:auto; width:70%;" src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/news/仿三明治结构TENG_5.webp" alt=""/>
+<img class="center-block" style="margin:auto; width:70%;" src="/lab_images/news/仿三明治结构TENG_5.webp" alt=""/>
 <b>图4.7个10层堆叠发电单元的并联输出特性</b> -（a）多发电单元并联性能测试实验台示意图；（b）随并联单元数增加，短路电流变化数据图；（c）随并联单元数增加，短路电流变化趋势图；（d）随并联单元数增加，转移电荷量变化数据图；（e）随并联单元数增加，转移电荷量变化趋势图；（f）随并联单元数增加，最大输出功率变化趋势图；
 </p>
 
 <p style="text-align:center;" >
-<img class="center-block" style="margin:auto; width:70%;" src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/news/仿三明治结构TENG_6.webp" alt=""/>
+<img class="center-block" style="margin:auto; width:70%;" src="/lab_images/news/仿三明治结构TENG_6.webp" alt=""/>
 <b>图5.自供能航标波浪水池实验</b> -（a）用于开展波浪实验的海洋波流水槽照片；（b）自供能航标实验照片；（c）自供能航标幅频相应算子模拟值与实验值对比图；（d）自供能航标在波浪驱动下为12W LED灯环供电照片；
 </p>
 
 <p style="text-align:center;" >
-<img class="center-block" style="margin:auto; width:70%;" src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/news/仿三明治结构TENG_7.webp" alt=""/>
+<img class="center-block" style="margin:auto; width:70%;" src="/lab_images/news/仿三明治结构TENG_7.webp" alt=""/>
 <b>图6.自供能航标对水动力参数敏感性研究</b> -（a）波高为6cm，波浪频率0.96Hz时自供能航标短路电流数据图；（b）波高为6cm，波浪频率0.96Hz时自供能航标转移电荷量数据图；（c）波浪频率0.96Hz，不同波高对输出短路电流的影响；（d）波浪频率0.96Hz，不同波高对转移电荷量的影响；（e）波高为4cm，不同波浪频率对输出短路电流的影响；（f）波高为4cm，不同波浪频率对转移电荷量的影响；
 </p>
 

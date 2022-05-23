@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: A Self-Powered and Highly Accurate Vibration Sensor Based on Bouncing-Ball Triboelectric Nanogenerator for Intelligent Ship Machinery Monitoring
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/A-Self-Powered-and-Highly-Accurate.png"
+image: "/lab_images/papers/A-Self-Powered-and-Highly-Accurate.png"
 authors: Du, Taili, Xusheng Zuo, Fangyang Dong, Shunqi Li, Anaeli E. Mtui, Yongjiu Zou, Peng Zhang, Junhao Zhao, Yuewen Zhang, Peiting Sun, and Minyi Xu
 year: 2021
 ref: Du, Taili. et al. 2021. Micromachines.

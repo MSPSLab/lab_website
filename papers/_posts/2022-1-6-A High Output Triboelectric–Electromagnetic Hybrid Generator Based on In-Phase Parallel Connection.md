@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: A High Output Triboelectric–Electromagnetic Hybrid Generator Based on In-Phase Parallel Connection
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/AMT2022-Z.png"
+image: "/lab_images/papers/AMT2022-Z.png"
 authors: Tiancong Zhao,Bo Niu,Guangci Xie,Chao Hu,Boying Liu,Minyi Xu,Yong Ma
 year: 2021
 ref: Tiancong Zhao. et al. 2021. Adv. Mater. Technol.

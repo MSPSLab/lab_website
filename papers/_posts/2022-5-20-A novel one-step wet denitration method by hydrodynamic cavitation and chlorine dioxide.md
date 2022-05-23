@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: A novel one-step wet denitration method by hydrodynamic cavitation and chlorine dioxide
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/hccd.png"
+image: "/lab_images/papers/hccd.png"
 authors: Jingang Yang, Liguo Song, Yuhang Wei, Hao Sui, Chengqi Deng, Bohao Zhang, Kaixuan Lu, Minyi Xu, Zhitao Han, Xinxiang Pan
 year: 2022
 ref: Jingang Yang. et al. 2022. J. Environ. Chem. Eng

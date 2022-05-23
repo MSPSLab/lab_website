@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Sandwich-like triboelectric nanogenerators integrated self-powered buoy for navigation safety
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Sandwich-like-triboelectric.png"
+image: "/lab_images/papers/Sandwich-like-triboelectric.png"
 authors: Hao Wang; Zhongqi Fan; Tiancong Zhao; Jiale Dong; Siyuan Wang; Yan Wang; Xiu Xiao; Changxin Liu; Xinxiang Pan; Yunpeng Zhao*; Minyi Xu*
 year: 2021
 ref: Hao Wang. et al. 2021. Nano Energy.

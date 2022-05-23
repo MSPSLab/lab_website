@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: A Self-Powered and Low Pressure Loss Gas Flowmeter Based on Fluid-Elastic Flutter Driven Triboelectric Nanogenerator
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/A-Self-Powered-and-Low-Pressure.png"
+image: "/lab_images/papers/A-Self-Powered-and-Low-Pressure.png"
 authors: Phan, Trung K., Song Wang, Yan Wang, He Wang, Xiu Xiao, Xinxiang Pan, Minyi Xu, and Jianchun Mi
 year: 2020
 ref: Phan, Trung K. et al. 2020. Sensors.

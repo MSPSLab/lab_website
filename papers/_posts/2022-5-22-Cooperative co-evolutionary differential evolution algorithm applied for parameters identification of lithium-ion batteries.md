@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Cooperative co-evolutionary differential evolution algorithm applied for parameters identification of lithium-ion batteries
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/CCDE.png"
+image: "/lab_images/papers/CCDE.png"
 authors: Chuan Wang, Minyi Xu, Qinjin Zhang, Ruizheng Jiang, Jinhong Feng, Yi Wei, Yancheng Liu
 year: 2022
 ref: Chuan Wang. et al. 2022. Expert Systems with Applications

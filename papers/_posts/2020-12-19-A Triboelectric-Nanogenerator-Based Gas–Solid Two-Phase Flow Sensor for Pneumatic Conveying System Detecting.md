@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: A Triboelectric-Nanogenerator-Based Gas–Solid Two-Phase Flow Sensor for Pneumatic Conveying System Detecting
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/A-Triboelectric-Nanogenerator-Based-Gas–Solid.png"
+image: "/lab_images/papers/A-Triboelectric-Nanogenerator-Based-Gas–Solid.png"
 authors: Yan Wang, Dehua Liu, Zhiyuan Hu, Tianyu Chen, Ziyi Zhang, Hao Wang, Taili Du, Steven L. Zhang, Zhiqiang Zhao, Tongming Zhou, Minyi Xu
 year: 2021
 ref: Yan Wang. et al. 2021. Adv. Mater. Technol.

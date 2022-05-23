@@ -8,7 +8,7 @@ description: 好用的数学公式识别神器：Mathpix Snip，只需要截图�
 > 介绍
 
 理工科的学生或者经常用到数学的科研工作者，对于很多数学公式非常头疼，而Mathpix Snip，只需要截个图，Mathpix Snip就可以将截图中的公式自动转化为 LaTex或Word 代码表达式。
-![](https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/blogs/MathpixSnip数学公式识别.png)
+![](/lab_images/blogs/MathpixSnip数学公式识别.png)
 
 >下载地址
 

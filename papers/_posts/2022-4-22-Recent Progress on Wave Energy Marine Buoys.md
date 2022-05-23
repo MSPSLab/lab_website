@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Recent Progress on Wave Energy Marine Buoys
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/WEMB.png"
+image: "/lab_images/papers/WEMB.png"
 authors: Ruijiang Xu, Hao Wang, Ziyue Xi, Weichen Wang and Minyi Xu
 year: 2022
 ref: Ruijiang Xu. et al. 2022. J. Mar. Sci. Eng.

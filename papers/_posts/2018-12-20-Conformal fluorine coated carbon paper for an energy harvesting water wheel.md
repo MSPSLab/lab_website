@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Conformal fluorine coated carbon paper for an energy harvesting water wheel
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Conformal-fluorine-coated.png"
+image: "/lab_images/papers/Conformal-fluorine-coated.png"
 authors: Dongyue Jiang, Fei Guo, Minyi Xu, Jingcheng Cai, Shuo Cong, Ming Jia, Guijun Chen, Yongchen Song
 year: 2019
 ref: Dongyue Jiang. et al. 2019. Nano Energy.

@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: A highly-sensitive wave sensor based on liquid-solid interfacing triboelectric nanogenerator for smart marine equipment
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/A-highly-sensitive.png"
+image: "/lab_images/papers/A-highly-sensitive.png"
 authors: Minyi Xu, Song Wang, Steven L. Zhang, Wenbo Ding, Phan Trung Kien, Chuan Wang, Zhou Li, Xinxiang Pan, Zhong Lin Wang
 year: 2019
 ref: Minyi Xu. et al. 2019. Research.

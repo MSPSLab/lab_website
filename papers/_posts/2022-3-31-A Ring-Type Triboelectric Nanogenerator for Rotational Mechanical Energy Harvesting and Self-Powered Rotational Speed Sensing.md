@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: A Ring-Type Triboelectric Nanogenerator for Rotational Mechanical Energy Harvesting and Self-Powered Rotational Speed Sensing
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/R-TENG.png"
+image: "/lab_images/papers/R-TENG.png"
 authors: Yida Xin, Taili Du, Changhong Liu, Zhiyuan Hu, Peiting Sun and Minyi Xu
 year: 2022
 ref: Yida Xin. et al. 2022. Micromachines.

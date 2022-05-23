@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Honeycomb Structure Inspired Triboelectric Nanogenerator for Highly Effective Vibration Energy Harvesting and Self-Powered Engine Condition Monitoring
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Honeycomb-Structure-Inspired.png"
+image: "/lab_images/papers/Honeycomb-Structure-Inspired.png"
 authors: Xiu Xiao, Xiangqian Zhang, Siyuan Wang, Han Ouyang, Pengfei Chen, Liguo Song, Haichao Yuan, Yulong Ji, Peihong Wang, Zhou Li, Minyi Xu, Zhong Lin Wang
 year: 2019
 ref: Xiu Xiao. et al. 2019. Adv. Energy Mater.

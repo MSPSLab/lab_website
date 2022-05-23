@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: A High-Performance Flag-Type Triboelectric Nanogenerator for Scavenging Energy Harvesting toward Self-Powered IoTs
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/HF-TENG.png"
+image: "/lab_images/papers/HF-TENG.png"
 authors: Zou, Yongjiu, Minzheng Sun, Fei Yan, Taili Du, Ziyue Xi, Fangming Li, Chuanqing Zhu, Hao Wang, Junhao Zhao, Peiting Sun, and Minyi Xu
 year: 2022
 ref: Zou, Yongjiu. et al. 2022. Materials

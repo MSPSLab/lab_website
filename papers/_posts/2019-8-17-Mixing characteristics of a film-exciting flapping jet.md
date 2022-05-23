@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Mixing characteristics of a film-exciting flapping jet
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Mixing-characteristics-of.png"
+image: "/lab_images/papers/Mixing-characteristics-of.png"
 authors: M. Wu, M. Xu, J. Mi, R.C. Deo,
 year: 2020
 ref: M. Wu. et al. 2020. Int J Heat Fluid Flow.

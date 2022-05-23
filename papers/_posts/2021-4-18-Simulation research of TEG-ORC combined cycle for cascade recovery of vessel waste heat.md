@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Simulation research of TEG-ORC combined cycle for cascade recovery of vessel waste heat
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/TEGORC.png"
+image: "/lab_images/papers/TEGORC.png"
 authors: Changxin Liu, Huaan Li, Wenxiang Ye, Jianhao Liu, Huibin Wang, Minyi Xu, Xinxiang Pan, Zhuofan Mao & Shuojia Yang
 year: 2021
 ref: Changxin Liu. et al. 2021. International Journal of Green Energy.

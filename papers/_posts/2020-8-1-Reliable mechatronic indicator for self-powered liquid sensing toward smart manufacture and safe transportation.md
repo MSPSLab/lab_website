@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Reliable mechatronic indicator for self-powered liquid sensing toward smart manufacture and safe transportation
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Reliable-mechatronic-indicator.png"
+image: "/lab_images/papers/Reliable-mechatronic-indicator.png"
 authors: Jie An, Ziming Wang, Tao Jiang, Pengfei Chen, Xi Liang, Jiajia Shao, Jinhui Nie, Minyi Xu, Zhong Lin Wang
 year: 2020
 ref: Jie An. et al. 2020. Materials Today.

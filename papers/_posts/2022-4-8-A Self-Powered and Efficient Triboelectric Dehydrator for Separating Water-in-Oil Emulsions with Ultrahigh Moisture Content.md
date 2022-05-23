@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: A Self-Powered and Efficient Triboelectric Dehydrator for Separating Water-in-Oil Emulsions with Ultrahigh Moisture Content
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/TED.png"
+image: "/lab_images/papers/TED.png"
 authors: Fangming Li,Xingfu Wan,Jiaju Hong,Xinyang Guo,Minzheng Sun,Haijia Lv,Hao Wang,Jianchun Mi,Jia Cheng,Xinxiang Pan,Minyi Xu,Zhong Lin Wang
 year: 2022
 ref: Fangming Li. et al. 2022. Adv. Mater. Technol.

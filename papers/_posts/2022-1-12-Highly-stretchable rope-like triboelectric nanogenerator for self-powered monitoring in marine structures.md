@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Highly-stretchable rope-like triboelectric nanogenerator for self-powered monitoring in marine structures
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/RTENG.png"
+image: "/lab_images/papers/RTENG.png"
 authors: Cong Zhao, Dehua Liu, Yawei Wang, Zhiyuan Hu, Qiqi Zhang, Ziyi Zhang, Hao Wang, Taili Du, Yongjiu Zou, Haichao Yuan, Xinxiang Pan, Jianchun Mi, Minyi Xu
 year: 2022
 ref: Cong Zhao. et al. 2022. Nano Energy.

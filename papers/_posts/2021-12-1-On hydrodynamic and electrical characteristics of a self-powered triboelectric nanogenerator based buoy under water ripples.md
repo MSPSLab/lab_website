@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: On hydrodynamic and electrical characteristics of a self-powered triboelectric nanogenerator based buoy under water ripples
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/APENG.png"
+image: "/lab_images/papers/APENG.png"
 authors: Yunpeng Zhao, Zhongqi Fan, Chunwei Bi, Hao Wang, Jianchun Mi, Minyi Xu
 year: 2022
 ref: Yunpeng Zhao. et al. 2022. Applied Energy.

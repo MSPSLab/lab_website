@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: A wind driven rotational direct current triboelectric nanogenerator for self-powered inactivation of seawater microorganisms
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/R-DC-TENG.png"
+image: "/lab_images/papers/R-DC-TENG.png"
 authors: Changxin Liu, Jianhao Liu, Jianhua Liu, Cong Zhao, Baichuan Shan, Nanxi Chen, Zhenghui Zhou, Chengfa Wang, Xinxiang Pan, Jianchun Mi, Minyi Xu
 year: 2022
 ref: "Changxin Liu. et al. 2022. Materials Today Energy"

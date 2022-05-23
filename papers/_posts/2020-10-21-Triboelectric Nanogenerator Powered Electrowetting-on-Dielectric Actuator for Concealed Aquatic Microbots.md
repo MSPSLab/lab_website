@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Triboelectric Nanogenerator Powered Electrowetting-on-Dielectric Actuator for Concealed Aquatic Microbots
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/JDY_ACSNANO.png"
+image: "/lab_images/papers/JDY_ACSNANO.png"
 authors: Dongyue Jiang*, Zeng Fan, Hongchen Wang, Minyi Xu*, Guijun Chen, Yongchen Song, and Zhong Lin Wang*
 year: 2020
 ref: Dongyue Jiang. et al. 2020. ACS Nano.

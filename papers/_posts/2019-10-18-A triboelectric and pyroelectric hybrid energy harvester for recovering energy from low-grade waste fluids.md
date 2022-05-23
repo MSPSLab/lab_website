@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: A triboelectric and pyroelectric hybrid energy harvester for recovering energy from low-grade waste fluids
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/A-triboelectric-and-pyroelectric.png"
+image: "/lab_images/papers/A-triboelectric-and-pyroelectric.png"
 authors: Dongyue Jiang, Yunpeng Su, Kun Wang, Yutao Wang, Minyi Xu, Ming Dong, Guijun Chen
 year: 2020
 ref: Dongyue Jiang. et al. 2020. Nano Energy.

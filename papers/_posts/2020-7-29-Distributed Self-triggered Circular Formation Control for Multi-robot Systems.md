@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Distributed Self-triggered Circular Formation Control for Multi-robot Systems
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Distributed-Self-triggered.png"
+image: "/lab_images/papers/Distributed-Self-triggered.png"
 authors: Peng Xu; Xinyu wang; Jin Tao; Guangming Xie; Minyi Xu; Quan Zhou
 year: 2020
 ref: Peng Xu. et al. 2020. CCC.

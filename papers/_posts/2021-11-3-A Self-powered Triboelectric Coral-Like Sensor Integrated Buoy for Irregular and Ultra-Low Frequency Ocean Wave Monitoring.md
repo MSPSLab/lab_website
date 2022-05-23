@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: A Self-powered Triboelectric Coral-Like Sensor Integrated Buoy for Irregular and Ultra-Low Frequency Ocean Wave Monitoring
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Coral-Like-Sensor.png"
+image: "/lab_images/papers/Coral-Like-Sensor.png"
 authors: Xinyu Wang, Jianhua Liu, Siyuan Wang, Jiaxi Zheng, Tangzhen Guan, Xiangyu Liu, Tingyu Wang, Tianyu Chen, Hao Wang, Guangming Xie, Peng Xu, Jin Tao, Minyi Xu
 year: 2021
 ref:  Xinyu Wang. et al. 2021. Advanced Materials Technologies.

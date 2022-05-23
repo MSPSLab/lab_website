@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Multi-functional wind barrier based on triboelectric nanogenerator for power generation, self-powered wind speed sensing and highly efficient windshield
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Multi-functional-wind-barrier.png"
+image: "/lab_images/papers/Multi-functional-wind-barrier.png"
 authors: Yan Wang, Jianye Wang, Xiu Xiao, Siyuan Wang, Phan Trung Kien, Jiale Dong, Jianchun Mi, Xinxiang Pan, Hanfeng Wang, Minyi Xu
 year: 2020
 ref: Yan Wang. et al. 2020. Nano Energy.

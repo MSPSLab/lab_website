@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: A Soft and Robust Spring Based Triboelectric Nanogenerator for Harvesting Arbitrary Directional Vibration Energy and Self-Powered Vibration Sensing
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/A-Soft-and-Robust-Spring.png"
+image: "/lab_images/papers/A-Soft-and-Robust-Spring.png"
 authors: Minyi Xu, Peihong Wang, Yi-Cheng Wang, Steven L. Zhang, Aurelia Chi Wang, Chunli Zhang, Zhengjun Wang, Xinxiang Pan, Zhong Lin Wang
 year: 2018
 ref: Minyi Xu. et al. 2018. Adv. Energy Mater.

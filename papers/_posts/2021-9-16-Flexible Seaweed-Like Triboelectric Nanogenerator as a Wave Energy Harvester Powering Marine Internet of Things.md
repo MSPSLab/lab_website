@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Flexible Seaweed-Like Triboelectric Nanogenerator as a Wave Energy Harvester Powering Marine Internet of Things
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Flexible-Seaweed-Like-Triboelectric.jpeg"
+image: "/lab_images/papers/Flexible-Seaweed-Like-Triboelectric.jpeg"
 authors: Yan Wang, Xiangyu Liu, Yawei Wang, Hao Wang, He Wang, Steven L. Zhang, Tiancong Zhao, Minyi Xu and Zhong Lin Wang
 year: 2021
 ref: Yan Wang. et al. 2021. ACS Nano.

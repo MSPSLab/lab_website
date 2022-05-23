@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Digital filter for hot-wire measurements of small-scale turbulence properties
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Digital-filter-for.png"
+image: "/lab_images/papers/Digital-filter-for.png"
 authors: J Mi, M Xu and C Du
 year: 2011
 ref: J Mi. et al. 2011. Meas. Sci. Technol.

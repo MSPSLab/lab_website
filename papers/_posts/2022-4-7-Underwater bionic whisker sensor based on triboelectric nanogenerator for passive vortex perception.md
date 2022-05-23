@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Underwater bionic whisker sensor based on triboelectric nanogenerator for passive vortex perception
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/UBWS.png"
+image: "/lab_images/papers/UBWS.png"
 authors: Siyuan Wang, Peng Xu, Xinyu Wang, Jiaxi Zheng, Xiangyu Liu, Jianhua Liu, Tianyu Chen, Hao Wang, Guangming Xie, Jin Tao, Minyi Xu
 year: 2022
 ref: Siyuan Wang. et al. 2022. Nano Energy.

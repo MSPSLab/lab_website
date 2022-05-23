@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Pull-Based Distributed Event-Triggered Circle Formation Control for Multi-Agent Systems with Directed Topologies
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Pull-Based-Distributed.png"
+image: "/lab_images/papers/Pull-Based-Distributed.png"
 authors: Xu, Peng, Hongfa Zhao, Guangming Xie, Jin Tao, and Minyi Xu
 year: 2019
 ref: Peng Xu. et al. 2019. Appl. Sci.

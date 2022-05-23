@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: A Triboelectric-Based Artificial Whisker for Reactive Obstacle Avoidance and Local Mapping
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/A-Triboelectric.png"
+image: "/lab_images/papers/A-Triboelectric.png"
 authors: Peng Xu, Xinyu Wang, Siyuan Wang, Tianyu Chen, Jianhua Liu, Jiaxi Zheng, Wenxiang Li, Minyi Xu, Jin Tao, Guangming Xie
 year: 2021
 ref: Peng Xu. et al. 2021. Research.

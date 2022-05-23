@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Numerical investigation on vibration-induced two-phase distribution in a vertical annular channel
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Numerical-investigation-on.png"
+image: "/lab_images/papers/Numerical-investigation-on.png"
 authors: Xiu Xiao, Yu Guo, Minyi Xu, Yulong Ji, Qingzi Zhu, Mamoru Ishii
 year: 2020
 ref: Xiu Xiao. et al. 2020. Nucl. Eng. Des.

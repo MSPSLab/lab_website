@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Effect of noncircular orifice plates on the near flow field of turbulent free jets
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Effect-of-noncircular.png"
+image: "/lab_images/papers/Effect-of-noncircular.png"
 authors: Xu Minyi*; Tong, Xingqing; Yue, Danting; Zhang, Jianpeng; Mi, Jianchun; Nathan, G.J.; Kalt, P.A.M.
 year: 2014
 ref: Xu Minyi. et al. 2014. Chinese Phys. B.

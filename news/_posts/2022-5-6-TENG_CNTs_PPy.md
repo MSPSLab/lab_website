@@ -16,7 +16,7 @@ url_author:
 - 相关研究成果以“A Full-set and Self-powered Ammonia Leakage Monitor System based on CNTs-PPy and Triboelectric Nanogenerator for Zero-carbon Vessels”为题，发表在《纳米能源》（Nano Energy）上。该工作的共同第一作者是大连化物所106组博士毕业生常俊玉、大连海事大学博士研究生朱传庆和大连化物所106组博士研究生王振名。
 
 <p style="text-align:center;" >
-<img src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/news/tcp.jpeg" style=" width:600px;"><b></b>
+<img src="/lab_images/news/tcp.jpeg" style=" width:600px;"><b></b>
 </p>
 
 > 阅读直达链接：

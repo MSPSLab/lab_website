@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Conical Helmholtz Resonator-Based Triboelectric Nanogenerator for Harvesting of Acoustic energy
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/IEEE_YHY.png"
+image: "/lab_images/papers/IEEE_YHY.png"
 authors: Hongyong Yu; Taili Du; Hongfa Zhao; Qiqi Zhang; Ling Liu; Anaeli Elibariki Mtui; Yue Huang; Xiu Xiao; Minyi Xu
 year: 2021
 ref: Hongyong Yu. et al. 2021. 2021 IEEE 16th International Conference on Nano/Micro Engineered and Molecular Systems.

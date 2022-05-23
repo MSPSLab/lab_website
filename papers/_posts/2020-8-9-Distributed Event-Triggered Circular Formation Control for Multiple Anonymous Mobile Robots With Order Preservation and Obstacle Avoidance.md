@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Distributed Event-Triggered Circular Formation Control for Multiple Anonymous Mobile Robots With Order Preservation and Obstacle Avoidance
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Distributed-Event-Triggered-Circular.png"
+image: "/lab_images/papers/Distributed-Event-Triggered-Circular.png"
 authors: Xu, Peng and Li, Wenxiang and Tao, Jin and Dehmer, Matthias and Emmert-Streib, Frank and Xie, Guangming and Xu, Minyi and Zhou, Quan
 year: 2020
 ref: Peng Xu. et al. 2020. IEEE Access

@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Water-solid triboelectric nanogenerators- An alternative means for harvesting hydropower
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Water-solid-triboelectric.png"
+image: "/lab_images/papers/Water-solid-triboelectric.png"
 authors: Dongyue Jiang, Minyi Xu, Ming Dong, Fei Guo, Xiaohua Liu, Guijun Chen, Zhong Lin Wang
 year: 2019
 ref: Dongyue Jiang. et al. 2019. Renew. Sust. Energ. Rev.

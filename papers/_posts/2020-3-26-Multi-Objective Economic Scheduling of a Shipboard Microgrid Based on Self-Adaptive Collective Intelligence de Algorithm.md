@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Multi-Objective Economic Scheduling of a Shipboard Microgrid Based on Self-Adaptive Collective Intelligence de Algorithm
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Multi-Objective-Economic-Scheduling.png"
+image: "/lab_images/papers/Multi-Objective-Economic-Scheduling.png"
 authors: Jinhong Feng; Jundong Zhang; Chuan Wang; Ruizheng Jiang; Mingyi Xu
 year: 2020
 ref: Jinhong Feng. et al. 2020. IEEE Access.

@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Centreline statistics of the small-scale turbulence of a circular jet and their dependence on high frequency noise
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Centreline-statistics.png"
+image: "/lab_images/papers/Centreline-statistics.png"
 authors: Xu Minyi; Du Cheng; Mi Jianchun*
 year: 2011
 ref: Xu Minyi. et al. 2011. Acta Physica Sinica.

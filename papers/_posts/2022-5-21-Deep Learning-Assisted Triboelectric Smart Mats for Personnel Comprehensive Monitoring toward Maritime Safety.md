@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Deep Learning-Assisted Triboelectric Smart Mats for Personnel Comprehensive Monitoring toward Maritime Safety
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/DL.webp"
+image: "/lab_images/papers/DL.webp"
 authors: Yan Wang, Zhiyuan Hu, Junpeng Wang, Xiangyu Liu, Qiongfeng Shi, Yawei Wang, Lin Qiao, Yahui Li, Hengyi Yang, Jianhua Liu, Leyan Zhou, Zhuoqing Yang, Chengkuo Lee, and Minyi Xu
 year: 2022
 ref: Yan Wang. et al. 2022. ACS Appl. Mater. Interfaces

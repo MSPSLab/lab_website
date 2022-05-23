@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: On flapping jets induced by a fluttering film and from circular nozzles of smooth contraction, orifice plate and long pipe
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/eif.webp"
+image: "/lab_images/papers/eif.webp"
 authors: Mengwei Wu, Chunwei Li, Chuanqing Zhu, Guochang Wang, Minyi Xu & Jianchun Mi
 year: 2022
 ref: Mengwei Wu. et al. 2022. Experiments in Fluids.

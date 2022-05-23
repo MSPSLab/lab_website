@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Chemical kinetic effect of hydrogen addition on ethylene jet flames in a hot and diluted coflow
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Chemical-kinetic.png"
+image: "/lab_images/papers/Chemical-kinetic.png"
 authors: F. Wang, P. Li, J. Mi, J. Wang, M. Xu
 year: 2015
 ref: F. Wang. et al. 2015. Int. J. Hydrog. Energy.

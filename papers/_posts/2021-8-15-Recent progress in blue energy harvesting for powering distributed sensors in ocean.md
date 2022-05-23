@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Recent progress in blue energy harvesting for powering distributed sensors in ocean
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Recent-progress-in-blue.png"
+image: "/lab_images/papers/Recent-progress-in-blue.png"
 authors: Tiancong Zhao, Minyi Xu, Xiu Xiao, Yong Ma, Zhou Li, Zhong Lin Wang
 year: 2021
 ref: Tiancong Zhao. et al. 2021. Nano Energy.

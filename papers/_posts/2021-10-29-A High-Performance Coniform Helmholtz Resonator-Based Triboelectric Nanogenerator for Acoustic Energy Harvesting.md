@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: A High-Performance Coniform Helmholtz Resonator-Based Triboelectric Nanogenerator for Acoustic Energy Harvesting
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Coniform-Helmholtz-Resonator.webp"
+image: "/lab_images/papers/Coniform-Helmholtz-Resonator.webp"
 authors: Haichao Yuan, Hongyong Yu, Xiangyu Liu, Hongfa Zhao, Yiping Zhang, Ziyue Xi, Qiqi Zhang, Ling Liu, Yejin Lin, Xinxiang Pan and Minyi Xu
 year: 2021
 ref: Haichao Yuan. et al. 2021. Nanomaterials.

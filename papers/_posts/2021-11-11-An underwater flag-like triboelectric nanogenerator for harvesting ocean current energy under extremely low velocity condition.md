@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: An underwater flag-like triboelectric nanogenerator for harvesting ocean current energy under extremely low velocity condition
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/An-underwater-flag-like.jpg"
+image: "/lab_images/papers/An-underwater-flag-like.jpg"
 authors: Yan Wang, Xiangyu Liu, Tianyu Chen, Hao Wang, Chuanqing Zhu, Hongyong Yu, Liguo Song, Xinxiang Pan, Jianchun Mi, Chengkuo Lee, Minyi Xu
 year: 2021
 ref: Yan Wang. et al. 2021. Nano Energy.

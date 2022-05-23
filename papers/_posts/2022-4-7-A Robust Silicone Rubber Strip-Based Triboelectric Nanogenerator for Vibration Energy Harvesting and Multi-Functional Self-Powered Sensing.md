@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: A Robust Silicone Rubber Strip-Based Triboelectric Nanogenerator for Vibration Energy Harvesting and Multi-Functional Self-Powered Sensing
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/SRS-TENG.png"
+image: "/lab_images/papers/SRS-TENG.png"
 authors: Taili Du, Bin Ge, Anaeli E. Mtui, Cong Zhao, Fangyang Dong, Yongjiu Zou, Hao Wang, Peiting Sun, and Minyi Xu
 year: 2022
 ref: Taili Du. et al. 2022. Nanomaterials.

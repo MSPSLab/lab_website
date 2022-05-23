@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Association rule mining based parameter adaptive strategy for differential evolution algorithms
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Association-rule-mining.png"
+image: "/lab_images/papers/Association-rule-mining.png"
 authors: Chuan Wang, Yancheng Liu, Qinjin Zhang, Haohao Guo, Xiaoling Liang, Yang Chen, Minyi Xu, Yi Wei
 year: 2019
 ref: Chuan Wang. et al. 2019. Expert Syst. Appl.

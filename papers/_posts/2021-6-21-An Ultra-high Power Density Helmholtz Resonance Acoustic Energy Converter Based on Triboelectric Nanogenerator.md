@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: An Ultra-high Power Density Helmholtz Resonance Acoustic Energy Converter Based on Triboelectric Nanogenerator
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/IEEE_LL.png"
+image: "/lab_images/papers/IEEE_LL.png"
 authors: Ling Liu; Hongfa Zhao; Zhenhui Lian; Hongyong Yu; Qiqi Zhang; Wenxiang Li; Minyi Xu; Xiu Xiao
 year: 2021
 ref: Ling Liu. et al. 2021. 2021 IEEE 16th International Conference on Nano/Micro Engineered and Molecular Systems.

@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Multi-Tube Helmholtz Resonator Based Triboelectric Nanogenerator for Broadband Acoustic Energy Harvesting
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/MH-TENG.png"
+image: "/lab_images/papers/MH-TENG.png"
 authors: Zhang Qiqi, Xi Ziyue, Wang Yawei, Liu Ling, Yu Hongyong, Wang Hao, Xu Minyi
 year: 2022
 ref: Zhang Qiqi. et al. 2022. Frontiers in Materials.

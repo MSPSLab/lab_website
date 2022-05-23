@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: MILD combustion versus conventional bluff-body flame of a premixed CH4/air jet in hot coflow
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/MILD-combustion-versus.png"
+image: "/lab_images/papers/MILD-combustion-versus.png"
 authors: G. Wang, J. Si, M. Xu, J. Mi
 year: 2019
 ref: G. Wang. et al. 2019. Energy.

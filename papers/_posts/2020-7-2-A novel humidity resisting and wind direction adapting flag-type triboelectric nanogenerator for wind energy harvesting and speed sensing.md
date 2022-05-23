@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: A novel humidity resisting and wind direction adapting flag-type triboelectric nanogenerator for wind energy harvesting and speed sensing
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/A-novel-humidity-resisting.png"
+image: "/lab_images/papers/A-novel-humidity-resisting.png"
 authors: Yan Wang, En Yang, Tianyu Chen, Jianye Wang, Zhiyuan Hu, Jianchun Mi, Xinxiang Pan, Minyi Xu
 year: 2020
 ref: Yan Wang. et al. Nano Energy.

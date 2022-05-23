@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Practical Formation Control for Multiple Anonymous Robots System with Unknown Nonlinear Disturbances
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/applsci-11-09170-g001-550.webp"
+image: "/lab_images/papers/applsci-11-09170-g001-550.webp"
 authors: Peng Xu, Jin Tao, Minyi Xu and Guangming Xie
 year: 2021
 ref: Peng Xu. et al. 2021. Applied Sciences.

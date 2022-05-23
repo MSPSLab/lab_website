@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Large eddy simulations of a triangular jet and its counterpart through a chamber
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Large-eddy-simulations.png"
+image: "/lab_images/papers/Large-eddy-simulations.png"
 authors: Xiao, Xiu; Wang, Guo-Chang; Xu, Min-Yi; Mi, Jian-Chun*
 year: 2020
 ref: Xiu Xiao. et al. 2020. Chinese Phys. B.

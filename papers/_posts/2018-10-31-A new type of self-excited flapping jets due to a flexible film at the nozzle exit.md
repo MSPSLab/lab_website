@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: A new type of self-excited flapping jets due to a flexible film at the nozzle exit
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/A-new-type-of-self-excited.png"
+image: "/lab_images/papers/A-new-type-of-self-excited.png"
 authors: M. Xu, M. Wu, J. Mi
 year: 2019
 ref: M. Xu. et al. 2019. Exp. Therm. Fluid Sci.

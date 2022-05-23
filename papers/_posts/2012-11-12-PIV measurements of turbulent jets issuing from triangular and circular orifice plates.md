@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: PIV measurements of turbulent jets issuing from triangular and circular orifice plates
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/PIV-measurements.png"
+image: "/lab_images/papers/PIV-measurements.png"
 authors: MinYi Xu, JianPeng Zhang, JianChun Mi, G. J. Nathan & P. A. M. Kalt 
 year: 2013
 ref: MinYi Xu. et al. 2013. Sci. China Phys. Mech. Astron.

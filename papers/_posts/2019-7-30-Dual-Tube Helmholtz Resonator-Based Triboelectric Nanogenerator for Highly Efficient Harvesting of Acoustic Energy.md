@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Dual-Tube Helmholtz Resonator-Based Triboelectric Nanogenerator for Highly Efficient Harvesting of Acoustic Energy
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Dual-Tube.png"
+image: "/lab_images/papers/Dual-Tube.png"
 authors: Hongfa Zhao, Xiu Xiao, Peng Xu, Tiancong Zhao, Liguo Song, Xinxiang Pan, Jianchun Mi, Minyi Xu, Zhong Lin Wang
 year: 2019
 ref: Zhao, H. et al. 2019. Adv. Energy Mater.

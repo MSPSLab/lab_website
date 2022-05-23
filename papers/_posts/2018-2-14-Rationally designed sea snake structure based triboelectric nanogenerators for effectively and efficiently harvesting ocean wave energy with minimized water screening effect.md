@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Rationally designed sea snake structure based triboelectric nanogenerators for effectively and efficiently harvesting ocean wave energy with minimized water screening effect
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Rationally-designed-sea.png"
+image: "/lab_images/papers/Rationally-designed-sea.png"
 authors: Steven L. Zhang, Minyi Xu, Chunli Zhang, Yi-Cheng Wang, Haiyang Zou, Xu He, Zhengjun Wang, Zhong Lin Wang
 year: 2018
 ref: Steven L. et al. 2018. Nano Energy.

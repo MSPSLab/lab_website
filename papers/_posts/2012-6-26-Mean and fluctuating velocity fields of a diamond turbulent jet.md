@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Mean and fluctuating velocity fields of a diamond turbulent jet
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Mean-and-fluctuating.png"
+image: "/lab_images/papers/Mean-and-fluctuating.png"
 authors: Xu Min-Yi; Zhang Jian-Peng; Mi Jian-Chun*; Nathan, G. J.; Kalt, P. A. M.
 year: 2013
 ref: Xu Min-Yi. et al. 2013. Chinese Phys. B.

@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Large Eddy Simulation of an Initially-Confined Triangular Oscillating Jet
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Large-Eddy-Simulation-of.png"
+image: "/lab_images/papers/Large-Eddy-Simulation-of.png"
 authors: Minyi Xu, Jianchun Mi & Pengfei Li 
 year: 2012
 ref: Minyi Xu. et al. 2012. Flow Turbul Combust.

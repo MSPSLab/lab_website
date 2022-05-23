@@ -9,7 +9,7 @@ description: Cytoscape 是一个专注于开源网络可视化和分析的软件
 > 介绍
 
 Cytoscape 是一个专注于开源网络可视化和分析的软件，其核心是提供基础的功能布局和查询网络，并依据基本的数据结合成可视化网络。多用于生物信息学领域，但其强大的作图能力值得我们了解。
-![](https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/blogs/Cytoscape网络作图器1.png)
+![](/lab_images/blogs/Cytoscape网络作图器1.png)
 
 >下载
 
@@ -46,7 +46,7 @@ Cytoscape 是一个专注于开源网络可视化和分析的软件，其核心�
 若作为期刊配图，后期需导入Ai，进行调整，输出为TIF格式即可
 
 ```
-![](https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/blogs/Cytoscape网络作图器2.png)
+![](/lab_images/blogs/Cytoscape网络作图器2.png)
 
 ```
 这是我自建数据用Cytoscape为2020年美赛A题所作的EMD+BP预测模式图，你可以下载源数据，并动手实践。
@@ -54,7 +54,7 @@ Cytoscape 是一个专注于开源网络可视化和分析的软件，其核心�
 **[点击下载数据](https://zhuifengyi.coding.net/p/MESC_doc/d/MESC_doc/git/blob/master/Cytoscape%E5%AE%9E%E8%B7%B5%E6%95%B0%E6%8D%AE.zip)**
 
 
-![](https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/blogs/Cytoscape网络作图器3.png)
+![](/lab_images/blogs/Cytoscape网络作图器3.png)
 ```
 生物信息学中由Cytoscape作出的普通PPI网络图，仅显示部分
 ```

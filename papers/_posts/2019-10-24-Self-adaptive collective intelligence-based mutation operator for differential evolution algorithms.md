@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Self-adaptive collective intelligence-based mutation operator for differential evolution algorithms
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Self-adaptive-collective.png"
+image: "/lab_images/papers/Self-adaptive-collective.png"
 authors: Jinhong Feng, Jundong Zhang, Chuan Wang & Minyi Xu 
 year: 2020
 ref: Jinhong Feng. et al. 2020. J Supercomput.

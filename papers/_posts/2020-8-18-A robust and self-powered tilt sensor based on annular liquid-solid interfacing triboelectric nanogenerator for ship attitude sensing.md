@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: A robust and self-powered tilt sensor based on annular liquid-solid interfacing triboelectric nanogenerator for ship attitude sensing
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/A-robust-and-self-powered.png"
+image: "/lab_images/papers/A-robust-and-self-powered.png"
 authors: Song Wang, Yan Wang, Dehua Liu, Ziyi Zhang, Wenxiang Li, Changxin Liu, Taili Du, Xiu Xiao, Liguo Song, Hongchen Pang, Minyi Xu
 year: 2021
 ref: Song Wang. et al. 2021. Sens. Actuator A Phys.

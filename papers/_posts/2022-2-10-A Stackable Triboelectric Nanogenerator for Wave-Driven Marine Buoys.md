@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: A Stackable Triboelectric Nanogenerator for Wave-Driven Marine Buoys
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/S-TENG.png"
+image: "/lab_images/papers/S-TENG.png"
 authors: Hao Wang, Chuanqing Zhu, Weichen Wang, Ruijiang Xu, Pengfei Chen, Taili Du, Tingxi Xue, Zhaoyang Wang and Minyi Xu
 year: 2022
 ref: Hao Wang. et al. 2022. Nanomaterials.

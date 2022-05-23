@@ -16,37 +16,37 @@ url_author:
 > 图文导读:
 
 <p style="text-align:center;" >
-<img class="center-block" style="margin:auto; width:70%;" src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/news/多功能风屏障_1.webp" alt=""/>
+<img class="center-block" style="margin:auto; width:70%;" src="/lab_images/news/多功能风屏障_1.webp" alt=""/>
 <b>图1. TENG风屏障的应用场景和工作原理</b> -a）TENG风屏障的应用场景，TENG单元的照片以及TENG单元的示意图（b）TENG单元中设置的坐标系（c）TENG单元的工作原理
 </p>
 
 <p style="text-align:center;" >
-<img class="center-block" style="margin:auto; width:70%;" src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/news/多功能风屏障_2.webp" alt=""/>
+<img class="center-block" style="margin:auto; width:70%;" src="/lab_images/news/多功能风屏障_2.webp" alt=""/>
 <b>图2. 风洞中TENG单元的结构优化实验</b> -（a）实验装置示意图（b）不同膜垂度TENG单元的临界风速（c-e）输出电流与垂度，空气间隙和膜宽度的关系
 </p>
 
 
 <p style="text-align:center;" >
-<img class="center-block" style="margin:auto; width:70%;" src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/news/多功能风屏障_3.webp" alt=""/>
+<img class="center-block" style="margin:auto; width:70%;" src="/lab_images/news/多功能风屏障_3.webp" alt=""/>
 <b>图3. TENG单元的发电性能与风速，湍流度和风向的关系</b> -（a-c）开路电压，短路电流和膜颤振频率与风速的关系
 （d-f）开路电压，短路电流和膜颤振频率与湍流度的关系（g-i）TENG单元的开路电压，短路电流和转移电荷量与风向的关系
 </p>
 
 
 <p style="text-align:center;" >
-<img class="center-block" style="margin:auto; width:70%;" src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/news/多功能风屏障_4.webp" alt=""/>
+<img class="center-block" style="margin:auto; width:70%;" src="/lab_images/news/多功能风屏障_4.webp" alt=""/>
 <b>图4. TENG风屏障的发电性能</b> -（a）TENG单元的输出电流（b）由66个TENG单元组成的TENG风屏障的输出电流（c）输出电流随TENG单元个数变化曲线（d）TENG单元外加电阻的输出电流与功率的变化曲线（e）TENG风屏障外加电阻的电流与功率的变化曲线（f）功率随TENG单元个数变化曲线
 </p>
 
 
 <p style="text-align:center;" >
-<img class="center-block" style="margin:auto; width:70%;" src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/news/多功能风屏障_5.webp" alt=""/>
+<img class="center-block" style="margin:auto; width:70%;" src="/lab_images/news/多功能风屏障_5.webp" alt=""/>
 <b>图5. TENG风屏障和传统风屏障的挡风性能对比</b> -（a,b）孔隙率为45.4％的传统风屏障和TENG风屏障的烟线可视化实验
 （c,d）传统风屏障和TENG风屏障后部的速度云图对比（e,f）传统风屏障和TENG风屏障后部的湍流度云图对比
 </p>
 
 <p style="text-align:center;" >
-<img class="center-block" style="margin:auto; width:70%;" src="https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/news/多功能风屏障_6.webp" alt=""/>
+<img class="center-block" style="margin:auto; width:70%;" src="/lab_images/news/多功能风屏障_6.webp" alt=""/>
 <b>图6. TENG风屏障作为电源和传感器的演示</b> -（a-c）TENG风屏障点亮家用照明LED的照片，驱动“CAUTION”形状LED灯和温湿度传感器的照片（d）TENG传感器和商用传感器进行实时风速测量的照片（e）TENG传感器与商用风速传感器的比较
 </p>
 

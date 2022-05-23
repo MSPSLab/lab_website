@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Observer-based Event-triggered Circle Formation Control for Multi-agent Systems with Directed Topologies
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Observer-based-Event-triggered-Circle-Formation-Control.png"
+image: "/lab_images/papers/Observer-based-Event-triggered-Circle-Formation-Control.png"
 authors: Peng Xu; Guangming Xie; Jin Tao; Minyi Xu
 year: 2019
 ref: Peng Xu. et al. 2019. ICICIP.

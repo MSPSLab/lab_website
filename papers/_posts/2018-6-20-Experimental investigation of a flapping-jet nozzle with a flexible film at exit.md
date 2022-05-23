@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Experimental investigation of a flapping-jet nozzle with a flexible film at exit
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Experimental-investigation.png"
+image: "/lab_images/papers/Experimental-investigation.png"
 authors: Wu M, Xu M, Mi J
 year: 2018
 ref: Wu M. et al. 2018. AFMC.

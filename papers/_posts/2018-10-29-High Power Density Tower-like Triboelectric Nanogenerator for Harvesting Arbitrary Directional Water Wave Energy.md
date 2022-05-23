@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: High Power Density Tower-like Triboelectric Nanogenerator for Harvesting Arbitrary Directional Water Wave Energy
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/High-Power-Density-Tower-like.png"
+image: "/lab_images/papers/High-Power-Density-Tower-like.png"
 authors: Minyi Xu, Tiancong Zhao, Chuan Wang, Steven L. Zhang, Zhou Li, Xinxiang Pan, and Zhong Lin Wang*
 year: 2019
 ref: Minyi Xu. et al. 2019. ACS Nano.

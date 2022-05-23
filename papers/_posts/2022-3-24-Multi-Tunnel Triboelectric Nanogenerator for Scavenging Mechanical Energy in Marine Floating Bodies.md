@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Multi-Tunnel Triboelectric Nanogenerator for Scavenging Mechanical Energy in Marine Floating Bodies
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/MT-TENG.png"
+image: "/lab_images/papers/MT-TENG.png"
 authors: Ziyi Zhang, Zhiyuan Hu, Yan Wang, Yawei Wang, Qiqi Zhang, Dehua Liu, Hao Wang, and Minyi Xu
 year: 2022
 ref: "Ziyi Zhang. et al. 2022. Journal of Marine Science and Engineering"

@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: A Hierarchically Nanostructured Cellulose Fiber-Based Triboelectric Nanogenerator for Self-Powered Healthcare Products
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/A-Hierarchically-Nanostructured.png"
+image: "/lab_images/papers/A-Hierarchically-Nanostructured.png"
 authors: Xu He, Haiyang Zou, Zhishuai Geng, Xingfu Wang, Wenbo Ding, Fei Hu, Yunlong Zi, Cheng Xu, Steven L. Zhang, Hua Yu, Minyi Xu, Wei Zhang, Canhui Lu, Zhong Lin Wang
 year: 2018
 ref: Xu He. et al. 2018. Adv. Funct. Mater.

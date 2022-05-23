@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Reynolds number influence on statistical behaviors of turbulence in a circular free jet
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Reynolds-number-influence.png"
+image: "/lab_images/papers/Reynolds-number-influence.png"
 authors: Mi Jianchun*; Xu Minyi; Zhou Tongming
 year: 2013
 ref: Mi Jianchun. et al. 2013. Phys. Fluids.

@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: A bio-inspired and self-powered triboelectric tactile sensor for underwater vehicle perception
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/TPTS.png"
+image: "/lab_images/papers/TPTS.png"
 authors: Peng Xu, Jianhua Liu, Xiangyu Liu, Xinyu Wang, Jiaxi Zheng, Siyuan Wang, Tianyu Chen, Hao Wang, Chuan Wang, Xianping Fu, Guangming Xie, Jin Tao, Minyi Xu
 year: 2022
 ref: Peng Xu. et al. 2022. npj Flex Electron.

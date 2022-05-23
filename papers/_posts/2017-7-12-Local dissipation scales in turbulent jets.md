@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Local dissipation scales in turbulent jets
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Local-dissipation-scales.png"
+image: "/lab_images/papers/Local-dissipation-scales.png"
 authors: Minyi Xu, Kin-Pang Cheong, Jianchun Mi, Andrew Pollard
 year: 2018
 ref: Minyi Xu. et al. 2018. Exp. Therm. Fluid Sci.

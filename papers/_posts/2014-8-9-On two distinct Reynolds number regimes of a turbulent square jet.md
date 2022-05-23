@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: On two distinct Reynolds number regimes of a turbulent square jet
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/On-two-distinct.png"
+image: "/lab_images/papers/On-two-distinct.png"
 authors: Minyi Xu, Jianpeng Zhang, Pengfei Li, Jianchun Mi
 year: 2015
 ref: Minyi Xu. et al. 2015. Theor. App. Mech. Lett.

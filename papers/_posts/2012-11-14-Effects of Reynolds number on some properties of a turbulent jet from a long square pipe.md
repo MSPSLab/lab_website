@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Effects of Reynolds number on some properties of a turbulent jet from a long square pipe
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Effects-of-Reynolds.png"
+image: "/lab_images/papers/Effects-of-Reynolds.png"
 authors: Xu Minyi; Pollard Andrew*; Mi Jianchun; Secretain, F.; Sadeghi, H.
 year: 2013
 ref: Xu Minyi. et al. 2013. Phys. Fluids.

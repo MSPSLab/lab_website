@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Observer-based event-triggered circle formation control for first- And second-order multiagent systems
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Observer-based-event-triggered.png"
+image: "/lab_images/papers/Observer-based-event-triggered.png"
 authors: Peng Xu, Guangming Xie, Jin Tao, Minyi Xu, Quan Zhou
 year: 2020
 ref: Peng Xu. et al. 2020. Complexity.

@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Thermal characteristics of the wake shear layers from a slightly heated circular cylinder
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Thermal-characteristics.png"
+image: "/lab_images/papers/Thermal-characteristics.png"
 authors: J. Mi, M. Xu, R. A. Antonia & J. J. Wang 
 year: 2011
 ref: J. Mi. et al. 2011. Exp Fluids.

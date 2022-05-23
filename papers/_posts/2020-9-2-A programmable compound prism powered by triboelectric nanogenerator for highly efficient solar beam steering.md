@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: A programmable compound prism powered by triboelectric nanogenerator for highly efficient solar beam steering
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/A-programmable-compound.png"
+image: "/lab_images/papers/A-programmable-compound.png"
 authors: Guijun Chen, Yutao Wang, Dongyue Jiang, Hongchen Wang, Kun Wang, Jie Tan, Mingyang Sun, Yongchen Song, Minyi Xu
 year: 2021
 ref: Guijun Chen. et al. 2021. Nano Energy.

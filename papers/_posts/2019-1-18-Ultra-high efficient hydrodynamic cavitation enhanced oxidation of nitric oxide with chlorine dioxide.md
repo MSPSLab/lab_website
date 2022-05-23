@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Ultra-high efficient hydrodynamic cavitation enhanced oxidation of nitric oxide with chlorine dioxide
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Ultra-high-efficient-hydrodynamic.png"
+image: "/lab_images/papers/Ultra-high-efficient-hydrodynamic.png"
 authors: Liguo Song, Jingang Yang, Shubo Yu, Minyi Xu, Yuanchuang Liang, Xinxiang Pan, Li Yao
 year: 2019
 ref: Liguo Song. et al. 2019. Chem. Eng. J.

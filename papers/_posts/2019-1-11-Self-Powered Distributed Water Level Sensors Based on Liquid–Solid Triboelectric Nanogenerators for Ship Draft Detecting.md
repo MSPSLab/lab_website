@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Self-Powered Distributed Water Level Sensors Based on Liquid–Solid Triboelectric Nanogenerators for Ship Draft Detecting
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/Self-Powered-Distributed.png"
+image: "/lab_images/papers/Self-Powered-Distributed.png"
 authors: Xiangqian Zhang, Min Yu, Ziran Ma, Han Ouyang, Yang Zou, Steven L. Zhang, Hukai Niu, Xinxiang Pan, Minyi Xu, Zhou Li, Zhong Lin Wang
 year: 2019
 ref: Xiangqian Zhang. et al. 2019. Adv. Funct. Mater.

@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: A bio-inspired whisker sensor based on triboelectric nanogenerators
-image: "https://cdn.jsdelivr.net/gh/MSPSLab/lab_images/papers/A-bio-inspired-whisker-sensor.png"
+image: "/lab_images/papers/A-bio-inspired-whisker-sensor.png"
 authors: Xinyu Wang; Peng Xu; Zhi Ma; Siyuan Wang; Guangming Xie; Minyi Xu
 year: 2020
 ref: Xinyu Wang. et al. 2020. YAC.
