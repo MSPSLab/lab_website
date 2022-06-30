@@ -6,7 +6,7 @@ authors: Taili Du,Fangyang Dong,Ruijiang Xu,Yongjiu Zou,Hao Wang,Xingjia Jiang,Z
 year: 2022
 ref: Taili Du. et al. 2022. Advanced Materials Technologies
 journal: "Advanced Materials Technologies. 2022"
-pdf: ""
+pdf: "/pdfs/AT-TENG.pdf"
 doi: 10.1002/admt.202200003
 type: journal
 ---
