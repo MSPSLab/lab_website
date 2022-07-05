@@ -1,8 +1,8 @@
 ---
 layout: member
-title: Yue Hang
+title: Yue Huang
 position: Master degree candidate
-handle:Hang
+handle: Huang
 email: 1336121625@qq.com
 twitter: 
 github: 
