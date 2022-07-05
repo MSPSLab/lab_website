@@ -12,6 +12,9 @@ image: /images/team/dongjiale.png
 cv: 
 ---
 
+- 现就职浙江港口集团
+
+
 > 研究领域:
 
 - TENG波浪能发电

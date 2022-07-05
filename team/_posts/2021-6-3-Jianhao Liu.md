@@ -12,6 +12,9 @@ image: /images/team/liujianhao.png
 cv: 
 ---
 
+- 现就职中远川崎
+
+
 - 中国仿真学会会员
 
 > 研究方向：
