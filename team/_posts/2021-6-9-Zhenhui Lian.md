@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Zhenhui Lian
-position: Master degree candidate
+position: Prior member
 handle: Lian
 email: 13622017522@163.com
 twitter: 

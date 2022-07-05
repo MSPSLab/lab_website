@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Tingyu Wang
-position: Bachelor degree candidate
+position: Prior member
 handle: Wang
 email: wangtingyu@binn.cas.cn
 twitter: 

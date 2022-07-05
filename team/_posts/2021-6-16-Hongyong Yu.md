@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Hongyong Yu
-position: Master degree candidate
+position: Ph.D. candidate
 handle: Yu
 email: 442798130@qq.com
 twitter: 

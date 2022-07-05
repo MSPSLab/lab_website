@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Qiqi Zhang
-position: Master degree candidate
+position: Prior member
 handle: Zhang
 email: zhangqiqi229@163.com
 twitter: 

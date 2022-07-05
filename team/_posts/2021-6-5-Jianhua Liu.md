@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Jianhua Liu
-position: Master degree candidate
+position: Prior member
 handle: Liu
 email: ykliujianhua@dlmu.edu.cn
 twitter: 

@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Ziyi Zhang
-position: Master degree candidate
+position: Prior member
 handle: Zhang
 email: 364447735@qq.com
 twitter: 

@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Zhiyuan Hu
-position: Master degree candidate
+position: Prior member
 handle: Hu
 email: zhiyuanhu@dlmu.edu.cn
 twitter: 

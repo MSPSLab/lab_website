@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Xinyu Wang
-position: Master degree candidate
+position: Prior member
 handle: Wang
 email: 
 twitter: 
