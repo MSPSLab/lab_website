@@ -1,8 +1,8 @@
 ---
 layout: member
-title: Yue Wang
+title: Yue Hang
 position: Master degree candidate
-handle: Wang
+handle:Hang
 email: 1336121625@qq.com
 twitter: 
 github: 
