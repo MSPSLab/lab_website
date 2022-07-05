@@ -16,7 +16,7 @@ cv:
 > EDUCATION:
 
 - 2011-2014: Vietnam Maritime University, Vietnam - M.Sc (Marine Engineering)
-- 2017- present: Marine Engineering, Dalian Maritime University, Dalian, China, PhD
+- 2017- 2022: Marine Engineering, Dalian Maritime University, Dalian, China, PhD
 
 > PUBLICATIONS:
 
@@ -49,3 +49,4 @@ cv:
 - 2005-present: Lecture, Marine engineering college, Vietnam Maritime University, Vietnam.
 - 2008-2011: Ship designer, Shinkuru shima Dock, Japan.
 
+- 2022-now VietNam Maritime University.
