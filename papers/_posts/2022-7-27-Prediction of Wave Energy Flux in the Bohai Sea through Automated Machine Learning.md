@@ -7,7 +7,7 @@ year: 2022
 ref: Hengyi Yang. et al. 2022. J. Mar. Sci. Eng.
 journal: "Journal of Marine Science and Engineering"
 pdf: "/pdfs/wef.pdf"
-doi: 
+doi: 10.3390/jmse10081025
 type: journal
 ---
 
