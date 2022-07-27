@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Hao Wang
-position: Lecturer
+position: Associate Professor
 handle: Wang
 email: hao8901@dlmu.edu.cn
 twitter: 
