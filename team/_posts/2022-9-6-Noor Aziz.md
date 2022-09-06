@@ -19,8 +19,8 @@ cv:
 
 > Working Experience
 
-- Aug 2014- present. Lecturer at Electrical Engineering Department.  Bahria University Islamabad, Pakistan.
-- March 2015- Aug 2020. Student Advisor. Bahria University Islamabad, Pakistan.
+- Aug 2014 - present. Lecturer at Electrical Engineering Department.  Bahria University Islamabad, Pakistan.
+- March 2015 - Aug 2020. Student Advisor. Bahria University Islamabad, Pakistan.
 
 > Research Achievements/publications
 
