@@ -3,7 +3,7 @@ layout: member
 title: Ziyi Zhang
 position: Prior member
 handle: Zhang
-email: 364447735@qq.com
+email: 
 twitter: 
 github: 
 scholar:
@@ -16,8 +16,7 @@ cv:
 
 - 2015.9-2019.6 大连海事大学 轮机工程 学士 
 - 2019.9-2022.6 大连海事大学 轮机工程 硕士 
-- 现就职船级社武汉分社
-
+- 现就职中国船级社
 
 >主要荣誉：
 
