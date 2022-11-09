@@ -7,7 +7,7 @@ email:
 github: 
 scholar: 
 orcid: 
-image: /images/team/xingfuzhen.png
+image: /images/team/fuzhen.png
 cv: 
 twitter: 
 ---
