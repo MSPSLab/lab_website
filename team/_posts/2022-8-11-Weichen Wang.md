@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Weichen Wang
-position: Prior member
+position: Bachelor degree candidate
 handle: Wang
 email: 1316180202@qq.com
 twitter: 
@@ -19,8 +19,8 @@ cv:
 
 > 科研经历/成果:
 
-1. Wang, H., Zhu, C., Wang, W., Xu, R., Chen, P., Du, T., Xue, T., Wang, Z., Xu, M. A Stackable Triboelectric Nanogenerator for Wave-Driven Marine Buoys. Nanomaterials 2022,12(4),594. (SCI/Q1)
-2. Xu, R., Wang, H., Xi, Z., Wang, W., Xu, M. Recent Progress on Wave Energy Marine Buoys. Journal of Marine Science and Engineering 2022, 10(5), 566. (SCI/Q1)
+1. Wang, H., Zhu, C., Wang, W., Xu, R., Chen, P., Du, T., Xue, T., Wang, Z., Xu, M. A Stackable Triboelectric Nanogenerator for Wave-Driven Marine Buoys. Nanomaterials 2022,12(4),594.
+2. Xu, R., Wang, H., Xi, Z., Wang, W., Xu, M. Recent Progress on Wave Energy Marine Buoys. Journal of Marine Science and Engineering 2022, 10(5), 566.
 3. 王昊，王伟琛，朱传庆，薛庭熙，徐瑞江，王雅巍，王晨杰，徐敏义 一种利用波浪能和太阳能发电的长续航自供能海洋浮标[中国发明] CN113844590A 
 4. 王昊，徐瑞江，王伟琛，关堂镇，薛庭熙，朱传庆，王雅巍，徐敏义 一种基于摩擦纳米发电机的波浪板形波浪能采集装置[中国发明] CN113676077A
 
