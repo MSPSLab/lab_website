@@ -12,4 +12,8 @@ image: /images/team/zhangxinyue.png
 cv: 
 ---
 
+> 教育经历
+
+- 大连海事大学（本科）2021级轮机工程专业（海上）
+
 - 研究方向：水下仿生机器人
