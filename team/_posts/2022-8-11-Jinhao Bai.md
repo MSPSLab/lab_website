@@ -3,7 +3,7 @@ layout: member
 title: Jinhao Bai
 position: Bachelor degree candidate
 handle: Bai
-email: bjh031124dlmu.edu.cn
+email: 
 twitter: 
 github: 
 scholar:
