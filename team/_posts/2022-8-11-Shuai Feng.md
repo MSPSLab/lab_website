@@ -8,7 +8,7 @@ twitter:
 github: 
 scholar:
 orcid: 
-image: /images/team/shuaifeng.png
+image: /images/team/fengshuai.png
 cv: 
 ---
 
