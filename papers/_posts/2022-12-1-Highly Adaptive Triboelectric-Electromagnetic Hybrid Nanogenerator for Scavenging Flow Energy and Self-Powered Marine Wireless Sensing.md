@@ -2,7 +2,7 @@
 layout: paper
 title: "Highly Adaptive Triboelectric-Electromagnetic Hybrid Nanogenerator for Scavenging Flow Energy and Self-Powered Marine Wireless Sensing"
 image: "/lab_images/papers/amt_w.png"
-authors: Yawei Wang,Zian Qian,Cong Zhao,Yan Wang,Kun Jiang,Junpeng Wang,Zhaochen Meng,Fangming Li,Chuanqing Zhu,Pengfei Chen,Hao Wang,Minyi Xu
+authors: Yawei Wang, Zian Qian, Cong Zhao, Yan Wang, Kun Jiang, Junpeng Wang, Zhaochen Meng, Fangming Li, Chuanqing Zhu, Pengfei Chen, Hao Wang, Minyi Xu
 year: 2022
 ref: Yawei Wang. et al. 2022. Advanced Materials Technologies.
 journal: "Advanced Materials Technologies"
