@@ -3,7 +3,7 @@ layout: paper
 title: "High performance additional mass enhanced film structure triboelectric nanogenerator for scavenging vibration energy in broadband frequency range"
 image: "/lab_images/papers/AMF-TENG.jpg"
 authors: Hongyong Yu, Ziyue Xi, Yiping Zhang, Ruijiang Xu, Cong Zhao, Yawei Wang, Xinyang Guo, Yue Huang, Jianchun Mi, Yejin Lin, Taili Du, Minyi Xu
-year: 2022
+year: 2023
 ref: Hongyong Yu. et al. 2023. Nano Energy.
 journal: "Nano Energy"
 pdf: "/pdfs/AMF-TENG.pdf"
