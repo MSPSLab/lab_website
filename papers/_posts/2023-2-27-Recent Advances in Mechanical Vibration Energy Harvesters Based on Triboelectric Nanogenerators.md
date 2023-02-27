@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Recent Advances in Mechanical Vibration Energy Harvesters Based on Triboelectric Nanogenerators"
-image: "/lab_images/papers/small_VEH.jpg"
+image: "/lab_images/papers/small_VEH.png"
 authors: Taili Du,  Fangyang Dong,  Ziyue Xi,  Meixian Zhu,  Yongjiu Zou,  Peiting Sun,  Minyi Xu
 year: 2023
 ref: Taili Du. et al. 2023. Small.
