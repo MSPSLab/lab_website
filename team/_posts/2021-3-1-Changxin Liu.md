@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Changxin Liu
-position: Lecturer
+position: Associate Professor
 handle: Liu
 email: liu_changxin@dlmu.edu.cn
 twitter: 
