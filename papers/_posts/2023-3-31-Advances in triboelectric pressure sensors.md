@@ -4,7 +4,7 @@ title: "Advances in triboelectric pressure sensors"
 image: "/lab_images/papers/ATPS.png"
 authors: Linan Guo, Guitao Wu, Qunyi Wang, Tong Li, Bohan Yao, Yongjiu Zou, Minyi Xu
 year: 2023
-ref: Linan Guo. et al. 2023. Sensors and Actuators A: Physical.
+ref: "Linan Guo. et al. 2023. Sensors and Actuators A: Physical."
 journal: "Sensors and Actuators A: Physical"
 pdf: "/pdfs/ATPS.pdf"
 doi: 10.1016/j.sna.2023.114331
