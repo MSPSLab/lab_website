@@ -41,16 +41,19 @@ cv:
 
 > 近3年主要学术论文
 
-1.	Du, T.; Dong, F.; Xi, Z.; Zhu, M.; Zou, Y. *; Sun, P. *; Xu, M. *; Recent Advances in Mechanical Vibration Energy Harvesters Based on Triboelectric Nanogenerators, Small, 2023 (accepted)
-2.	Du, T.; Dong, F.; Zhu, M.; Xi, Z.; Li, F.; Zou, Y. *; Sun, P. *; Xu, M. *; Self-Powered and Robust Marine Exhaust Gas Flow Sensor Based on Bearing Type Triboelectric Nanogenerator, Journal of Marine Science and Engineering, 2022, 10(10),1416.
-3.	Zou, Y.; Sun, M.; Xu W.; Zhao X.; Du, T.*; Sun, P. *; Xu, M*. Advances in Marine Self-powered Vibration Sensor Based on Triboelectric Nanogenerator, Journal of Marine Science and Engineering，2022, 10(10),1348.
-4.	Du, T.; Dong, F.  Xu, R.; Zou, Y.; Wang, H.; Jiang, X.; Xi, Z..; Yuan, H.; Zhang, Y. *; Sun, P*.; Xu, M. *, A Drill Pipe-Embedded Vibration Energy Harvester and Self-Powered Sensor Based on Annular Type Triboelectric Nanogenerator for Measurement while Drilling System. Advanced Materials Technologies, 9.
-5.	Du, T.; Ge, B.; Mtui, A.E.; Zhao, C.; Dong, F.; Zou, Y.; Wang, H.; Sun, P*.; Xu, M*. A Robust Silicone Rubber Strip-Based Triboelectric Nanogenerator for Vibration Energy Harvesting and Multi-Functional Self-Powered Sensing. Nanomaterials 2022, 12, 1248. 
-6.	Du, T.; Zuo, X.; Dong, F.; Li, S.; Mtui, A.E.; Zou, Y.; Zhang, P.; Zhao, J.; Zhang, Y.*; Sun, P.*; Xu, M.* A Self-Powered and Highly Accurate Vibration Sensor Based on Bouncing-Ball Triboelectric Nanogenerator for Intelligent Ship Machinery Monitoring. Micromachines 2021, 12, 218. 
-7.	Xin, Y.; Du, T.; Liu, C.; Hu, Z.; Sun, P.; Xu, M. A Ring-Type Triboelectric Nanogenerator for Rotational Mechanical Energy Harvesting and Self-Powered Rotational Speed Sensing. Micromachines 2022, 13, 556. 
-8.	Yu, H.; Du, T.; Zhao, H.; Zhang, Q.; Liu, L.; Mtui, A. E.; Huang, Y.; Xiao, X.; Xu, M. *; Ieee, Conical Helmholtz Resonator-Based Triboelectric Nanogenerator for Harvesting of Acoustic energy. In 2021 IEEE 16th International Conference on Nano/Micro Engineered and Molecular Systems (NEMS), 2021; pp 1676-1679.
-9.	邹永久; 杜太利; 姜兴家; 张跃文*; 基于AEC模型的船舶燃油供给系统状态评估,中国舰船研究, 2021, 16(1): 175-180.
-10.	高梓博; 杜太利*; 张勇; 黄连忠; 聚类算法在船舶能效数据挖掘中的应用, 武汉理工大学学报(交通科学与工程版), 2019, 43(2): 286-290.
+1.	**Du, T.;** Dong, F.; Xi, Z.; Zhu, M.; Zou, Y. *; Sun, P. *; Xu, M. *; Recent Advances in Mechanical Vibration Energy Harvesters Based on Triboelectric Nanogenerators, Small, 10.1002/smll.202300401, 27. 
+2.	**Du, T.;** Dong, F. Xu, R.; Zou, Y.; Wang, H.; Jiang, X.; Xi, Z..; Yuan, H.; Zhang, Y. ; Sun, P.; Xu, M. *, A Drill Pipe-Embedded Vibration Energy Harvester and Self-Powered Sensor Based on Annular Type Triboelectric Nanogenerator for Measurement while Drilling System. Advanced Materials Technologies, 9.
+3.	Yu, H.; Xi, Z.; Zhang, Y.; Xu, R.; Zhao, C.; Wang, Y.; Guo, X.; Huang, Y.; Mi, J. ;Lin, Y. ;**Du, T.\*;** Xu, M.* High performance additional mass enhanced film structure triboelectric nanogenerator for scavenging vibration energy in broadband frequency range. Nano Energy 2023, 107, 10.
+4.	**Du, T.;** Dong, F.; Zhu, M.; Xi, Z.; Li, F.; Zou, Y. *; Sun, P. *; Xu, M. *; Self-Powered and Robust Marine Exhaust Gas Flow Sensor Based on Bearing Type Triboelectric Nanogenerator, Journal of Marine Science and Engineering, 2022, 10(10),1416.
+5.	**Du, T.;** Ge, B.; Mtui, A.E.; Zhao, C.; Dong, F.; Zou, Y.; Wang, H.; Sun, P*.; Xu, M*. A Robust Silicone Rubber Strip-Based Triboelectric Nanogenerator for Vibration Energy Harvesting and Multi-Functional Self-Powered Sensing. Nanomaterials 2022, 12, 1248.
+6.	**Du, T.;** Zuo, X.; Dong, F.; Li, S.; Mtui, A.E.; Zou, Y.; Zhang, P.; Zhao, J.; Zhang, Y.; Sun, P.; Xu, M.* A Self-Powered and Highly Accurate Vibration Sensor Based on Bouncing-Ball Triboelectric Nanogenerator for Intelligent Ship Machinery Monitoring. Micromachines 2021, 12, 218.
+7.	Zou, Y.; Sun, M.; Xu W.; Zhao X.; **Du, T.*;** Sun, P. *; Xu, M. Advances in Marine Self-powered Vibration Sensor Based on Triboelectric Nanogenerator, Journal of Marine Science and Engineering，2022, 10(10),1348.
+8.	Xin, Y.; **Du, T.;** Liu, C.; Hu, Z.; Sun, P.; Xu, M. A Ring-Type Triboelectric Nanogenerator for Rotational Mechanical Energy Harvesting and Self-Powered Rotational Speed Sensing. Micromachines 2022, 13, 556.
+9.	Yu, H.; **Du, T.;** Zhao, H.; Zhang, Q.; Liu, L.; Mtui, A. E.; Huang, Y.; Xiao, X.; Xu, M.*; IEEE, Conical Helmholtz Resonator-Based Triboelectric Nanogenerator for Harvesting of Acoustic energy. In 2021 IEEE 16th International Conference on Nano/Micro Engineered and Molecular Systems (NEMS), 2021; pp 1676-1679.
+10.	Ma, Z.; **Du, T.;** Duan, S.; Qu, H.; Wang, K.; Xing, H. ;Zou, Y.; Sun, P*. Analysis of Exhaust Pollutants from Four-Stroke Marine Diesel Engines Based on Bench Tests. Journal of Marine Science and Engineering 2023, 11, 14.
+11.	邹永久; **杜太利;** 姜兴家; 张跃文*; 基于AEC模型的船舶燃油供给系统状态评估,中国舰船研究, 2021, 16(1): 175-180.
+12.	高梓博; **杜太利*;** 张勇; 黄连忠; 聚类算法在船舶能效数据挖掘中的应用, 武汉理工大学学报(交通科学与工程版), 2019, 43(2): 286-290.
+
 
 > 教学情况
 
