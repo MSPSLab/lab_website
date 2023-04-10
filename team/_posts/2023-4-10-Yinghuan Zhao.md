@@ -3,7 +3,7 @@ layout: member
 title: Yinghuan Zhao
 position: Master degree candidate
 handle: Zhao
-email: 
+email: zhaoyh0214@163.com
 twitter: 
 github: 
 scholar:
