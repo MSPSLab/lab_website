@@ -3,7 +3,7 @@ layout: member
 title: Linan Guo
 position: Master degree candidate
 handle: Guo
-email: gln18742523590@163
+email: gln18742523590@163.com
 twitter: 
 github: 
 scholar:
