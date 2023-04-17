@@ -5,7 +5,7 @@ image: "/lab_images/papers/LV-TENG.png"
 authors: Xiu Xiao, Qunyi Wang, Bohan Yao, Linan Guo, Chuanqing Zhu, Cong Zhao, Ling Liu and Minyi Xu
 year: 2023
 ref: "Xiu Xiao. et al. 2023. J. Mar. Sci. Eng."
-journal: "J. Mar. Sci. Eng."
+journal: "J. Mar. Sci. Eng"
 pdf: "/pdfs/LV-TENG.pdf"
 doi: 10.3390/jmse11040838
 type: journal
