@@ -6,7 +6,7 @@ authors: Fangming Li, Cuiwen Deng, Minzheng Sun, Xingfu Wan, Shuowen Sun, Weipen
 year: 2023
 ref: "Fangming Li. et al. 2023. Nano Energy"
 journal: "Nano Energy"
-pdf: "/pdfs/NAI.pdf"
+pdf: "/pdfs/NAI2.pdf"
 doi: 10.1016/j.nanoen.2023.108459
 type: journal
 ---
