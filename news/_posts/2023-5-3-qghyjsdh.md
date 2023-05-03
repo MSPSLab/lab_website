@@ -21,8 +21,7 @@ url_author:
 > 分会场特邀报告目录
 
 <p style="text-align:center;" >
-<img class="center-block" style="margin:auto; width:30%;" src="/lab_images/news/qghyjsdh_x.png
-" alt=""/>
+<img class="center-block" style="margin:auto; width:30%;" src="/lab_images/news/qghyjsdh_x.png" alt=""/>
 <b>
 </b>
 </p>
