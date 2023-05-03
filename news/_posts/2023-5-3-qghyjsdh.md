@@ -38,7 +38,7 @@ url_author:
 - 报告题目：基于摩擦纳米发电机的水下能量捕获技术研究
 
 <p style="text-align:center;" >
-<img class="center-block" style="margin:auto; width:70%;" src="/lab_images/news/qghyjsdh.jpeg" alt=""/>
+<img class="center-block" style="margin:auto; width:30%;" src="/lab_images/news/qghyjsdh.jpeg" alt=""/>
 <b>
 </b>
 </p>
