@@ -2,7 +2,7 @@
 layout: paper
 title: "Handbook of Triboelectric Nanogenerators"
 image: "/lab_images/papers/HTN.png"
-authors: Living reference work
+authors: "Editors: Zhong Lin Wang, Ya Yang, Junyi Zhai, Jie Wang. Living reference work"
 year: 2023
 ref: Up-to-date research in the field of triboelectric nanogenerators including fundamentals and cutting-edge applications. Presents applications in the areas of energy harvesting, wearable health sensors, and the Internet of Things. Indispensable source for applied physicists, chemists, materials scientists, electrical and mechanical engineers
 journal: "Springer"
