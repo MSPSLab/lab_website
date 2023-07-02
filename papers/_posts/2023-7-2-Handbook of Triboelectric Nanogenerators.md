@@ -1,4 +1,4 @@
-–---
+---
 layout: paper
 title: "Handbook of Triboelectric Nanogenerators"
 image: "/lab_images/papers/HTN.png"
