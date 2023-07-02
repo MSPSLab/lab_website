@@ -4,11 +4,10 @@ title: "Handbook of Triboelectric Nanogenerators"
 image: "/lab_images/papers/HTN.png"
 authors: Living reference work
 year: 2023
-ref: "Living reference work. 2023. Springer"
+ref: Up-to-date research in the field of triboelectric nanogenerators including fundamentals and cutting-edge applications. Presents applications in the areas of energy harvesting, wearable health sensors, and the Internet of Things. Indispensable source for applied physicists, chemists, materials scientists, electrical and mechanical engineers
 journal: "Springer"
-pdf: "/pdfs/NAI2.pdf"
-doi: 10.1007/978-3-031-05722-9
 type: book
+ISBN: 
 bookurl: https://link.springer.com/referencework/10.1007/978-3-031-05722-9
 ---
 
