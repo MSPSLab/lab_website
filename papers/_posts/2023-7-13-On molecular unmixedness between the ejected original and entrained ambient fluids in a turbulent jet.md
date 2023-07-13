@@ -13,4 +13,4 @@ type: journal
 
 # Abstract
 
-<img src="/lab_images/blogs/pof_abstract.png" style="margin: 0 auto;width: 800px;margin-bottom: 30px;">
+<img src="/lab_images/papers/pof_abstract.png" style="margin: 0 auto;width: 800px;margin-bottom: 30px;">
