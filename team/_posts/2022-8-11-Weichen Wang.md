@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Weichen Wang
-position: Bachelor degree candidate
+position: Prior member
 handle: Wang
 email: 1316180202@qq.com
 twitter: 

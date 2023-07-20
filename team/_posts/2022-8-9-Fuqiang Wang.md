@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Fuqiang Wang
-position: Bachelor degree candidate
+position: Prior member
 handle: Wang
 email: 2875991985@qq.com
 twitter: 

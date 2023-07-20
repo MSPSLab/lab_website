@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Tangzhen Guan
-position: Bachelor degree candidate
+position: Prior member
 handle: Guan
 email: 
 twitter: 

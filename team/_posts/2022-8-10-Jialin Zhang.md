@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Jialin Zhang
-position: Bachelor degree candidate
+position: Prior member
 handle: Zhang
 email: ：13390012160@163.com
 twitter: 
