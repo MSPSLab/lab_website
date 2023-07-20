@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Guanghao Qu
-position: Master degree candidate
+position: Prior member
 handle: Qu
 email: Quguanghao@126.com
 twitter: 

@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Shuowen Sun
-position: Master degree candidate
+position: Prior member
 handle: Sun
 email: 1350956462@qq.com
 twitter: 

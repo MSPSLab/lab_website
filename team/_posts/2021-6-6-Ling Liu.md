@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Ling Liu
-position: Master degree candidate
+position: Prior member
 handle: Liu
 email: 
 twitter: 

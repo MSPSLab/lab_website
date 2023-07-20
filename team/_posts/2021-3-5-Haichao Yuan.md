@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Haichao Yuan
-position: Lecturer 
+position: Associate Professor 
 handle: Yuan
 email: yuanhc@dlmu.edu.cn
 twitter: 

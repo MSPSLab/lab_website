@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Baichuan Shan
-position: Master degree candidate
+position: Prior member
 handle: Shan
 email: shan_baichuan@163.com
 twitter: 

@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Yawei Wang
-position: Master degree candidate
+position: Prior member
 handle: Wang
 email: wangyawei@dlmu.edu.cn
 twitter: 

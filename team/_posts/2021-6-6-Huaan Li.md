@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Huaan Li
-position: Master degree candidate
+position: Prior member
 handle: Li
 email: HuaanLiDayayUp@163.com
 twitter: 

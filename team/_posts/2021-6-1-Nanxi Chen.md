@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Nanxi Chen
-position: Master degree candidate
+position: Prior member
 handle: Chen
 email: 94502470@qq.com
 twitter: 

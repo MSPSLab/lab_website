@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Kaiyuan Zhao
-position: Master degree candidate
+position: Prior member
 handle: Zhao
 email: zky666@dlmu.edu.cn
 twitter: 

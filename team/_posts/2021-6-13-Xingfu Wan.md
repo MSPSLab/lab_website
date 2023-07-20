@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Xingfu Wan
-position: Master degree candidate
+position: Ph.D. candidate
 handle: Wan
 email: wanxingfu97@qq.com
 twitter: 

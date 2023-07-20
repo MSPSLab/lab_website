@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Yuhang Fan
-position: Master degree candidate
+position: Prior member
 handle: Fan
 email: 591480515@qq.com
 twitter: 

@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Yongjiu Zou
-position: Lecturer
+position: Associate Professor
 handle: Zou
 email: 
 twitter: 

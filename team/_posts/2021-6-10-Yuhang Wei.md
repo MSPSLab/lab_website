@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Yuhang Wei
-position: Master degree candidate
+position: Prior member
 handle: Wei
 email: wyh2327194963@163.com
 twitter: 
