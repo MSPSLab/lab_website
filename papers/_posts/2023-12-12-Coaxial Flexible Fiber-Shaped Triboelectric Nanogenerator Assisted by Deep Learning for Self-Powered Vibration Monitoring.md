@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Coaxial Flexible Fiber-Shaped Triboelectric Nanogenerator Assisted by Deep Learning for Self-Powered Vibration Monitoring"
-image: "/lab_images/papers/fteng.jpg"
+image: "/lab_images/papers/fteng.png"
 authors: Cong Zhao, Taili Du, Bin Ge, Ziyue Xi, Zian Qian, Yawei Wang, Junpeng Wang, Fangyang Dong, Dianlong Shen, Zhenhao Zhan, Minyi Xu
 year: 2023
 ref: "Cong Zhao. et al. 2023. Small"
