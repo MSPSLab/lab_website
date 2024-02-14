@@ -5,7 +5,7 @@ gem "kramdown-parser-gfm", "~> 1.1"
 gem 'therubyracer'
 
 # jekyll
-gem "jekyll"
+gem "jekyll", "~> 3.9"
 #gem "jekyll", github: "jekyll/jekyll"
 gem "redcarpet"
 #gem "jekyll-last-modified-at", group: :jekyll_plugins
