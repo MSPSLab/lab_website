@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'therubyracer'
+gem 'mini_racer', require: 'mini_racer'
 gem "kramdown-parser-gfm", "~> 1.1"
 
 # jekyll
