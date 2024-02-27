@@ -43,7 +43,7 @@ cv:
 > 近5年主要学术论文
 
 1.	**Du, T.**; Chen, Z.; Dong, F.; Cai, H.; Zou, Y. *; Zhang, Y.; Sun, P.; Xu, M. * Advances in Green Triboelectric Nanogenerators. Advanced Functional Materials 2024, 10.1002/adfm.202313794
-2.	Guo, L.; Liu, J.; Wu, G.; Xu, P.; Wang S.; Liu, B.; Li, Y.; Guan, T.; Wang H.; Si, J. *; **Du, T. \***; Xu, M. *; Piezoelectric wavy whisker sensor for perceiving underwater vortex from a bluff body. Sensors and Actuators A-Physical 2024, 365, 114875.
+2.	Guo, L.; Liu, J.; Wu, G.; Xu, P.; Wang S.; Liu, B.; Li, Y.; Guan, T.; Wang H.; Si, J. *; __Du, T. *__; Xu, M. *; Piezoelectric wavy whisker sensor for perceiving underwater vortex from a bluff body. Sensors and Actuators A-Physical 2024, 365, 114875.
 3.	Dong, F.; Yang, H.; Du, H.; Zhu, M.; Xi, Z.; Wang, Y.; **Du, T. \***; Xu, M. * Triboelectric nanogenerator-embedded intelligent bearing with rolling ball defect diagnosis via signal decomposition and automated machine learning. Nano Energy 2024, 119, 109072.
 4.	Zhao, C.; **Du, T. \***; Ge, B.; Xi, Z.; Qian, Z.; Wang, Y.; Wang, J.; Dong, F.; Shen, D.; Zhan, Z.; Xu, M. * Coaxial Flexible Fiber-Shaped Triboelectric Nanogenerator Assisted by Deep Learning for Self-Powered Vibration Monitoring. Small, 2307680.
 5.	Huang, Y.; **Du, T. \***; Xiang, C.; Zhang, Y.; Si, J.; Yu, H.; Yuan, H.; Sun, P. *; Xu, M. * Research Progress of Acoustic Energy Harvesters Based on Nanogenerators. International Journal of Energy Research 2023, 5568046
