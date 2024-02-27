@@ -43,22 +43,22 @@ cv:
 > 近5年主要学术论文
 
 1.	**Du, T.**; Chen, Z.; Dong, F.; Cai, H.; Zou, Y. *; Zhang, Y.; Sun, P.; Xu, M. * Advances in Green Triboelectric Nanogenerators. Advanced Functional Materials 2024, 10.1002/adfm.202313794
-2.	Guo, L.; Liu, J.; Wu, G.; Xu, P.; Wang S.; Liu, B.; Li, Y.; Guan, T.; Wang H.; Si, J. *; **Du, T. ***; Xu, M. *; Piezoelectric wavy whisker sensor for perceiving underwater vortex from a bluff body. Sensors and Actuators A-Physical 2024, 365, 114875.
-3.	Dong, F.; Yang, H.; Du, H.; Zhu, M.; Xi, Z.; Wang, Y.; **Du, T. ***; Xu, M. * Triboelectric nanogenerator-embedded intelligent bearing with rolling ball defect diagnosis via signal decomposition and automated machine learning. Nano Energy 2024, 119, 109072.
-4.	Zhao, C.; **Du, T. ***; Ge, B.; Xi, Z.; Qian, Z.; Wang, Y.; Wang, J.; Dong, F.; Shen, D.; Zhan, Z.; Xu, M. * Coaxial Flexible Fiber-Shaped Triboelectric Nanogenerator Assisted by Deep Learning for Self-Powered Vibration Monitoring. Small, 2307680.
-5.	Huang, Y.; **Du, T. ***; Xiang, C.; Zhang, Y.; Si, J.; Yu, H.; Yuan, H.; Sun, P. *; Xu, M. * Research Progress of Acoustic Energy Harvesters Based on Nanogenerators. International Journal of Energy Research 2023, 5568046
-6.	Xin, Y.; **Du, T. ***; Liu, T.; Sun, P.; Zhu, M.; Zheng, L.; Du, H.; Zou, Y.; Xu, M. * Triboelectric nanogenerator embedded cylindrical roller bearing for rotational energy harvesting and self-powered fault diagnosis. Sensors and Actuators A: Physical 2023, 362, 114664.
-7.	Liu, B.; **Du, T. ***; Xu, X.; Liu, J.; Zhu, P.; Guo, L.; Li, Y.; Wang, T.; Zou, Y.; Wang, H.; Xu, P. *; Sun, P.; Xu, M. *An Underwater Triboelectric Biomechanical Energy Harvester to Power the Electronic Tag of Marine Life. J. Mar. Sci. Eng. 2023, 11, 1766.
-8.	Y. Zou, J. Wang, Z. Hu, M. Sun, J. Liu, **T. Du***, P. Sun*, M. Xu*, Advances in Triboelectric Flow Sensor. Adv. Mater. Technol. 2023, 8, 2300316
+2.	Guo, L.; Liu, J.; Wu, G.; Xu, P.; Wang S.; Liu, B.; Li, Y.; Guan, T.; Wang H.; Si, J. *; **Du, T. \***; Xu, M. *; Piezoelectric wavy whisker sensor for perceiving underwater vortex from a bluff body. Sensors and Actuators A-Physical 2024, 365, 114875.
+3.	Dong, F.; Yang, H.; Du, H.; Zhu, M.; Xi, Z.; Wang, Y.; **Du, T. \***; Xu, M. * Triboelectric nanogenerator-embedded intelligent bearing with rolling ball defect diagnosis via signal decomposition and automated machine learning. Nano Energy 2024, 119, 109072.
+4.	Zhao, C.; **Du, T. \***; Ge, B.; Xi, Z.; Qian, Z.; Wang, Y.; Wang, J.; Dong, F.; Shen, D.; Zhan, Z.; Xu, M. * Coaxial Flexible Fiber-Shaped Triboelectric Nanogenerator Assisted by Deep Learning for Self-Powered Vibration Monitoring. Small, 2307680.
+5.	Huang, Y.; **Du, T. \***; Xiang, C.; Zhang, Y.; Si, J.; Yu, H.; Yuan, H.; Sun, P. *; Xu, M. * Research Progress of Acoustic Energy Harvesters Based on Nanogenerators. International Journal of Energy Research 2023, 5568046
+6.	Xin, Y.; **Du, T.\***; Liu, T.; Sun, P.; Zhu, M.; Zheng, L.; Du, H.; Zou, Y.; Xu, M. * Triboelectric nanogenerator embedded cylindrical roller bearing for rotational energy harvesting and self-powered fault diagnosis. Sensors and Actuators A: Physical 2023, 362, 114664.
+7.	Liu, B.; **Du, T. \***; Xu, X.; Liu, J.; Zhu, P.; Guo, L.; Li, Y.; Wang, T.; Zou, Y.; Wang, H.; Xu, P. *; Sun, P.; Xu, M. *An Underwater Triboelectric Biomechanical Energy Harvester to Power the Electronic Tag of Marine Life. J. Mar. Sci. Eng. 2023, 11, 1766.
+8.	Y. Zou, J. Wang, Z. Hu, M. Sun, J. Liu, **T. Du\***, P. Sun*, M. Xu*, Advances in Triboelectric Flow Sensor. Adv. Mater. Technol. 2023, 8, 2300316
 9.	**Du, T**.; Dong, F.; Xi, Z.; Zhu, M.; Zou, Y. *; Sun, P. *; Xu, M. *; Recent Advances in Mechanical Vibration Energy Harvesters Based on Triboelectric Nanogenerators, Small, 2023, 19, 2300401. 
 10.	**Du, T**.; Dong, F. Xu, R.; Zou, Y.; Wang, H.; Jiang, X.; Xi, Z..; Yuan, H.; Zhang, Y. ; Sun, P.; Xu, M. *, A Drill Pipe-Embedded Vibration Energy Harvester and Self-Powered Sensor Based on Annular Type Triboelectric Nanogenerator for Measurement while Drilling System. Advanced Materials Technologies, 9.
-11.	Yu, H.; Xi, Z.; Zhang, Y.; Xu, R.; Zhao, C.; Wang, Y.; Guo, X.; Huang, Y.; Mi, J. ;Lin, Y. ;**Du, T.***; Xu, M.* High performance additional mass enhanced film structure triboelectric nanogenerator for scavenging vibration energy in broadband frequency range. Nano Energy 2023, 107, 10.
+11.	Yu, H.; Xi, Z.; Zhang, Y.; Xu, R.; Zhao, C.; Wang, Y.; Guo, X.; Huang, Y.; Mi, J. ;Lin, Y. ;**Du, T.\***; Xu, M.* High performance additional mass enhanced film structure triboelectric nanogenerator for scavenging vibration energy in broadband frequency range. Nano Energy 2023, 107, 10.
 12.	**Du, T.**; Dong, F.; Zhu, M.; Xi, Z.; Li, F.; Zou, Y. *; Sun, P. *; Xu, M. *; Self-Powered and Robust Marine Exhaust Gas Flow Sensor Based on Bearing Type Triboelectric Nanogenerator, Journal of Marine Science and Engineering, 2022, 10(10),1416.
 13.	**Du, T.**; Ge, B.; Mtui, A.E.; Zhao, C.; Dong, F.; Zou, Y.; Wang, H.; Sun, P*.; Xu, M*. A Robust Silicone Rubber Strip-Based Triboelectric Nanogenerator for Vibration Energy Harvesting and Multi-Functional Self-Powered Sensing. Nanomaterials 2022, 12, 1248.
 14.	**Du, T.**; Zuo, X.; Dong, F.; Li, S.; Mtui, A.E.; Zou, Y.; Zhang, P.; Zhao, J.; Zhang, Y.; Sun, P.; Xu, M.* A Self-Powered and Highly Accurate Vibration Sensor Based on Bouncing-Ball Triboelectric Nanogenerator for Intelligent Ship Machinery Monitoring. Micromachines 2021, 12, 218.
-15.	Zou, Y.; Sun, M.; Xu W.; Zhao X.; **Du, T.***; Sun, P. *; Xu, M. Advances in Marine Self-powered Vibration Sensor Based on Triboelectric Nanogenerator, Journal of Marine Science and Engineering，2022, 10(10),1348.
+15.	Zou, Y.; Sun, M.; Xu W.; Zhao X.; **Du, T.\***; Sun, P. *; Xu, M. Advances in Marine Self-powered Vibration Sensor Based on Triboelectric Nanogenerator, Journal of Marine Science and Engineering，2022, 10(10),1348.
 16.	邹永久; **杜太利**; 姜兴家; 张跃文*; 基于AEC模型的船舶燃油供给系统状态评估,中国舰船研究, 2021, 16(1): 175-180.
-17.	高梓博; **杜太利***; 张勇; 黄连忠; 聚类算法在船舶能效数据挖掘中的应用, 武汉理工大学学报(交通科学与工程版), 2019, 43(2): 286-290.
+17.	高梓博; **杜太利\***; 张勇; 黄连忠; 聚类算法在船舶能效数据挖掘中的应用, 武汉理工大学学报(交通科学与工程版), 2019, 43(2): 286-290.
 
 > 学术兼职
 
