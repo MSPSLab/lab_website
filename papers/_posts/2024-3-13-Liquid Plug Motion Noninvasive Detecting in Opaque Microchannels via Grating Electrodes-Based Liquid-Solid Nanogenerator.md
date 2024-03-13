@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Liquid Plug Motion Noninvasive Detecting in Opaque Microchannels via Grating Electrodes-Based Liquid-Solid Nanogenerator"
-image: "/lab_images/papers/amt_d.jpeg"
+image: "/lab_images/papers/amt_d.jpg"
 authors: Nannan Zhao, Hengxu Du, Meng Zou, Ziyue Xi, Hengyi Yang, Bowen Dong, Yawei Wang, Hongyong Yu, Ruijiang Xu, Fangyang Dong, Huiwen Wang, Minyi Xu
 year: 2024
 ref: "Nannan Zhao. et al. 2024. Advanced Materials Technologies"
