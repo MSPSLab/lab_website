@@ -7,7 +7,7 @@ year: 2024
 ref: "Hongfa Zhao. et al. 2024. Energy & Environmental Science"
 journal: "Energy & Environmental Science "
 pdf: "/pdfs/ees.pdf"
-doi: doi.org/10.1039/D3EE04143C
+doi: 10.1039/D3EE04143C
 type: journal
 ---
 
