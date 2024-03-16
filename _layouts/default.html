@@ -9,6 +9,35 @@
 	<link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
 	<!-- Customized Bootstrap + Font Awesome + Solarized -->
 	<link href="/css/style.css" rel="stylesheet" media="screen">
+	<script>
+	document.addEventListener("DOMContentLoaded", function () {
+		const uvE = document.getElementById('busuanzi_value_site_uv');
+		const pvE = document.getElementById('busuanzi_value_site_pv');
+		const uvObs = new MutationObserver((mutationsList) => {
+			for (let mutation of mutationsList) {
+				if (mutation.type === 'childList') {
+					uvObs.disconnect();
+					mutation.target.innerHTML = parseInt(mutation.target.innerHTML) + 0;
+					break;
+				}
+			}
+		});
+		const pvObs = new MutationObserver((mutationsList) => {
+			for (let mutation of mutationsList) {
+				if (mutation.type === 'childList') {
+					pvObs.disconnect();
+					mutation.target.innerHTML = parseInt(mutation.target.innerHTML) + 65000;
+					break;
+				}
+			}
+		});
+		const config = {
+			childList: true
+		};
+		uvObs.observe(uvE, config);
+		pvObs.observe(pvE, config);
+	});
+	</script>
 
 	{% include favicons.html %}
 	{% include scripts.html %}
