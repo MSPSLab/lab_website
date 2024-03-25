@@ -6,7 +6,7 @@ authors: Yongjiu Zou, Minzheng Sun, Xinyu Zhang, Junpeng Wang, Fangming Li, Fang
 year: 2024
 ref: "Yongjiu Zou. et al. 2024. Small"
 journal: "Small "
-pdf: "/pdfs/ees.pdf"
+pdf: "/pdfs/small_3.pdf"
 doi: 10.1002/smll.202309759
 type: journal
 ---
