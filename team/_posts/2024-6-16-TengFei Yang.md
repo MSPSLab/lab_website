@@ -3,7 +3,7 @@ layout: member
 title: TengFei Yang
 position: Master degree candidate
 handle: Yang
-email: "2996712644qq.com"
+email: 2996712644@qq.com
 twitter: 
 github: 
 scholar:
