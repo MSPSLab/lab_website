@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Xinyang Guo
-position: Master degree candidate
+position: Prior member
 handle: Guo
 email: 2928368480@qq.com
 twitter: 

@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Yiping Zhang
-position: Master degree candidate
+position: Prior member
 handle: Zhang
 email: 67221686@qq.com
 twitter: 

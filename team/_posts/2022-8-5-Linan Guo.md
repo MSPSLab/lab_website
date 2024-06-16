@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Linan Guo
-position: Master degree candidate
+position: Prior member
 handle: Guo
 email: gln18742523590@163.com
 twitter: 

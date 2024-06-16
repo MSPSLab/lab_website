@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Siyuan Wang
-position: Ph.D. candidate
+position: Prior member
 handle: Wang
 email: 
 twitter: 

@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Minzheng Sun
-position: Master degree candidate
+position: Prior member
 handle: Sun
 email: 3034304299@qq.com
 twitter: 

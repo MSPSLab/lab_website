@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Ruijiang Xu
-position: Master degree candidate
+position: Prior member
 handle: Xu
 email: 1352459157@qq.com
 twitter: 

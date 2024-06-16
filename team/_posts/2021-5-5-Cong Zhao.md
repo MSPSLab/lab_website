@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Cong Zhao
-position: Ph.D. candidate
+position: Prior member
 handle: Zhao
 email: zhaocong951101@163.com
 twitter: 
