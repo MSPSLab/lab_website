@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Taili Du
-position: Associate Professor
+position: Professor
 handle: Du
 email: dutaili@dlmu.edu.cn
 twitter: 
@@ -14,55 +14,56 @@ cv:
 
 > 工作经历
 
-- 2010年7月—2013年7月 大连海事大学轮机工程学院 助教
+- 2010年7月—2024年7月		大连海事大学轮机工程学院 助教、讲师、副教授
+- 2024年7月—至今			大连海事大学轮机工程学院 教授
+- 2012年10月—2017年12月	参加教学实习船“育鹏”轮建造和运行工作
 
-- 2013年7月—2019年7月 大连海事大学轮机工程学院 讲师
-
-- 2012年10月—2017年12月 参加教学实习船“育鹏”轮建造和运行工作
-
-- 2019年7月—至今 大连海事大学轮机工程学院 副教授
 
 > 研究方向
 
 - 振动能摩擦纳米发电-摩擦伏特效应耦合的能量捕获机理研究；
 - 融合AI技术与摩擦纳米发电信号的自驱动感知机理研究；
-- 智能船舶运维技术、智能机舱相关研究
+- 基于多模态感知的智能船舶运维技术、智能机舱相关研究
 
 
 > 在研项目
 
 1.	国家自然科学基金项目 船机振动能摩擦纳米发电机能量转换机理研究（主持）2022.01-2024.12
-2.	国家重点研发计划项目“低频水波能收集的基础与应用研究”（专题4 发电网络构建及海洋动力环境系统测试）（参与） 2022.01-2026.12 
-3.	辽宁省教育厅科研项目（重点项目） 智能船舶机械设备感知节点原位供能关键技术研究（主持） 2021.12-2023.12
-4.	中央高校基本科研业务费项目 基于柔性摩擦纳米发电机的船舶机械振动能高效收集机理研究（主持）2022.01-2022.12
-5.	横向项目 船舶智能机舱系统研制开发（主持）2018.08-
-6.	国家自然科学基金项目 基于摩擦纳米发电的水下涡流自驱动感知机理研究（参与）2024.01-2027.12
-7.	工信部项目 智能船舶国际海事公约规则适用性及标准需求分析研究（参与）2018.01-2020.12
+2.	国家重点研发计划项目（专题4 发电网络构建及海洋动力环境系统测试）子课题“水波能纳米发电装置发电效能及生存能力测试研究”（主持）
+3.	国家重点研发计划项目“低频水波能收集的基础与应用研究”（参与） 2022.01-2026.12
+4.	中国博士后科学基金第75批面上资助项目（主持） 2024.07-2026.07
+5.	辽宁省教育厅科研项目（重点项目） 智能船舶机械设备感知节点原位供能关键技术研究（主持） 2021.12-2023.12
+6.	水路交通环境保护技术交通行业重点实验室开放课题 基于多模态融合数据的港口清洁能源作业机械智能故障诊断与定位技术研究 2024.07-2025.07
+7.	中央高校基本科研业务费项目 基于柔性摩擦纳米发电机的船舶机械振动能高效收集机理研究（主持）2022.01-2022.12
+8.	海底工程技术与装备国际联合研究中心开放课题 基于摩擦纳米发电的水下涡流自驱动感知机理研究（主持）2023.01-2023.12
+9.	中央高校基本科研业务费项目 基于摩擦伏特效应的船机振动能量俘获机理研究（主持）2024.01-2024.12
+10.	横向项目 船舶智能机舱系统研制开发（主持）2018.08-
+11.	国家自然科学基金项目 基于摩擦纳米发电的水下涡流自驱动感知机理研究（参与）2024.01-2027.12
+12.	工信部项目 智能船舶国际海事公约规则适用性及标准需求分析研究（参与）2018.01-2020.12
 
 
-> 近5年主要学术论文
 
-1.	**Du, T.**; Chen, Z.; Dong, F.; Cai, H.; Zou, Y. *; Zhang, Y.; Sun, P.; Xu, M. * Advances in Green Triboelectric Nanogenerators. Advanced Functional Materials 2024, 10.1002/adfm.202313794
-2.	Guo, L.; Liu, J.; Wu, G.; Xu, P.; Wang S.; Liu, B.; Li, Y.; Guan, T.; Wang H.; Si, J. *; __Du, T. *__; Xu, M. *; Piezoelectric wavy whisker sensor for perceiving underwater vortex from a bluff body. Sensors and Actuators A-Physical 2024, 365, 114875.
-3.	Dong, F.; Yang, H.; Du, H.; Zhu, M.; Xi, Z.; Wang, Y.; **Du, T. \***; Xu, M. * Triboelectric nanogenerator-embedded intelligent bearing with rolling ball defect diagnosis via signal decomposition and automated machine learning. Nano Energy 2024, 119, 109072.
-4.	Zhao, C.; **Du, T. \***; Ge, B.; Xi, Z.; Qian, Z.; Wang, Y.; Wang, J.; Dong, F.; Shen, D.; Zhan, Z.; Xu, M. * Coaxial Flexible Fiber-Shaped Triboelectric Nanogenerator Assisted by Deep Learning for Self-Powered Vibration Monitoring. Small, 2307680.
-5.	Huang, Y.; **Du, T. \***; Xiang, C.; Zhang, Y.; Si, J.; Yu, H.; Yuan, H.; Sun, P. *; Xu, M. * Research Progress of Acoustic Energy Harvesters Based on Nanogenerators. International Journal of Energy Research 2023, 5568046
-6.	Xin, Y.; **Du, T.\***; Liu, T.; Sun, P.; Zhu, M.; Zheng, L.; Du, H.; Zou, Y.; Xu, M. * Triboelectric nanogenerator embedded cylindrical roller bearing for rotational energy harvesting and self-powered fault diagnosis. Sensors and Actuators A: Physical 2023, 362, 114664.
-7.	Liu, B.; **Du, T. \***; Xu, X.; Liu, J.; Zhu, P.; Guo, L.; Li, Y.; Wang, T.; Zou, Y.; Wang, H.; Xu, P. *; Sun, P.; Xu, M. *An Underwater Triboelectric Biomechanical Energy Harvester to Power the Electronic Tag of Marine Life. J. Mar. Sci. Eng. 2023, 11, 1766.
-8.	Y. Zou, J. Wang, Z. Hu, M. Sun, J. Liu, **T. Du\***, P. Sun*, M. Xu*, Advances in Triboelectric Flow Sensor. Adv. Mater. Technol. 2023, 8, 2300316
-9.	**Du, T**.; Dong, F.; Xi, Z.; Zhu, M.; Zou, Y. *; Sun, P. *; Xu, M. *; Recent Advances in Mechanical Vibration Energy Harvesters Based on Triboelectric Nanogenerators, Small, 2023, 19, 2300401. 
-10.	**Du, T**.; Dong, F. Xu, R.; Zou, Y.; Wang, H.; Jiang, X.; Xi, Z..; Yuan, H.; Zhang, Y. ; Sun, P.; Xu, M. *, A Drill Pipe-Embedded Vibration Energy Harvester and Self-Powered Sensor Based on Annular Type Triboelectric Nanogenerator for Measurement while Drilling System. Advanced Materials Technologies, 9.
-11.	Yu, H.; Xi, Z.; Zhang, Y.; Xu, R.; Zhao, C.; Wang, Y.; Guo, X.; Huang, Y.; Mi, J. ;Lin, Y. ;**Du, T.\***; Xu, M.* High performance additional mass enhanced film structure triboelectric nanogenerator for scavenging vibration energy in broadband frequency range. Nano Energy 2023, 107, 10.
-12.	**Du, T.**; Dong, F.; Zhu, M.; Xi, Z.; Li, F.; Zou, Y. *; Sun, P. *; Xu, M. *; Self-Powered and Robust Marine Exhaust Gas Flow Sensor Based on Bearing Type Triboelectric Nanogenerator, Journal of Marine Science and Engineering, 2022, 10(10),1416.
-13.	**Du, T.**; Ge, B.; Mtui, A.E.; Zhao, C.; Dong, F.; Zou, Y.; Wang, H.; Sun, P*.; Xu, M*. A Robust Silicone Rubber Strip-Based Triboelectric Nanogenerator for Vibration Energy Harvesting and Multi-Functional Self-Powered Sensing. Nanomaterials 2022, 12, 1248.
-14.	**Du, T.**; Zuo, X.; Dong, F.; Li, S.; Mtui, A.E.; Zou, Y.; Zhang, P.; Zhao, J.; Zhang, Y.; Sun, P.; Xu, M.* A Self-Powered and Highly Accurate Vibration Sensor Based on Bouncing-Ball Triboelectric Nanogenerator for Intelligent Ship Machinery Monitoring. Micromachines 2021, 12, 218.
-15.	Zou, Y.; Sun, M.; Xu W.; Zhao X.; **Du, T.\***; Sun, P. *; Xu, M. Advances in Marine Self-powered Vibration Sensor Based on Triboelectric Nanogenerator, Journal of Marine Science and Engineering，2022, 10(10),1348.
-16.	邹永久; **杜太利**; 姜兴家; 张跃文*; 基于AEC模型的船舶燃油供给系统状态评估,中国舰船研究, 2021, 16(1): 175-180.
-17.	高梓博; **杜太利\***; 张勇; 黄连忠; 聚类算法在船舶能效数据挖掘中的应用, 武汉理工大学学报(交通科学与工程版), 2019, 43(2): 286-290.
+> 近3年主要学术论文
+
+- [1]	Du, T.; Chen, Z.; Dong, F.; Cai, H.; Zou, Y. *; Zhang, Y.; Sun, P.; Xu, M. * Advances in Green Triboelectric Nanogenerators. Advanced Functional Materials 2024 34(24), 202313794 
+- [2]	Yu, H.; Xi, Z.; Du, H.; Yang, H.; Qian, Z.; Guo, X.; Guo, Y.; Huang, Y.; Du, T. *; Xu, M. * High Performance and Stackable Trampoline Like-Triboelectric Vibration Energy Harvester for In-Situ Powering Sensor Node with Data Wirelessly Transmitted Over 1000-m. Advanced Energy Materials 2024, 202400585
+- [3]	Zou, Y.; Sun, M.; Zhang, X.; Wang, J.; Li, F.; Dong, F.; Zhao, Z.; Du, T. *; Ji, Y.; Sun, P.; Xu, M. * A Flexible, Adaptive, and Self-Powered Triboelectric Vibration Sensor with Conductive Sponge-Silicone for Machinery Condition Monitoring. Small 2024, 202309759
+- [4]	Xi, Z.; Yu, H.; Du, H.; Yang, H.; Wang, Y.; Guan, M.; Wang, Z.; Wang, H.; Du, T. *; Xu. M. * High Performance Magnetic Mass-Enhanced Triboelectric-Electromagnetic Hybrid Vibration Energy Harvester Enabling Totally Self-Powered Long-Distance Wireless Sensing. Advanced Materials Technologies 2024, 202400451
+- [5]	Lin, Y.; Sun, M.; Li, F.; Wang, J.; Zhang, X.; Guo, X.; Zhang, Y.; Ding, Y.; Du, T. *; Si, J. *; Xu, M. * A triboelectric smart carpet with an optimized braided structure for cruise ship monitoring enabled by deep learning. Materials Today Communications 2024, 38, 108184
+- [6]	Zou, Y.; Sun, M.; Li, S.; Zhang, X.; Feng, L.; Wang, Y.; Du, T. *; Ji, Y.; Sun, P.; Xu, M. * Advances in Self-powered Triboelectric Sensor toward Marine IoT. Nano Energy 2024, 122, 109316
+- [7]	Guo, L.; Liu, J.; Wu, G.; Xu, P.; Wang S.; Liu, B.; Li, Y.; Guan, T.; Wang H.; Si, J. *; Du, T. *; Xu, M. *; Piezoelectric wavy whisker sensor for perceiving underwater vortex from a bluff body. Sensors and Actuators A-Physical 2024, 365, 114875.
+- [8]	Dong, F.; Yang, H.; Du, H.; Zhu, M.; Xi, Z.; Wang, Y.; Du, T. *; Xu, M. * Triboelectric nanogenerator-embedded intelligent bearing with rolling ball defect diagnosis via signal decomposition and automated machine learning. Nano Energy 2024, 119, 109072.
+- [9]	Zhao, C.; Du, T. *; Ge, B.; Xi, Z.; Qian, Z.; Wang, Y.; Wang, J.; Dong, F.; Shen, D.; Zhan, Z.; Xu, M. * Coaxial Flexible Fiber-Shaped Triboelectric Nanogenerator Assisted by Deep Learning for Self-Powered Vibration Monitoring. Small, 2307680.
+- [10]	Huang, Y.; Du, T. *; Xiang, C.; Zhang, Y.; Si, J.; Yu, H.; Yuan, H.; Sun, P. *; Xu, M. * Research Progress of Acoustic Energy Harvesters Based on Nanogenerators. International Journal of Energy Research 2023, 5568046
+- [11]	Xin, Y.; Du, T. *; Liu, T.; Sun, P.; Zhu, M.; Zheng, L.; Du, H.; Zou, Y.; Xu, M. * Triboelectric nanogenerator embedded cylindrical roller bearing for rotational energy harvesting and self-powered fault diagnosis. Sensors and Actuators A: Physical 2023, 362, 114664.
+- [12]	Y. Zou, J. Wang, Z. Hu, M. Sun, J. Liu, T. Du*, P. Sun*, M. Xu*, Advances in Triboelectric Flow Sensor. Adv. Mater. Technol. 2023, 8, 2300316
+- [13]	Du, T.; Dong, F.; Xi, Z.; Zhu, M.; Zou, Y. *; Sun, P. *; Xu, M. *; Recent Advances in Mechanical Vibration Energy Harvesters Based on Triboelectric Nanogenerators, Small, 2023, 19, 2300401. 
+- [14]	Du, T.; Dong, F. Xu, R.; Zou, Y.; Wang, H.; Jiang, X.; Xi, Z..; Yuan, H.; Zhang, Y. ; Sun, P.; Xu, M. *, A Drill Pipe-Embedded Vibration Energy Harvester and Self-Powered Sensor Based on Annular Type Triboelectric Nanogenerator for Measurement while Drilling System. Advanced Materials Technologies, 9.
+- [15]	Yu, H.; Xi, Z.; Zhang, Y.; Xu, R.; Zhao, C.; Wang, Y.; Guo, X.; Huang, Y.; Mi, J. ;Lin, Y. ;Du, T.*; Xu, M.* High performance additional mass enhanced film structure triboelectric nanogenerator for scavenging vibration energy in broadband frequency range. Nano Energy 2023, 107, 10.
 
 > 学术兼职
 
-- 担任Nature Communications、Ocean Engineering、Advanced Materials Technologies、Materials Today Chemisty、中国舰船研究等期刊审稿人
+- 担任Nature Communications、Ocean Engineering、Advanced Functional Materials、Advanced Materials Technologies、Materials Today Chemisty及中国舰船研究等期刊审稿人
 
 > 教学情况
 

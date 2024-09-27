@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Junhao Zhao
-position: Associate Professor
+position:  Professor
 handle: Zhao
 email: haoger@dlmu.edu.cn
 twitter: 
@@ -12,7 +12,7 @@ image: /images/team/zhaojunhao.png
 cv: 
 ---
 
-- 赵俊豪，副教授，远洋船舶大管轮，硕士生导师，现任大连海事大学教务处副处长。
+- 赵俊豪，教授，远洋船舶大管轮，硕士生导师，现任大连海事大学教务处副处长。
 
 > 教育经历：
 
