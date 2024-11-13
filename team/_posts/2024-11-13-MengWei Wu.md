@@ -38,16 +38,16 @@ cv:
 > 科研成果：
 
 - Wu M, Zhu C, Liu X, et al. Materials Today Energy, 2024, 101529.                          
-Wu M, Zhu C, Si J, et al. Advanced Materials Technologies, 2023, 8(19): 2300919.4            
-Wu M, Xu M, Mi J, Deo R.C. International Journal of Heat and Fluid Flow, 2020, 82, 108532.    
-Wu M, Li C, Zhu C, et al. Experiments in Fluids, 2022, 63(5): 81.                            
-Mi J, Wu M, Xu M. Physics of Fluids, 2023, 35(7).          (导师一作)
-Xu M, Wu M, Mi J. Experimental Thermal and Fluid Science, 2019, 106: 226-233.  (导师一作)
-Zhang W*, Wu M*, Zhang Y, et al. Advanced Materials. 2024, 2313267.(*共一，下同)
-Zhu C*, Wu M*, Liu C*, et al. Advanced Energy Materials, 2023, 13(37): 2301665. 
-Zhao T*, Xu Y*, Wu M*, et al. Nano Letters, 2024, 24(4), 1385-1391. 
-Wang X*, Zhu C*, Wu M*, et al. Sensors and Actuators A: Physical, 2022, 344: 113727.
-吴梦维，徐敏义，米建春. 实验流体力学, 2023, 37(4): 1-17.
+- Wu M, Zhu C, Si J, et al. Advanced Materials Technologies, 2023, 8(19): 2300919.4            
+- Wu M, Xu M, Mi J, Deo R.C. International Journal of Heat and Fluid Flow, 2020, 82, 108532.    
+- Wu M, Li C, Zhu C, et al. Experiments in Fluids, 2022, 63(5): 81.                            
+- Mi J, Wu M, Xu M. Physics of Fluids, 2023, 35(7).          (导师一作)
+- Xu M, Wu M, Mi J. Experimental Thermal and Fluid Science, 2019, 106: 226-233.  (导师一作)
+- Zhang W*, Wu M*, Zhang Y, et al. Advanced Materials. 2024, 2313267.(*共一，下同)
+- Zhu C*, Wu M*, Liu C*, et al. Advanced Energy Materials, 2023, 13(37): 2301665. 
+- Zhao T*, Xu Y*, Wu M*, et al. Nano Letters, 2024, 24(4), 1385-1391. 
+- Wang X*, Zhu C*, Wu M*, et al. Sensors and Actuators A: Physical, 2022, 344: 113727.
+- 吴梦维，徐敏义，米建春. 实验流体力学, 2023, 37(4): 1-17.
 
 
 > 荣誉奖励：
