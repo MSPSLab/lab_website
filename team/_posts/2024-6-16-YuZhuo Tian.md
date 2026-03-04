@@ -3,7 +3,7 @@ layout: member
 title: YuZhuo Tian
 position: Master degree candidate
 handle: Tian
-email: 
+email: tianyuzhuo@dlmu.edu.cn
 twitter: 
 github: 
 scholar:
@@ -43,3 +43,7 @@ cv:
 10. 2023年吉林建筑大学双创之星（全院仅一人）
 11. 2021年、2022年吉林建筑大学优秀青马会员
 12. 2021年吉林建筑大学优秀团员
+
+> 主要研究方向
+
+- 海流能收集、压电纳米发电

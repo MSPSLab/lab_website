@@ -3,7 +3,7 @@ layout: member
 title: YongKang Wu
 position: Master degree candidate
 handle: Wu
-email: 
+email: 1817934745@qq.com
 twitter: 
 github: 
 scholar:
@@ -16,6 +16,7 @@ cv:
 > 教育经历
 
 - 2019.9-2023.6 重庆交通大学 船舶电子电气工程 学士
+- 2024年9月-2027年6月 大连海事大学船舶工程(硕士研究生)
 
 > 工作经历
 
@@ -25,3 +26,7 @@ cv:
 
 1. 重庆交通大学2023届优秀毕业生
 2. 第九届“大唐杯”全国大学生移动通信5G技术大赛重庆赛区本科A组二等奖
+
+> 主要研究方向
+
+- 甲醇燃烧机理

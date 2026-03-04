@@ -3,7 +3,7 @@ layout: member
 title: ChangYu Ma
 position: Master degree candidate
 handle: Ma
-email: 
+email: machangyu@dlmu.edu.cn
 twitter: 
 github: 
 scholar:
@@ -15,9 +15,9 @@ cv:
 
 > 教育经历
 
-- 2020.9-2024.6 大连海事大学 轮机工程 学士
-- 2024.8-至今 大连海事大学 硕士研究生
+- 2020年9月-2024年7月 大连海事大学轮机工程(本科)
+- 2024年9月-至今 大连海事大学轮机工程(硕士研究生)
 
-> 荣誉
+> 主要研究方向
 
-1. 大连海事大学学习进步奖
+- 电磁-TENG混合振动能发电
