@@ -2,7 +2,7 @@
 layout: member
 title: Liguo Song
 handle: Song
-position: Associate Professor
+position: Professor
 email: songliguo@dlmu.edu.cn
 github: 
 scholar: 

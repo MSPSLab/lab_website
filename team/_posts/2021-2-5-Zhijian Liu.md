@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Zhijian Liu
-position: Associate Professor
+position: Professor
 handle: Liu
 email: liuzhijian@dlmu.edu.cn
 twitter: 

@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Siyuan Wang
-position: Prior member
+position: Lecturer
 handle: Wang
 email: 
 twitter: 

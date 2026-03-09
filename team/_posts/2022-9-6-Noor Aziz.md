@@ -12,22 +12,26 @@ image: /images/team/Noor.png
 cv: 
 ---
 
-> Main Education Experience
+> 教育经历:
 
-- 2016 – 2018 Master’s in Science (MSc)  Bahria university Islamabad, Pakistan. Master’s in electrical engineering (CGPA 3.55/4) 
-- 2010 – 2014 Bachelor’s in Engineering (BE)  Bahria university Islamabad, Pakistan. Bachelor’s in electrical engineering (CGPA 3.33/4)
+- 2010.09—2014.06 Bahria University Islamabad, Pakistan （本科）
+- 2016.09—2019.01 Bahria University Islamabad, Pakistan （硕士研究生）
+- 2022.09-至今    大连海事大学轮机工程 （博士研究生）
 
-> Working Experience
+> 荣誉奖项:
 
-- Aug 2014 - present. Lecturer at Electrical Engineering Department.  Bahria University Islamabad, Pakistan.
-- March 2015 - Aug 2020. Student Advisor. Bahria University Islamabad, Pakistan.
+- 2nd Prize -Best Performance Award autumn semester of year 2024 at Dalian Maritime University
+- Merit Scholarship holder at Bachelor and Master Degree 
+- Name listed in the Rector Honor List of Bahria University Islamabad, Pakistan, for recognizing higher academic achievement
+- Awarded Laptop as appreciation from Prime Minister of Pakistan to recognize my academic achievements.
 
-> Research Achievements/publications
+> 主要研究方向:
 
-- Vehicle to Grid (V2G) for Peak Shaving: New Trend, Benefits, and Issues.https://ijccn.com/index.php/IJCCN/article/view/21
+- Self-Powered Sensors
+- Triboelectric nanogenerator (TENG)- based tactile sensors for robotics applications 
+- Deep learning algorithms for sensors and robotics applications 
+- TENG-based sensors for underwater applications
 
-> Awards and Achievements
+> 目前所处年级:
 
-- Rector’s Honor List on securing CGPA above 3.5 in MS Level and UG Level.
-- Certificate of Achievement: arranging International Conference on Communication, Computing and Digital System(C-CODE) in March 2019.
-- Merit Scholarship Holder at undergraduate and MS Level
+- 博士四年级
