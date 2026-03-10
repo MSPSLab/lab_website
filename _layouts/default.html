@@ -61,19 +61,21 @@
 	<div id="header">
     <nav class="navbar navbar-default navbar-static-top" role="navigation">
         <div class="col-md-12 col-xs-12 headerimg"
-            style="display: flex; padding-top: 15px; align-items: center; flex-direction: column; background: white; width: 100%; background-image: url('https://images.pexels.com/photos/1350197/pexels-photo-1350197.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500'); background-attachment: fixed; background-position: center 0; background-repeat: no-repeat; background-size: cover;">
+            style="display: flex; padding-top: 15px; align-items: center; justify-content: center; flex-direction: column; background: white; width: 100%; background-image: url('https://images.pexels.com/photos/1350197/pexels-photo-1350197.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500'); background-attachment: fixed; background-position: center 0; background-repeat: no-repeat; background-size: cover;">
             
-            <!-- 标题容器：两行独立控制 -->
-            <div class="title-container" style="text-align: center; margin: 20px 0;">
+            <!-- 标题容器 -->
+            <div class="title-container" style="text-align: center; margin: 20px 0; width: 100%;">
                 <!-- 第一行：大连海事大学 -->
                 <p class="university-name" style="
                     font-size: clamp(1.5rem, 4vw, 2.5rem); 
                     color: #FFFFFF; 
-                    margin: 0 0 10px 0;
+                    margin: 0 auto 10px auto;  /* 左右margin auto实现居中 */
                     font-weight: 700;
                     letter-spacing: 0.1em;
                     text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
-                    font-family: 'Microsoft YaHei', 'SimHei', sans-serif;">
+                    font-family: 'Microsoft YaHei', 'SimHei', sans-serif;
+                    text-align: center;  /* 文字居中 */
+                    width: fit-content;  /* 宽度适应内容 */">
                     大连海事大学
                 </p>
                 
@@ -81,14 +83,19 @@
                 <p class="team-name" style="
                     font-size: clamp(1.2rem, 3vw, 2rem); 
                     color: #FFFFFF; 
-                    margin: 0;
+                    margin: 0 auto;
                     font-weight: 500;
                     letter-spacing: 0.05em;
                     text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
-                    font-family: 'Microsoft YaHei', 'SimHei', sans-serif;">
+                    font-family: 'Microsoft YaHei', 'SimHei', sans-serif;
+                    text-align: center;
+                    width: fit-content;">
                     船海装备智能感知与敏捷保障研究团队
                 </p>
             </div>
+        </div>
+    </nav>
+</div>
 
             <button type="button" class="navbar-toggle-small collapsed" data-toggle="collapse"
                 data-target="#navbar-collapse-element" aria-expanded="false" 
