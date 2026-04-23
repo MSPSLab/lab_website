@@ -1,0 +1,20 @@
+---
+layout: paper
+title: " Automated Machine Learning-Based Significant Wave Height Prediction for Marine Operations"
+image: "/lab_images/papers/jmse-13-01476-g001-550.jpg"
+authors: Yuan Zhang,Hao Wang,*ORCID,Bo Wu,Jiajing Sun,Mingli Fan,Shu Dai,Hengyi Yang,* and Minyi Xu
+year: 2025
+ref: "Yuan Zhang. et al. 2025. Journal of Marine Science and Engineering."
+journal: "Journal of Marine Science and Engineering"
+pdf: "/pdfs/（2025-07）Yuan Zhang. et al. 2025. Journal of Marine Science and Engineering. Automated Machine Learning-Based Significant Wave Height Prediction for Marine Operations.pdf"
+doi: 10.3390/jmse13081476
+type: journal
+---
+
+# Abstract
+
+
+Determining/predicting the environment dominates a variety of marine operations, such as route planning and offshore installation. Significant wave height (Hs) is a critical parameter-defining wave, a dominating marine load. Data-driven machine learning methods have been increasingly applied to Hs prediction, but challenges remain in hyperparameter tuning and spatial generalization. This study explores a novel effective approach for intelligent Hs forecasting for marine operations. Multiple automated machine learning (AutoML) frameworks, namely H2O, PyCaret, AutoGluon, and TPOT, have been systematically evaluated on buoy-based Hs prediction tasks, which reveal their advantages and limitations under various forecast horizons and data quality scenarios. The results indicate that PyCaret achieves superior accuracy in short-term forecasts, while AutoGluon demonstrates better robustness in medium-term and long-term predictions. To address the limitations of single-point prediction models, which often exhibit high dependence on localized data and limited spatial generalization, a multi-point data fusion framework incorporating Principal Component Analysis (PCA) is proposed. The framework utilizes Hs data from two stations near the California coast to predict Hs at another adjacent station. The results indicate that it is possible to realize cross-station predictions based on the data from adjacent (high relevance) stations.
+
+
+

@@ -2,7 +2,7 @@
 layout: paper
 title: "Machine learning-enabled triboelectric nanogenerator for self-poweredcondition monitoring and regulation of USV-ROV umbilical cable"
 image: "/lab_images/papers/0307-7.png"
-authors: Yan Yang, Xingjia Jiang£¬Hengxu Du, Fangyang Dong, Mengwei Wu, Qiang Zhao£¬Taili Du, Minyi Xu
+authors: Yan Yang, Xingjia JiangHengxu Du, Fangyang Dong, Mengwei Wu, Qiang ZhaoTaili Du, Minyi Xu
 year: 2025
 ref: "Yan Yang. et al. 2025. Sensors and Actuators: A. Physical."
 journal: "Sensors and Actuators: A. Physical"

@@ -1,0 +1,20 @@
+---
+layout: paper
+title: "Highly Adaptive and Sustainable Oil Purification Driven by Triboelectric"
+image: "/lab_images/papers/250705001.jpg"
+authors: Xingfu Wan, Minzheng Sun, Zongchen Su, Fangming Li,* and Minyi Xu*
+year: 2025
+ref: "Xingfu Wan. et al. 2025. Advanced Materials Technologies."
+journal: "Advanced Materials Technologies"
+pdf: "/pdfs/（2025-07）Xingfu Wan. et al. 2025. Advanced Materials Technologies.  Highly Adaptive and Sustainable Oil Purification Driven by Triboelectric.pdf"
+doi: 10.1002/admt.202401773
+type: journal
+---
+
+# Abstract
+
+
+Oil contamination poses a critical challenge in mechanical systems, leading to significant degradation in oil performance, and adversely affecting machinery operation and longevity. This study introduces an innovative electrostatic oil purification method based on a freestanding rotary triboelectric nanogenerator (FR-TENG). By harnessing ambient mechanical energy, the FR-TENG generates a high-voltage electric field, which induces electrostatic forces on solid contaminants, causing them to migrate and adhere to the dust collector. Multi-physics simulations are utilized to investigate the purification dynamics and explore the underlying mechanisms, providing a comprehensive understanding of the process. Experiments further confirm that this method is highly effective in removing solid particles from oil with high moisture content while dehydrating the oil. Compared to traditional electrostatic purification methods, which require moisture levels below 1000 ppm, the method maintains high purification efficiency even with oil containing up to 10% moisture content, extending the permissible moisture limit by nearly 100-fold. These findings highlight the significant potential of this highly adaptive and sustainable technique for oil purification, allowing for simultaneous efficient particle purification and dehydration even in scenarios with high moisture contamination. Thus paving the way for broader applications of TENG technology in industrial oil treatment.
+
+
+

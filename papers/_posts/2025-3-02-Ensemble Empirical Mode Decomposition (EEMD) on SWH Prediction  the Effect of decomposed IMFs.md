@@ -1,0 +1,20 @@
+---
+layout: paper
+title: "Ensemble-Empirical-Mode-Decomposition (EEMD) on SWH Prediction  the Effect of decomposed IMFs, Continuous Prediction Duration, and Data-driven Models"
+image: "/lab_images/papers/202503004.jpg"
+authors: Yuanye Guo, Jicang Si,* , Yulian Wang, Farhan Hanif, Shuang Li, Mengwei Wu,**, Minyi Xu,***, Jianchun Mi
+year: 2025
+ref: "Yuanye Guo. et al. 2025. Ocean Engineering."
+journal: "Ocean Engineering"
+pdf: "/pdfs/（2025-03）Yuanye Guo. et al. 2025. Ocean Engineering. Ensemble-Empirical-Mode-Decomposition (EEMD) on SWH Prediction  the Effect of decomposed IMFs, Continuous Prediction Duration, and Data-driven Models.pdf"
+doi: 10.1016/j.oceaneng.2025.120755
+type: journal
+---
+
+# Abstract
+
+
+This paper systematically investigates the impact of key factors on predicting significant wave height (SWH) using Ensemble Empirical Mode Decomposition (EEMD), specifically examining the number of decomposed Intrinsic Mode Functions (IMFs), the duration of continuous predictions, and the selection of data-driven models. Buoy data from Santa Monica Bay, California, is utilized. The findings reveal a significant improvement in prediction accuracy when EEMD is applied before using Support Vector Regression (SVR) and Artificial Neural Network (ANN) model, while improvements with Long Short-Term Memory (LSTM) networks are less pronounced. The study also determines the optimal number of intrinsic mode functions (IMFs) in EEMD decomposition necessary to balance predicting accuracy against computational cost, with RMSE values varying significantly based on the number of IMFs. Furthermore, the analysis indicates that increasing the length of continuous prediction steps leads to significant error accumulation, with the ANN model showing the slowest rate of error increase among the models tested. The results highlight the importance of optimizing model configurations to enhance predictive accuracy while managing computational demands.
+
+
+
